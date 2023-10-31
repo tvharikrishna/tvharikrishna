@@ -1,6 +1,6 @@
 # 🤖 𝗛𝗲𝗹𝗹𝗼, 𝗿𝗼𝗯𝗼𝘁𝗶𝗰𝘀 𝗲𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁𝘀!, I’m T V Hari Krishna (HK) 
 
-### Welcome to my GitHub page where I share my passion and projects related and not limited to under following categories:
+### Welcome to my GitHub page, where I enthusiastically share projects and passions that span a diverse range of categories, not limited to the ones listed below:
 #### 1️⃣ Robotics Projects ➔ ROS1 Framework 
     ✔ Simulation Robots  ✔  F1Tenth Racecar  ✔  Path & Motion Planning Algorithms  ✔  Map Generation  ✔  Sensor Fusion
 #### 2️⃣ Carla Simulator Projects
