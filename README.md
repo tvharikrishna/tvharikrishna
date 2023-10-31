@@ -2,17 +2,11 @@
 
 ### Welcome to my GitHub page, where I enthusiastically share projects and passions that span a diverse range of categories, not limited to the ones listed below:
 #### 1️⃣ Robotics Projects ➔ ROS1 Framework 
-    ✔ Simulation Robots  ✔  F1Tenth Racecar  ✔  Path & Motion Planning Algorithms  ✔  Map Generation  ✔  Sensor Fusion
 #### 2️⃣ Carla Simulator Projects
-    ✔ AV Basic Projects in CarlaSim  ✔  Vehicle Saftey  ✔  Motion Planning  ✔  AV Sensors  ✔  Machine Perception using AI
 #### 3️⃣ Computer Vision and Image Processing using OpenCV Projects
-    ✔ CVIP  ✔  Stereo Vision  ✔  Object Detection  ✔  Marker Recognition 
 #### 4️⃣ 3D Reconstruction 
-    ✔  Point Clouds  ✔ Structure from Motion  
 #### 5️⃣ Projects on HK_Bot ➔ Custom Made Robot by myself
-    ✔ Projects Related to ROS but perform on Real Robot powered  by Jetson Nano
 #### 6️⃣ Machine Perception using Artificial Neural Networks 
-    ✔ Single Stage Detectors  ✔  Double Stage Detectors  ✔  Vision Segementation  ✔  Optical Flow Estimation 
 
 ### What You'll Find in This GitHub Account:
 Here, you'll come across a variety of repositories that include projects on the CARLA simulator, HK_Bot (my own robot), Robotics in ROS, Vision using AI and point clouds, and much more. Each project follows a proper naming convention where the first word indicates the category of the project and the next word, following an underscore, denotes the name of the project within that category. 
