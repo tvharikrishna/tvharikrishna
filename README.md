@@ -9,7 +9,7 @@
 #### 6️⃣ Machine Perception using Artificial Neural Networks 
 
 ### What You'll Find in This GitHub Account:
-Here, you'll come across a variety of repositories that include projects on the CARLA simulator, HK_Bot (my own robot), Robotics in ROS, Vision using AI and point clouds, and much more. Each project follows a proper naming convention where the first word indicates the category of the project and the next word, following an underscore, denotes the name of the project within that category. 
+Here, you'll come across a variety of repositories that include projects on the **🚗 CARLA simulator**, **🦾HK_Bot** (my own robot), **🤖 Robotics in ROS**, **👀 Vision using AI** and **🌟 point clouds**, and much more. Each project follows a **⚠️ proper naming convention** where the **first word indicates the category of the project** and the next word, **following an underscore**, denotes the **name of the project** within that category. 
 
 #### Categories and Their Respective Projects Naming Conventions that starts with:
 
@@ -33,4 +33,4 @@ _Happy coding!_ 🚀🤖
 
 ### Connect with me:
 
-[LinkedIn](#) | [Twitter](#) | [Personal Website](#)
+[LinkedIn](#) | [Personal Website](#)
