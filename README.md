@@ -13,17 +13,17 @@ Here, you'll come across a variety of repositories that include projects on the 
 
 #### Categories and Their Respective Projects Naming Conventions that starts with:
 
-- **CarlaSim_**  »»-----------►  Self-Driving Car Simulator projects on the CARLA Simulator.
+- **CarlaSim_**     »»-----------► Projects on **Self-Driving Cars** using **Carla Simulator**.
 
-- **ROSRobotics_** »»-----------► Projects on Robotics using the ROS Framework.
+- **ROSRobotics_**  »»-----------► Projects on **Robotics** using the **ROS** Framework.
 
-- **PointClouds_**  »»-----------►  Projects solely related to Point Clouds.
+- **PointClouds_**  »»-----------► Projects solely related to **Point Clouds and 3D Reconstruction**.
 
-- **OpenCV_** »»-----------► Projects that are related to OpenCV.
+- **OpenCV_**       »»-----------► Projects that are related to **Computer Vision using OpenCV**.
     
-- **VisionAI_** »»-----------► Projects that involve the use of Artificial Intelligence in Computer Vision.
+- **VisionAI_**     »»-----------► Projects that involve the use of **Artificial Intelligence in Computer Vision**.
 
-- **HKBOT_** »»-----------► Projects related to hands-on robotics.
+- **HKBOT_**        »»-----------► Projects related to **hands-on robotics**.
 
 Feel free to explore these repositories to get a glimpse of my work and interests in the field of robotics and AI. Each project is a testament to my dedication and enthusiasm in this domain.
 
