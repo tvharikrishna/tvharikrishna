@@ -1,12 +1,12 @@
 # 🤖 𝗛𝗲𝗹𝗹𝗼, R𝗼𝗯𝗼𝘁𝗶𝗰𝘀 E𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁𝘀!, I’m T V Hari Krishna (HK) 
 
-### Welcome to my GitHub page, where I enthusiastically share projects and passions that span a diverse range of categories, not limited to the ones listed below:
-#### 1️⃣ Robotics Projects ➔ ROS1 Framework 
-#### 2️⃣ Carla Simulator Projects
-#### 3️⃣ Computer Vision and Image Processing using OpenCV Projects
-#### 4️⃣ 3D Reconstruction 
-#### 5️⃣ Projects on HK_Bot ➔ Custom Made Robot by myself
-#### 6️⃣ Machine Perception using Artificial Neural Networks 
+## Welcome to my GitHub page, where I enthusiastically share projects and passions that span a diverse range of categories, not limited to the ones listed below:
+### 1️⃣ Robotics Projects ➔ ROS1 Framework 
+### 2️⃣ Carla Simulator Projects
+### 3️⃣ Computer Vision and Image Processing using OpenCV Projects
+### 4️⃣ 3D Reconstruction 
+### 5️⃣ Projects on HK_Bot ➔ Custom Made Robot by myself
+### 6️⃣ Machine Perception using Artificial Neural Networks 
 
 ### What You'll Find in This GitHub Account:
 Here, you'll come across a variety of repositories that include projects on the **🚗 CARLA simulator**, **🦾HK_Bot** (my own robot), **🤖 Robotics in ROS**, **👀 Vision using AI** and **🌟 point clouds**, and much more. Each project follows a **⚠️ proper naming convention** where the **first word indicates the category of the project** and the next word, **following an underscore**, denotes the **name of the project** within that category. 
