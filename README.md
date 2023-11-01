@@ -15,15 +15,15 @@ Here, you'll discover a variety of repositories featuring projects on **🚗 CAR
 
 - **CarlaSim_**     »»-----------► Projects on **Self-Driving Cars** using the **Carla Simulator**.
 
-- **ROSRobotics_**  »»-----------► Projects on **Robotics** utilizing the **ROS** Framework.
+- **ROSRobotics_**  »»-----------► Projects on **Robotics / Robotics Simulations** utilizing the **ROS** Framework.
 
 - **PointClouds_**  »»-----------► Projects focused on **Point Clouds and 3D Reconstruction**.
 
-- **OpenCV_**       »»-----------► Projects centered around **Computer Vision using OpenCV**.
+- **OpenCV_**       »»-----------► Projects centered around **Computer Vision and Image Processing using OpenCV**.
     
-- **VisionAI_**     »»-----------► Projects involving **Artificial Intelligence in Computer Vision**.
+- **VisionAI_**     »»-----------► Projects involving **Computer Vision using Artificial intelligence (Neural Networks)**.
 
-- **HKBOT_**        »»-----------► Projects related to **hands-on robotics**.
+- **HKBOT_**        »»-----------► Projects related to **Hands-on Robot**.
 
 - **AIAGENTS_**     »»-----------► Projects on **Training Reinforcement Learning Agents** in **Unity/UE5**
 
