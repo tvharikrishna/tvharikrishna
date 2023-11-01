@@ -25,7 +25,7 @@ Here, you'll come across a variety of repositories that include projects on the 
 
 - **HKBOT_**        »»-----------► Projects related to **hands-on robotics**.
 
--**AIAGENTS_** »»-----------► Projects related to **Training a RL Agents** in **Unity/UE5**
+- **AIAGENTS_** »»-----------► Projects related to **Training a RL Agents** in **Unity/UE5**
 
 Feel free to explore these repositories to get a glimpse of my work and interests in the field of robotics and AI. Each project is a testament to my dedication and enthusiasm in this domain.
 
