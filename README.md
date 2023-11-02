@@ -1,4 +1,4 @@
-<h1 style="color: black;">🤖 𝗛𝗲𝗹𝗹𝗼, 𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁𝘀! 𝗜'𝗺 𝗧 𝗩 𝗛𝗮𝗿𝗶 𝗞𝗿𝗶𝘀𝗵𝗻𝗮 (𝗛𝗞</h1>
+<h1 style="color: black;">🤖 𝗛𝗲𝗹𝗹𝗼, 𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁𝘀! 𝗜'𝗺 𝗧 𝗩 𝗛𝗮𝗿𝗶 𝗞𝗿𝗶𝘀𝗵𝗻𝗮 (𝗛𝗞)</h1>
 
 ![Alt text for your image](LinedIN_Cover_picture_V4_GitHub.png)
 
@@ -6,26 +6,25 @@
                 
     🤖 𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀 𝗦𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻𝘀          🚆 Autonomous Robots           🚗 Autonomous Vechicles           🚧 Computer Vision 
     
-          🌜HK_Bot                🧠 Machine Vision w/ AI           🌐 3D Reconstruction          🛩️ RL Agents Animation
+          🌜HK_Bot                🧠 Machine Vision w/ AI           🗾 3D Reconstruction          🛩️ RL Agents Animation
 
-### About Me <IMAGE>
+### About Me- Image here
 
 ### What You'll Find in This GitHub Account:
-<h1 align="center"> Machine Perception and Autonomous Navigation </h1>
+  <h1 align="center"> 👁️ Machine Perception ☣ Autonomous Navigation 🎢</h1>
+  
+  Ｒｏｂｏｔｉｃｓ　Ｓｉｍｕｌａｔｉｏｎｓ　➙　ＲＯＳ
 
+  𝗔𝘂𝘁𝗼𝗻𝗼𝗺𝗼𝘂𝘀 𝗩𝗲𝗵𝗶𝗰𝗹𝗲𝘀 𝗦𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻𝘀 ➙ ＣＡＲＬＡ   Ｓｉｍｕｌａｔｏｒ
 
-    ➣ I use robotics simulations in ROS for all my robotics projects within the ROS 1 framework. 
+    ➣ I also have a keen interest in major computer vision techniques related to 3D reconstruction, depth estimation, stereo vision, and motion analysis. I utilize both OpenCV and other computer vision libraries for these tasks.
 
-    ➣ For autonomous vehicles, I work with the CARLA simulator, which provides a seamless connection between a real car and a simulated environment. 
+    ➣ I've designed a custom-built robot named HKBOT that operates on the Jetson Nano, where I implement real-time robotics projects. 
 
-➣ I also have a keen interest in major computer vision techniques related to 3D reconstruction, depth estimation, stereo vision, and motion analysis. I utilize both OpenCV and other computer vision libraries for these tasks.
+    ➣ As technology advances, I'm increasingly interested in developing computer vision solutions that leverage AI, utilizing tools like TensorFlow and PyTorch. 
 
-➣ I've designed a custom-built robot named HKBOT that operates on the Jetson Nano, where I implement real-time robotics projects. 
-
-➣ As technology advances, I'm increasingly interested in developing computer vision solutions that leverage AI, utilizing tools like TensorFlow and PyTorch. 
-
-➣ Recently, I've also delved into animating RL agents in game engines like Unreal Engine and Unity.
-
+    ➣ Recently, I've also delved into animating RL agents in game engines like Unreal Engine and Unity.
+ 
 
 #### Categories and Their Respective Project Naming Conventions:
 
