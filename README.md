@@ -1,7 +1,8 @@
-# 🤖 𝗛𝗲𝗹𝗹𝗼, 𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁𝘀! 𝗜'𝗺 𝗧 𝗩 𝗛𝗮𝗿𝗶 𝗞𝗿𝗶𝘀𝗵𝗻𝗮 (𝗛𝗞)
+<h1 style="color: black;">🤖 𝗛𝗲𝗹𝗹𝗼, 𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁𝘀! 𝗜'𝗺 𝗧 𝗩 𝗛𝗮𝗿𝗶 𝗞𝗿𝗶𝘀𝗵𝗻𝗮 (𝗛𝗞)</h1>
 
+![Alt text for your image](LinedIN_Cover_picture_V4_GitHub.png)
 
-## Welcome to my GitHub page, where I passionately share projects spanning a diverse range of categories, including but not limited to:
+<h2 style="color: black;">Welcome to my GitHub page, where I passionately share projects spanning a diverse range of categories, including but not limited to:</h2>
 ## 1️⃣ Robotics Projects ➔ Using the ROS1 Framework 
 ## 2️⃣ Carla Simulator Projects
 ## 3️⃣ Computer Vision and Image Processing Projects Utilizing OpenCV
