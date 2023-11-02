@@ -33,19 +33,7 @@
 
 <h1 align="center">┏ Repository Naming Convention ┓</h1>
 
-- **CarlaSim_**     »»-----------► Projects on **Self-Driving Cars** using the **Carla Simulator**.
-
-- **ROSRobotics_**  »»-----------► Projects on **Robotics / Robotics Simulations** utilizing the **ROS** Framework.
-
-- **PointClouds_**  »»-----------► Projects focused on **Point Clouds and 3D Reconstruction**.
-
-- **OpenCV_**       »»-----------► Projects centered around **Computer Vision and Image Processing using OpenCV**.
-    
-- **VisionAI_**     »»-----------► Projects involving **Computer Vision using Artificial intelligence (Neural Networks)**.
-
-- **HKBOT_**        »»-----------► Projects related to **Hands-on Robot**.
-
-- **AIAGENTS_**     »»-----------► Projects on **Training Reinforcement Learning Agents** in **Unity/UE5**
+![Alt text for your image](repo_naming_table.png)
 
 Feel free to explore these repositories for a glimpse into my work and interests in robotics and AI. Each project reflects my dedication and enthusiasm in this field.
 
