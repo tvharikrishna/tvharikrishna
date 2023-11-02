@@ -1,4 +1,5 @@
-# 🤖 Hello, Robotics Enthusiasts! I'm T V Hari Krishna (HK)
+🤖 Hello, Robotics Enthusiasts! I'm T V Hari Krishna (HK)
+
 
 ## Welcome to my GitHub page, where I passionately share projects spanning a diverse range of categories, including but not limited to:
 ## 1️⃣ Robotics Projects ➔ Using the ROS1 Framework 
