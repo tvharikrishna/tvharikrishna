@@ -4,9 +4,9 @@
 
 <h1 align="center"> 🧠 I concentrate on ⚒ </h1>
                 
-    🤖 𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀 𝗦𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻𝘀          🚆 Autonomous Robots           🚗 Autonomous Vechicles           🚧 Computer Vision 
+    🤖 𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀 𝗦𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻𝘀            🚆 𝗔𝘂𝘁𝗼𝗻𝗼𝗺𝗼𝘂𝘀 𝗥𝗼𝗯𝗼𝘁𝘀              🚗 𝗔𝘂𝘁𝗼𝗻𝗼𝗺𝗼𝘂𝘀 𝗩𝗲𝗰𝗵𝗶𝗰𝗹𝗲𝘀             🚧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧 
     
-          🌜HK_Bot                🧠 Machine Vision w/ AI           🗾 3D Reconstruction          🛩️ RL Agents Animation
+          🌜𝐇𝐊_𝐁𝐨𝐭                 🧠 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐕𝐢𝐬𝐢𝐨𝐧 𝐰/ 𝐀𝐈             🗾 𝟑𝐃 𝐑𝐞𝐜𝐨𝐧𝐬𝐭𝐫𝐮𝐜𝐭𝐢𝐨𝐧            🛩️ 𝐑𝐋 𝐀𝐠𝐞𝐧𝐭𝐬 𝐀𝐧𝐢𝐦𝐚𝐭𝐢𝐨𝐧
 
 ### About Me- Image here
 
