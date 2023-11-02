@@ -13,17 +13,17 @@
 ### What You'll Find in This GitHub Account:
   <h1 align="center"> 👁️ Machine Perception ☣ Autonomous Navigation 🎢</h1>
   
-  Ｒｏｂｏｔｉｃｓ　Ｓｉｍｕｌａｔｉｏｎｓ　➙　ＲＯＳ
+    𝐑𝐨𝐛𝐨𝐭𝐢𝐜𝐬 𝐒𝐢𝐦𝐮𝐥𝐚𝐭𝐢𝐨𝐧𝐬 ➙　ＲＯＳ
 
-  𝗔𝘂𝘁𝗼𝗻𝗼𝗺𝗼𝘂𝘀 𝗩𝗲𝗵𝗶𝗰𝗹𝗲𝘀 𝗦𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻𝘀 ➙ ＣＡＲＬＡ   Ｓｉｍｕｌａｔｏｒ
+    𝗔𝘂𝘁𝗼𝗻𝗼𝗺𝗼𝘂𝘀 𝗩𝗲𝗵𝗶𝗰𝗹𝗲𝘀 𝗦𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻𝘀 ➙ ＣＡＲＬＡ Ｓｉｍｕｌａｔｏｒ  ▐  Ｆ１ Ｔｅｎｔｈ Ｓｉｍｕｌａｔｏｒ
 
-    ➣ I also have a keen interest in major computer vision techniques related to 3D reconstruction, depth estimation, stereo vision, and motion analysis. I utilize both OpenCV and other computer vision libraries for these tasks.
+    𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧 ➙ ３Ｄ Ｒｅｃｏｎｓｔｒｕｃｔｉｏｎ  ▐  Ｄｅｐｔｈ  ▐  Ｐｏｉｎｔ Ｃｌｏｕｄｓ  ▐  Ｏｂｊｅｃｔ Ｄｅｔｅｃｔｉｏｎ  ▐  Ｆｅａｔｕｒｅ Ｅｘｔｒａｃｔｉｏｎ
 
-    ➣ I've designed a custom-built robot named HKBOT that operates on the Jetson Nano, where I implement real-time robotics projects. 
+    𝐇𝐊-𝐁𝐎𝐓 ➙ Ｍｙ Ｍｏｂｉｌｅ Ｒｏｂｏｔ  ▐  ＪｅｔｓｏｎＮａｎｏ
 
-    ➣ As technology advances, I'm increasingly interested in developing computer vision solutions that leverage AI, utilizing tools like TensorFlow and PyTorch. 
+    𝐕𝐢𝐬𝐢𝐨𝐧 𝐀𝐈 ➙ Ｓｔａｔｅ ｏｆ Ａｒｔ  ▐  Ｄｅｅｐ Ｌｅａｒｎｉｎｇ Ｍｏｄｅｌｓ  ▐  Ｎｅｕｒａｌ Ｎｅｔｗｏｒｋｓ
 
-    ➣ Recently, I've also delved into animating RL agents in game engines like Unreal Engine and Unity.
+    𝐑𝐋 𝐀𝐠𝐞𝐧𝐭𝐬 ➙ Ｕｎｒｅａｌ Ｇａｍｅ Ｅｎｇｉｎｅ
  
 
 #### Categories and Their Respective Project Naming Conventions:
