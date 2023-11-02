@@ -33,7 +33,9 @@
 
 <h1 align="center">┏ Repository Naming Convention ┓</h1>
 
-![Alt text for your image](hk_repo_naming.png)
+<p align="center">
+  <img src="hkhk_table.png" alt="Alt text for your image"/>
+</p>
 
 Feel free to explore these repositories for a glimpse into my work and interests in robotics and AI. Each project reflects my dedication and enthusiasm in this field.
 
