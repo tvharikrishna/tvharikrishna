@@ -3,14 +3,11 @@
 ![Alt text for your image](LinedIN_Cover_picture_V4_GitHub.png)
 
 <h1 align="center"> 🧠 I concentrate on ⚒ </h1>
+                
+    🤖 𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀 𝗦𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻𝘀          🚆 Autonomous Robots           🚗 Autonomous Vechicles           🚧 Computer Vision 
+    
+           🌜HK_Bot               🧠 Machine Vision w/ AI           🌐 3D Reconstruction          🛩️ RL Agents Animation
 
-<div align="center">
-  <a href="#carla-simulator">2️⃣ Carla Simulator</a> •
-  <a href="#computer-vision">3️⃣ Computer Vision and Image Processing</a> •
-  <a href="#3d-reconstruction">4️⃣ 3D Reconstruction</a> •
-  <a href="#hk-bot">5️⃣ HK_Bot</a> •
-  <a href="#vision-ai">6️⃣ Vision AI</a>
-</div>
 
 
 
