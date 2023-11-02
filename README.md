@@ -8,11 +8,24 @@
     
           🌜HK_Bot                🧠 Machine Vision w/ AI           🌐 3D Reconstruction          🛩️ RL Agents Animation
 
-
-
+### About Me <IMAGE>
 
 ### What You'll Find in This GitHub Account:
-Here, you'll discover a variety of repositories featuring projects on **🚗 CARLA simulator**, **🦾HK_Bot** (my custom robot), **🤖 Robotics using ROS**, **👀 Vision with AI**, **🌟 Point Clouds**, and much more. Each project adheres to a **⚠️ clear naming convention** where the **first word indicates the category**, and the subsequent word, **following an underscore**, represents the **name of the project** within that category. 
+<h1 align="center"> Machine Perception and Autonomous Navigation </h1>
+
+
+    ➣ I use robotics simulations in ROS for all my robotics projects within the ROS 1 framework. 
+
+    ➣ For autonomous vehicles, I work with the CARLA simulator, which provides a seamless connection between a real car and a simulated environment. 
+
+➣ I also have a keen interest in major computer vision techniques related to 3D reconstruction, depth estimation, stereo vision, and motion analysis. I utilize both OpenCV and other computer vision libraries for these tasks.
+
+➣ I've designed a custom-built robot named HKBOT that operates on the Jetson Nano, where I implement real-time robotics projects. 
+
+➣ As technology advances, I'm increasingly interested in developing computer vision solutions that leverage AI, utilizing tools like TensorFlow and PyTorch. 
+
+➣ Recently, I've also delved into animating RL agents in game engines like Unreal Engine and Unity.
+
 
 #### Categories and Their Respective Project Naming Conventions:
 
