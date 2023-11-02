@@ -1,14 +1,18 @@
-<h1>🤖 𝗛𝗲𝗹𝗹𝗼, 𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁𝘀! 𝗜'𝗺 𝗧 𝗩 𝗛𝗮𝗿𝗶 𝗞𝗿𝗶𝘀𝗵𝗻𝗮 (𝗛𝗞)</h1>
+<h1 style="color: black;">🤖 𝗛𝗲𝗹𝗹𝗼, 𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁𝘀! 𝗜'𝗺 𝗧 𝗩 𝗛𝗮𝗿𝗶 𝗞𝗿𝗶𝘀𝗵𝗻𝗮 (𝗛𝗞</h1>
 
 ![Alt text for your image](LinedIN_Cover_picture_V4_GitHub.png)
 
-<h2 style="color: black;">Welcome to my GitHub page, where I passionately share projects spanning a diverse range of categories, including but not limited to:</h2>
-## 1️⃣ Robotics Projects ➔ Using the ROS1 Framework 
-## 2️⃣ Carla Simulator Projects
-## 3️⃣ Computer Vision and Image Processing Projects Utilizing OpenCV
-## 4️⃣ 3D Reconstruction Projects
-## 5️⃣ HK_Bot Projects ➔ A Custom-Made Robot by Myself
-## 6️⃣ Machine Perception Projects Using Artificial Neural Networks 
+<h1 align="center"> 🧠 I concentrate on ⚒ </h1>
+
+<div align="center">
+  <a href="#carla-simulator">2️⃣ Carla Simulator</a> •
+  <a href="#computer-vision">3️⃣ Computer Vision and Image Processing</a> •
+  <a href="#3d-reconstruction">4️⃣ 3D Reconstruction</a> •
+  <a href="#hk-bot">5️⃣ HK_Bot</a> •
+  <a href="#vision-ai">6️⃣ Vision AI</a>
+</div>
+
+
 
 ### What You'll Find in This GitHub Account:
 Here, you'll discover a variety of repositories featuring projects on **🚗 CARLA simulator**, **🦾HK_Bot** (my custom robot), **🤖 Robotics using ROS**, **👀 Vision with AI**, **🌟 Point Clouds**, and much more. Each project adheres to a **⚠️ clear naming convention** where the **first word indicates the category**, and the subsequent word, **following an underscore**, represents the **name of the project** within that category. 
