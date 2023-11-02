@@ -6,7 +6,7 @@
                 
     🤖 𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀 𝗦𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻𝘀          🚆 Autonomous Robots           🚗 Autonomous Vechicles           🚧 Computer Vision 
     
-           🌜HK_Bot               🧠 Machine Vision w/ AI           🌐 3D Reconstruction          🛩️ RL Agents Animation
+          🌜HK_Bot                🧠 Machine Vision w/ AI           🌐 3D Reconstruction          🛩️ RL Agents Animation
 
 
 
