@@ -2,15 +2,19 @@
 
 ![Alt text for your image](LinedIN_Cover_picture_V4_GitHub.png)
 
-<h1 align="center"> 🧠 I concentrate on ⚒ </h1>
+<h1 align="center"> 😀 𝑀𝓎 𝐹𝑜𝒸𝓊𝓈 𝒪𝓃 😀 </h1>
                 
     🤖 𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀 𝗦𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻𝘀           🚆 𝗔𝘂𝘁𝗼𝗻𝗼𝗺𝗼𝘂𝘀 𝗥𝗼𝗯𝗼𝘁𝘀             🚗 𝗔𝘂𝘁𝗼𝗻𝗼𝗺𝗼𝘂𝘀 𝗩𝗲𝗰𝗵𝗶𝗰𝗹𝗲𝘀           🚧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧 
     
           🌜𝐇𝐊_𝐁𝐨𝐭                🧠 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐕𝐢𝐬𝐢𝐨𝐧 𝐰/ 𝐀𝐈            🗾 𝟑𝐃 𝐑𝐞𝐜𝐨𝐧𝐬𝐭𝐫𝐮𝐜𝐭𝐢𝐨𝐧           🛩️ 𝐑𝐋 𝐀𝐠𝐞𝐧𝐭𝐬 𝐀𝐧𝐢𝐦𝐚𝐭𝐢𝐨𝐧
 
-### About Me- Image here
 
-### What You'll Find in This GitHub Account:
+
+
+  <h1 align="center">┏ About Me- Image here ┓</h1>
+
+  <h1 align="center">┏ What You'll Find in This GitHub Account ┓</h1>
+
   <h1 align="center"> 👁️ Machine Perception ☣ Autonomous Navigation 🎢</h1>
   
   ------
@@ -27,7 +31,7 @@
     ▸ 𝐑𝐋 𝐀𝐠𝐞𝐧𝐭𝐬 ➙ Ｕｎｒｅａｌ Ｇａｍｅ Ｅｎｇｉｎｅ
  
 
-#### Categories and Their Respective Project Naming Conventions:
+<h1 align="center">┏ Repository Naming Convention ┓</h1>
 
 - **CarlaSim_**     »»-----------► Projects on **Self-Driving Cars** using the **Carla Simulator**.
 
