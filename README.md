@@ -5,9 +5,7 @@
 
 <h1 align="center"> 😀 𝑀𝓎 𝐹𝑜𝒸𝓊𝓈 𝒪𝓃 😀 </h1>
                 
-    🤖 𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀 𝗦𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻𝘀           🚆 𝗔𝘂𝘁𝗼𝗻𝗼𝗺𝗼𝘂𝘀 𝗥𝗼𝗯𝗼𝘁𝘀             🚗 𝗔𝘂𝘁𝗼𝗻𝗼𝗺𝗼𝘂𝘀 𝗩𝗲𝗰𝗵𝗶𝗰𝗹𝗲𝘀           🚧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧 
-    
-          🌜𝐇𝐊_𝐁𝐨𝐭                🧠 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐕𝐢𝐬𝐢𝐨𝐧 𝐰/ 𝐀𝐈            🗾 𝟑𝐃 𝐑𝐞𝐜𝐨𝐧𝐬𝐭𝐫𝐮𝐜𝐭𝐢𝐨𝐧           🛩️ 𝐑𝐋 𝐀𝐠𝐞𝐧𝐭𝐬 𝐀𝐧𝐢𝐦𝐚𝐭𝐢𝐨𝐧
+![Alt text for your image](area_of_intrest.png)
 
 <h1 align="center">┏ What you'll find in my GitHub Account ┓</h1>
 
@@ -23,11 +21,19 @@
 
 <h1 align="center">┏ Who I Am 👨‍💻 ┓</h1>
 
-<p align="right"><img src="code.gif" alt="Alt text for your image" width="350" /></p>
 
-Feel free to explore these repositories for a glimpse into my work and interests in robotics and AI. Each project reflects my dedication and enthusiasm in this field.
 
-_Happy coding!_ 🚀🤖
+<p style="text-align: justify;">
+  <img src="code.gif" alt="Alt text for your image" width="500" style="float: right; margin: 0 0 20px 20px;" />  
+  
+  I'm Venkata Harikrishna Talapala, a Master’s student at the University at Buffalo, poised to graduate in December of this year with a specialization in robotics. I am actively seeking full-time roles starting in January 2024.
+  My area of expertise encompasses machine perception and autonomous navigation, with a particular focus on technologies for autonomous vehicles, including perception systems and ADAS. In robotics, my work is focused on motion and path planning, mobile robotics, SLAM, sensor fusion, autonomous navigation, and map generation.
+In the field of computer vision, I've tackled projects involving 3D reconstruction, depth information processing, and point cloud data, utilizing advanced deep learning models to refine perception techniques. Additionally, I have experience in training agents within game engine environments.
+With a solid foundation in these areas, I am looking forward to full-time opportunities that will leverage my skills in the ever-evolving domains of robotics and autonomous systems.
+</p>
+
+
+
 
 ---
 
