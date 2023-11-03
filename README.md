@@ -16,7 +16,7 @@
 
 <h1 align="center"> 👁️ Machine Perception ☣ Autonomous Navigation 🎢</h1>
 
-![Alt text for your image](sticky.png)
+![Alt text for your image](sticky_v1.png)
 
 <h1 align="center">┏ Repository Naming Convention ┓</h1>
 
