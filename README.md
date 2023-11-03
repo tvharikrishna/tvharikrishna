@@ -3,7 +3,7 @@
 
 ---
 
-![Alt text for your image](title_2_v1.png)
+![Alt text for your image](git_title_2.png)
 
 <div align="center">
   <img src="focus_on.png" alt="Alt text for your image" style="width: 500px; height: auto;"/>
