@@ -9,7 +9,7 @@
     
           🌜𝐇𝐊_𝐁𝐨𝐭                🧠 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐕𝐢𝐬𝐢𝐨𝐧 𝐰/ 𝐀𝐈            🗾 𝟑𝐃 𝐑𝐞𝐜𝐨𝐧𝐬𝐭𝐫𝐮𝐜𝐭𝐢𝐨𝐧           🛩️ 𝐑𝐋 𝐀𝐠𝐞𝐧𝐭𝐬 𝐀𝐧𝐢𝐦𝐚𝐭𝐢𝐨𝐧
 
-<h1 align="center">┏ What You'll Find in my GitHub Account ┓</h1>
+<h1 align="center">┏ What you'll find in my gitHub account ┓</h1>
 
 <h1 align="center"> 👁️ Machine Perception ☣ Autonomous Navigation 🎢</h1>
 
