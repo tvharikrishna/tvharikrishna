@@ -1,10 +1,10 @@
-<h1 align="center">🤖 𝗛𝗲𝗹𝗹𝗼, 𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁𝘀! 𝗜'𝗺 𝗧 𝗩 𝗛𝗮𝗿𝗶 𝗞𝗿𝗶𝘀𝗵𝗻𝗮 (𝗛𝗞)</h1>
+![Alt text for your image](title_1.png)
 
 ![Alt text for your image](LinedIN_Cover_picture_V4_GitHub.png)
 
 ---
 
-<h1 align="center"> 😀 𝑀𝓎 𝐹𝑜𝒸𝓊𝓈 𝒪𝓃 😀 </h1>
+![Alt text for your image](title_2_v1.png)
 
 <div align="center">
   <img src="focus_on.png" alt="Alt text for your image" style="width: 500px; height: auto;"/>
