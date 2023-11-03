@@ -1,4 +1,4 @@
-![Alt text for your image](git_title_1.png)
+![Alt text for your image](git_title_v1_1.png)
 
 ![Alt text for your image](LinedIN_Cover_picture_V4_GitHub.png)
 
@@ -12,9 +12,7 @@
 
 ---
 
-<h1 align="center">┏ What you'll find in my GitHub Account ┓</h1>
-<h1 align="center"> 👁️ Machine Perception ☣ Autonomous Navigation 🎢</h1>
-
+![Alt text for your image](git_title_3.png)
 ![Alt text for your image](sticky_v1.png)
 
 ---
