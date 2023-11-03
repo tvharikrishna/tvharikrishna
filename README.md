@@ -3,9 +3,26 @@
 ![Alt text for your image](LinedIN_Cover_picture_V4_GitHub.png)
 
 
+
+
+
+
+
 <h1 align="center"> 😀 𝑀𝓎 𝐹𝑜𝒸𝓊𝓈 𝒪𝓃 😀 </h1>
-                
-![Alt text for your image](area_of_intrest.png)
+
+<div align="center">
+  <img src="area_of_intrest.png" alt="Alt text for your image" style="width: 600px; height: auto;"/>
+  <img src="walle_animation.gif" alt="Alt text for your image" style="width: 250px; height: auto; margin-right: 10px;"/>
+</div>
+
+
+
+
+
+
+
+
+
 
 <h1 align="center">┏ What you'll find in my GitHub Account ┓</h1>
 
