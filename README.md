@@ -12,6 +12,8 @@
           
 <h1 align="center">┏ About Me- Image here ┓</h1>
 
+![Alt text for your image](code.gif)
+
 <h1 align="center">┏ What You'll Find in This GitHub Account ┓</h1>
 
 <h1 align="center"> 👁️ Machine Perception ☣ Autonomous Navigation 🎢</h1>
