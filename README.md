@@ -7,7 +7,7 @@
 <h1 align="center"> 😀 𝑀𝓎 𝐹𝑜𝒸𝓊𝓈 𝒪𝓃 😀 </h1>
 
 <div align="center">
-  <img src="focus_on.png" alt="Alt text for your image" style="width: 550px; height: auto;"/>
+  <img src="focus_on.png" alt="Alt text for your image" style="width: 500px; height: auto;"/>
   <img src="walle_animation.gif" alt="Alt text for your image" style="width: 300px; height: auto; margin-right: 50px;"/>
 </div>
 
