@@ -21,7 +21,7 @@
   <img src="hkhk_table.png" alt="Alt text for your image"/>
 </p>
 
-<h1 align="center">┏ About Me- Image here ┓</h1>
+<h1 align="center">┏ Who I Am 👨‍💻 ┓</h1>
 
 ![Alt text for your image](code.gif)
 
