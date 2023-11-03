@@ -30,7 +30,9 @@
 
 <h1 align="center">┏ Who I Am 👨‍💻 ┓</h1>
 
-![Alt text for your image](git_hub_cover_v2.png)
+![Alt text for your image](final_cover_1.png)
+![Alt text for your image](final_cover_2.png)
+
 ---
 
 ### Connect with me:
