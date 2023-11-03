@@ -23,7 +23,7 @@
 
 <h1 align="center">┏ Who I Am 👨‍💻 ┓</h1>
 
-<p align="right"><img src="code.gif" alt="Alt text for your image" width="200" /></p>
+<p align="right"><img src="code.gif" alt="Alt text for your image" width="400" /></p>
 
 Feel free to explore these repositories for a glimpse into my work and interests in robotics and AI. Each project reflects my dedication and enthusiasm in this field.
 
