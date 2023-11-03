@@ -5,10 +5,10 @@
 ---
 
 ![Alt text for your image](git_title_2.png)
-
 <div align="center">
-    <img src="area_of_specialization_gif.gif" alt="Alt text for your image">
+    <img src="area_of_specialization_gif.gif" alt="Alt text for your image" width="65%">
 </div>
+<br><br>
 
 ---
 
