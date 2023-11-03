@@ -9,7 +9,7 @@
     
           🌜𝐇𝐊_𝐁𝐨𝐭                🧠 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐕𝐢𝐬𝐢𝐨𝐧 𝐰/ 𝐀𝐈            🗾 𝟑𝐃 𝐑𝐞𝐜𝐨𝐧𝐬𝐭𝐫𝐮𝐜𝐭𝐢𝐨𝐧           🛩️ 𝐑𝐋 𝐀𝐠𝐞𝐧𝐭𝐬 𝐀𝐧𝐢𝐦𝐚𝐭𝐢𝐨𝐧
 
-<h1 align="center">┏ What you'll find in my gitHub account ┓</h1>
+<h1 align="center">┏ What you'll find in my GitHub Account ┓</h1>
 
 <h1 align="center"> 👁️ Machine Perception ☣ Autonomous Navigation 🎢</h1>
 
@@ -23,7 +23,7 @@
 
 <h1 align="center">┏ Who I Am 👨‍💻 ┓</h1>
 
-![Alt text for your image](code.gif)
+<p align="right"><img src="code.gif" alt="Alt text for your image" width="200" /></p>
 
 Feel free to explore these repositories for a glimpse into my work and interests in robotics and AI. Each project reflects my dedication and enthusiasm in this field.
 
