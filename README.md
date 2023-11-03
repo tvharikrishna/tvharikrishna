@@ -1,4 +1,4 @@
-![Alt text for your image](title_1.png)
+![Alt text for your image](git_title_1.png)
 
 ![Alt text for your image](LinedIN_Cover_picture_V4_GitHub.png)
 
