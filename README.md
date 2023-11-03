@@ -2,12 +2,13 @@
 
 ![Alt text for your image](LinedIN_Cover_picture_V4_GitHub.png)
 
-![Alt text for your image](git_title_2.png)
+---
 
+![Alt text for your image](git_title_2.png)
 <div align="center">
-  <img src="focus_on.png" alt="Alt text for your image" style="width: 500px; height: auto;"/>
-  <img src="walle_animation.gif" alt="Alt text for your image" style="width: 300px; height: auto; margin-right: 50px;"/>
+    <img src="area_of_specialization_gif.gif" alt="Alt text for your image" width="65%">
 </div>
+<br><br>
 
 ---
 
