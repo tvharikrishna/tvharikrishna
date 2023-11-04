@@ -6,7 +6,7 @@
 ![Alt text for your image](git_title_2.png)
 
 <div align="center">
-    <img src="git_my_intrests.gif" alt="Alt text for your image" width="65%">
+    <img src="git_my_intrests.gif" alt="Alt text for your image" width="80%">
 </div>
 <br><br>
 
