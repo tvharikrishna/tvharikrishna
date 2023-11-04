@@ -151,29 +151,17 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-1-blue?style=flat-square&logo=github" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Repo%20Naming%20Prefix-006400?style=for-the-badge" alt="Repo Naming Prefix" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-1-blue?style=flat-square&logo=github" style="width: 20%; height: auto;" />
 </p>
 
 
+![Alt text for your image](git_title_4.png)
 
+![Alt text for your image](git_repo_naming_table.png)
 
-<img src="https://img.shields.io/badge/ROSRobotics__-333333?style=flat-square" alt="ROSRobotics_" width="160"/> <b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡ Robotics Simulations using ROS <b> </b>
+<br>
 
-<img src="https://img.shields.io/badge/CarlaSim__-333333?style=flat-square" alt="CarlaSim_" width="120"/> <b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡ AV Simulation using Carla Simulator</b>
-
-<img src="https://img.shields.io/badge/3DVision__-333333?style=flat-square" alt="3DVision_" width="120"/> <b>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡ 3D Computer Vision and Point Clouds </b>
-
-<img src="https://img.shields.io/badge/OpenCV__-333333?style=flat-square" alt="OpenCV_" width="120"/> <b>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡ Basic Computer Vision and Image Processing </b>
-
-<img src="https://img.shields.io/badge/VisionAI__-333333?style=flat-square" alt="VisionAI_" width="120"/> <b>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡ Perception using State-of-Art Deep Learning Models </b>
-
-<img src="https://img.shields.io/badge/HKBOT__-333333?style=flat-square" alt="HKBOT_" width="110"/> <b>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡ Custom Made Mobile Robot Projects </b>
-
-<img src="https://img.shields.io/badge/AIAGENTS__-333333?style=flat-square" alt="AIAGENTS_" width="120"/> <b>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡ Reinforcement Learning Agents on Game Engines </b>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
 
 
