@@ -117,7 +117,39 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=tvharikrishna)
+<p align="center">
+    <img src="git_title_8.png" alt="Title Image">
+</p>
+
+
+
+
+![Commits Badge](https://img.shields.io/github/commit-activity/y/tvharikrishna/your-repo-name) ![Commits GIF](git_status_commits.gif)
+
+![Followers Badge](https://img.shields.io/github/followers/tvharikrishna?style=social) ![Followers GIF](git_status_followers.gif)
+
+![Forks Badge](https://img.shields.io/github/forks/tvharikrishna/your-repo-name?style=social) ![Forks GIF](git_status_forks.gif)
+
+![Issues Badge](https://img.shields.io/github/issues/tvharikrishna/your-repo-name) ![Issues GIF](git_status_issues.gif)
+
+![Last Commit Badge](https://img.shields.io/github/last-commit/tvharikrishna/your-repo-name) ![Last Commit GIF](git_status_lastcommit.gif)
+
+![Profile_views Badge](https://komarev.com/ghpvc/?username=tvharikrishna) ![Profile_views GIF](git_status_profile_views.gif)
+
+![Stars Badge](https://img.shields.io/github/stars/tvharikrishna/your-repo-name?style=social) ![Stars GIF](git_status_stars.gif)
+
+![Top Language Badge](https://img.shields.io/github/languages/top/tvharikrishna/your-repo-name) ![Top Language GIF](git_status_top_language.gif)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
