@@ -117,6 +117,7 @@
 
 ---
 
-![Profile views](https://gpvc.arturio.dev/tvharikrishna)
+![](https://komarev.com/ghpvc/?username=tvharikrishna)
+
 
 
