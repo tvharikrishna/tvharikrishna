@@ -124,21 +124,36 @@
 
 
 
-![Commits Badge](https://img.shields.io/github/commit-activity/y/tvharikrishna/your-repo-name) ![Commits GIF](git_status_commits.gif)
 
-![Followers Badge](https://img.shields.io/github/followers/tvharikrishna?style=social) ![Followers GIF](git_status_followers.gif)
+<p align="center">
+    <img src="git_status_profile_views.gif" alt="Profile Views GIF" width="24%">
+    <img src="git_status_followers.gif" alt="Followers GIF" width="24%">
+    <img src="git_status_forks.gif" alt="Forks GIF" width="24%">
+    <img src="git_status_stars.gif" alt="Stars GIF" width="24%">
+</p>
 
-![Forks Badge](https://img.shields.io/github/forks/tvharikrishna/your-repo-name?style=social) ![Forks GIF](git_status_forks.gif)
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=tvharikrishna" alt="Profile Views Badge" width="24%">
+    <img src="https://img.shields.io/github/followers/tvharikrishna?style=social" alt="Followers Badge" width="24%">
+    <img src="https://img.shields.io/github/forks/tvharikrishna/your-repo-name?style=social" alt="Forks Badge" width="24%">
+    <img src="https://img.shields.io/github/stars/tvharikrishna/your-repo-name?style=social" alt="Stars Badge" width="24%">
+</p>
 
-![Issues Badge](https://img.shields.io/github/issues/tvharikrishna/your-repo-name) ![Issues GIF](git_status_issues.gif)
+<p align="center">
+    <img src="git_status_commits.gif" alt="Commits GIF" width="24%">
+    <img src="git_status_issues.gif" alt="Issues GIF" width="24%">
+    <img src="git_status_lastcommit.gif" alt="Last Commit GIF" width="24%">
+    <img src="git_status_top_language.gif" alt="Top Language GIF" width="24%">
+</p>
 
-![Last Commit Badge](https://img.shields.io/github/last-commit/tvharikrishna/your-repo-name) ![Last Commit GIF](git_status_lastcommit.gif)
+<p align="center">
+    <img src="https://img.shields.io/github/commit-activity/y/tvharikrishna/your-repo-name" alt="Commits Badge" width="24%">
+    <img src="https://img.shields.io/github/issues/tvharikrishna/your-repo-name" alt="Issues Badge" width="24%">
+    <img src="https://img.shields.io/github/last-commit/tvharikrishna/your-repo-name" alt="Last Commit Badge" width="24%">
+    <img src="https://img.shields.io/github/languages/top/tvharikrishna/your-repo-name" alt="Top Language Badge" width="24%">
+</p>
 
-![Profile_views Badge](https://komarev.com/ghpvc/?username=tvharikrishna) ![Profile_views GIF](git_status_profile_views.gif)
 
-![Stars Badge](https://img.shields.io/github/stars/tvharikrishna/your-repo-name?style=social) ![Stars GIF](git_status_stars.gif)
-
-![Top Language Badge](https://img.shields.io/github/languages/top/tvharikrishna/your-repo-name) ![Top Language GIF](git_status_top_language.gif)
 
 
 
