@@ -156,17 +156,38 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" />
 </p>
 
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Repositories-1-blue?style=flat-square&logo=github" />
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Repo%20Naming%20Prefix-006400?style=for-the-badge" alt="Repo Naming Prefix" />
+</p>
 
 
 
 
 
 
+
+
+
+
+<img src="https://img.shields.io/badge/ROSRobotics__-333333?style=flat-square" alt="ROSRobotics_" style="transform: scale(3.5);" />
+
+<img src="https://img.shields.io/badge/CarlaSim__-333333?style=flat-square" alt="CarlaSim_" style="transform: scale(4.5);" />
+
+<img src="https://img.shields.io/badge/3DVision__-333333?style=flat-square" alt="3DVision_" style="transform: scale(5.5);" />
+
+<img src="https://img.shields.io/badge/OpenCV__-333333?style=flat-square" alt="OpenCV_" style="transform: scale(6.5);" />
+
+<img src="https://img.shields.io/badge/VisionAI__-333333?style=flat-square" alt="VisionAI_" style="transform: scale(1.5);" />
+
+<img src="https://img.shields.io/badge/HKBOT__-333333?style=flat-square" alt="HKBOT_" style="transform: scale(1.5);" />
+
+<img src="https://img.shields.io/badge/AIAGENTS__-333333?style=flat-square" alt="AIAGENTS_" style="transform: scale(1.5);" />
 
 
 
