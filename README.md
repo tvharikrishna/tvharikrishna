@@ -117,7 +117,77 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=tvharikrishna)
+<p align="center">
+    <img src="git_title_8.png" alt="Title Image">
+</p>
+
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="git_status_profile_views.gif" alt="Profile Views GIF"/></td>
+    <td><img src="git_status_followers.gif" alt="Followers GIF"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://komarev.com/ghpvc/?username=tvharikrishna&style=for-the-badge" alt="Profile Views Badge"/></td>
+    <td><img src="https://img.shields.io/github/followers/tvharikrishna?logo=github&style=for-the-badge" alt="Followers Badge"/></td>
+  </tr>
+</table>
+
+</div>
+
+
+
+----
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=tvharikrishna&show_icons=true&theme=radical" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tvharikrishna&theme=radical" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Repositories-1-blue?style=flat-square&logo=github" />
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
