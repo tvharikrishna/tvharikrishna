@@ -18,14 +18,6 @@
 
 ---
 
-![Alt text for your image](git_title_4.png)
-
-<p align="center">
-  <img src="git_repo_naming_table.png" alt="Alt text for your image"/>
-</p>
-
----
-
 ![Alt text for your image](git_title_5.png)
 
 ![Alt text for your image](git_about_me_1.png)
@@ -169,7 +161,7 @@
 
 
 
-<img src="https://img.shields.io/badge/ROSRobotics__-333333?style=flat-square" alt="ROSRobotics_" width="160"/> <b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡ Robotics Simulations using ROS <b> </b>
+<img src="https://img.shields.io/badge/ROSRobotics__-333333?style=flat-square" alt="ROSRobotics_" width="160"/> <b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡ Robotics Simulations using ROS <b> </b>
 
 <img src="https://img.shields.io/badge/CarlaSim__-333333?style=flat-square" alt="CarlaSim_" width="120"/> <b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡ AV Simulation using Carla Simulator</b>
 
