@@ -169,36 +169,23 @@
 
 
 
+<img src="https://img.shields.io/badge/ROSRobotics__-333333?style=flat-square" alt="ROSRobotics_" width="160"/> <b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡ Robotics Simulations using ROS <b> </b>
+
+<img src="https://img.shields.io/badge/CarlaSim__-333333?style=flat-square" alt="CarlaSim_" width="120"/> <b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡ AV Simulation using Carla Simulator</b>
+
+<img src="https://img.shields.io/badge/3DVision__-333333?style=flat-square" alt="3DVision_" width="120"/> <b>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡ 3D Computer Vision and Point Clouds </b>
+
+<img src="https://img.shields.io/badge/OpenCV__-333333?style=flat-square" alt="OpenCV_" width="120"/> <b>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡ Basic Computer Vision and Image Processing </b>
+
+<img src="https://img.shields.io/badge/VisionAI__-333333?style=flat-square" alt="VisionAI_" width="120"/> <b>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡ Perception using State-of-Art Deep Learning Models </b>
+
+<img src="https://img.shields.io/badge/HKBOT__-333333?style=flat-square" alt="HKBOT_" width="110"/> <b>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡ Custom Made Mobile Robot Projects </b>
+
+<img src="https://img.shields.io/badge/AIAGENTS__-333333?style=flat-square" alt="AIAGENTS_" width="120"/> <b>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡ Reinforcement Learning Agents on Game Engines </b>
 
 
 
-
-
-
-<img src="https://img.shields.io/badge/ROSRobotics__-333333?style=flat-square" alt="ROSRobotics_" style="transform: scale(3.5);" />
-
-<img src="https://img.shields.io/badge/CarlaSim__-333333?style=flat-square" alt="CarlaSim_" style="transform: scale(4.5);" />
-
-<img src="https://img.shields.io/badge/3DVision__-333333?style=flat-square" alt="3DVision_" style="transform: scale(5.5);" />
-
-<img src="https://img.shields.io/badge/OpenCV__-333333?style=flat-square" alt="OpenCV_" style="transform: scale(6.5);" />
-
-<img src="https://img.shields.io/badge/VisionAI__-333333?style=flat-square" alt="VisionAI_" style="transform: scale(1.5);" />
-
-<img src="https://img.shields.io/badge/HKBOT__-333333?style=flat-square" alt="HKBOT_" style="transform: scale(1.5);" />
-
-<img src="https://img.shields.io/badge/AIAGENTS__-333333?style=flat-square" alt="AIAGENTS_" style="transform: scale(1.5);" />
-
-
-
-
-
-
-
-
-
-
-
+<!-- This will render as a large text because it is a top-level heading -->
 
 
 
