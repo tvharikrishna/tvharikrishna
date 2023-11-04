@@ -122,13 +122,21 @@
 </p>
 
 
-<p align="center">
+<div align="center">
 
-| ![git_status_profile_views.gif](git_status_profile_views.gif) | ![git_status_followers.gif](git_status_followers.gif) |
-|:-------------------------------------------------------------:|:-------------------------------------------------------:|
-| ![Profile Views Badge](https://komarev.com/ghpvc/?username=tvharikrishna&style=for-the-badge) | ![Followers Badge](https://img.shields.io/github/followers/tvharikrishna?logo=github&style=for-the-badge) |
+<table>
+  <tr>
+    <td><img src="git_status_profile_views.gif" alt="Profile Views GIF"/></td>
+    <td><img src="git_status_followers.gif" alt="Followers GIF"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://komarev.com/ghpvc/?username=tvharikrishna&style=for-the-badge" alt="Profile Views Badge"/></td>
+    <td><img src="https://img.shields.io/github/followers/tvharikrishna?logo=github&style=for-the-badge" alt="Followers Badge"/></td>
+  </tr>
+</table>
 
-</p>
+</div>
+
 
 
 ----
