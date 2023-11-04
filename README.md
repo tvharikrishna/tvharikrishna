@@ -82,7 +82,7 @@
 <img src="https://img.shields.io/badge/Other%20Tools-blue?style=plastic" alt="Other Tools" width="125" />
 
 ![PremierPro](https://img.shields.io/badge/-ADOBE%20PREMIERE%20PRO-%23999999?logo=adobe-premiere-pro&logoColor=white&style=for-the-badge)
-![AfterEffects](https://img.shields.io/badge/-ADOBE%20AFTER%20EFFECTS-%23999999?logo=adobe-aftereffects&logoColor=white&style=for-the-badge)
+![AfterEffects](https://img.shields.io/badge/-ADOBE%20AFTER%20EFFECTS-%23FF0000?logo=adobe-aftereffects&logoColor=white&style=for-the-badge)
 ![PhotoSgop](https://img.shields.io/badge/-ADOBE%20PHOTOSHOP-%2331A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge)
 ![DavinchiResolve18](https://img.shields.io/badge/-DA%20VINCI%20RESOLVE%2019-%23FF9E00?style=for-the-badge)
 ![Canva](https://img.shields.io/badge/-CANVA-%2300C4CC?logo=canva&logoColor=white&style=for-the-badge)
