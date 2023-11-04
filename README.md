@@ -151,7 +151,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-1-blue?style=flat-square&logo=github" style="width: 20%; height: auto;" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-1-blue?style=flat-square&logo=github" style="width: 30%; height: auto;" />
 </p>
 
 
