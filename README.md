@@ -62,6 +62,7 @@
 ![MeshLab Badge](https://img.shields.io/badge/-MESHLAB-%236C757D?style=for-the-badge)
 ![RViz Badge](https://img.shields.io/badge/-RVIZ-%23FF69B4?style=for-the-badge)
 ![CUDA Badge](https://img.shields.io/badge/-CUDA-%2376B900?logo=nvidia&logoColor=white&style=for-the-badge)
+![CMakeBadge](http://img.shields.io/badge/-CMake-%2308a5e3?logo=cmake&logoColor=white&style=for-the-badge)
 
 <br><br>
 <img src="https://img.shields.io/badge/Office%20Tools-blue?style=plastic" alt="Office Tools" width="130" />
