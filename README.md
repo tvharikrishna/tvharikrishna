@@ -150,8 +150,9 @@
 
 ---
 
+<!-- Change Repo Count Here -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-1-blue?style=flat-square&logo=github" style="width: 25%; height: auto;" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-0-blue?style=flat-square&logo=github" style="width: 25%; height: auto;" />
 </p>
 
 
@@ -165,7 +166,7 @@
 
 
 
-<!-- This will render as a large text because it is a top-level heading -->
+
 
 
 
