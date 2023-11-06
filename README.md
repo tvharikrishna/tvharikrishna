@@ -158,7 +158,7 @@
 
 <!-- Change Repo Count Here -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-1-blue?style=flat-square&logo=github" style="width: 25%; height: auto;" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-2-blue?style=flat-square&logo=github" style="width: 25%; height: auto;" />
 </p>
 
 
