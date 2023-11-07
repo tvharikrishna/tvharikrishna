@@ -161,6 +161,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" />
 </p>
 
+
+![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=tvharikrishna&theme=radical)
+
 ---
 
 <!-- Change Repo Count Here -->
