@@ -113,6 +113,10 @@
     </a>
 </p>
 
+
+
+<!-- Profile Views and Followers -->
+<!-- Discord Animation GIF -->
 ---
 
 <p align="center">
@@ -137,6 +141,8 @@
 
 
 
+
+<!-- GitHub Status - 1. GitHub Status 2.GitHub Streak 3.Github Repo Language Status -->
 ----
 
 <table width="100%">
@@ -150,6 +156,7 @@
   </tr>
 </table>
 
+<!-- 3.Github Repo Language Status -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" />
 </p>
