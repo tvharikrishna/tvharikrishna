@@ -162,7 +162,7 @@
 </p>
 
 
-![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=tvharikrishna&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 ---
 
