@@ -1,5 +1,5 @@
 <div align="center">
-    <p style="font-size: 8px; margin: 0; padding: 0;"><b>'HK' logo is Copyrighted & Protected by Department for Promotion of Industry and Internal Trade under the Govt of India's Intellectual Property India. I reserve the right to take legal action & file a lawsuit against any infringement on all social media platforms.</b></p>
+    <p style="font-size: 8px; margin: 0; padding: 0;"><b>'HK' logo is Copyrighted & Protected by Department for Promotion of Industry and Internal Trade under the Govt of India's Intellectual Property Rights. India. I reserve the right to take legal action & file a lawsuit against any infringement of my logo on all social media platforms.</b></p>
     <p style="font-size: 8px; margin: 0; padding: 0;"><b> © All Rights Reserved to the Creator of Logo</b></p>
 </div>
 
