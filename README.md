@@ -190,6 +190,9 @@
 
 <br>
 
+⚠️ Some of my repositories are devoid of code as they pertain to university assignments. <br>
+⚠️ In adherence to the University at Buffalo's Academic Integrity Policy, uploading code to any online platform is prohibited.
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
 
