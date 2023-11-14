@@ -195,8 +195,8 @@
 </p>
 
 <p align="center">
-  Some of my repositories are 𝗱𝗲𝘃𝗼𝗶𝗱 𝗼𝗳 𝗰𝗼𝗱𝗲 because they are related to coursework from the SUNY BUFFALO <br>
-  In adherence to the 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗮𝘁 𝗕𝘂𝗳𝗳𝗮𝗹𝗼'𝘀 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗜𝗻𝘁𝗲𝗴𝗿𝗶𝘁𝘆 𝗣𝗼𝗹𝗶𝗰𝘆, uploading code to any online platform is prohibited
+  Some of my repositories lack code because they are related to coursework from SUNY Buffalo. <br>
+  In compliance with the 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗮𝘁 𝗕𝘂𝗳𝗳𝗮𝗹𝗼'𝘀 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗜𝗻𝘁𝗲𝗴𝗿𝗶𝘁𝘆 𝗣𝗼𝗹𝗶𝗰𝘆, it is prohibited to upload code to any online platform.
 </p>
 
 
