@@ -190,8 +190,18 @@
 
 <br>
 
-⚠️ Some of my repositories are devoid of code as they pertain to university assignments. <br>
-⚠️ In adherence to the University at Buffalo's Academic Integrity Policy, uploading code to any online platform is prohibited.
+<p align="center">
+  <img src="https://img.shields.io/badge/⚠️ NOTE⚠️ -important" alt="Note"/>
+</p>
+
+<p align="center">
+  Some of my repositories are 𝗱𝗲𝘃𝗼𝗶𝗱 𝗼𝗳 𝗰𝗼𝗱𝗲 as they pertain to university assignments <br>
+  In adherence to the 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗮𝘁 𝗕𝘂𝗳𝗳𝗮𝗹𝗼'𝘀 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗜𝗻𝘁𝗲𝗴𝗿𝗶𝘁𝘆 𝗣𝗼𝗹𝗶𝗰𝘆, uploading code to any online platform is prohibited
+</p>
+
+
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
