@@ -16,7 +16,7 @@
 
 ![Alt text for your image](git_cover_photo.png)
 
----
+---\
 ![Alt text for your image](git_title_2.png)
 
 <div align="center">
