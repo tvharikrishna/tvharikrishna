@@ -8,11 +8,7 @@
 
 ![Alt text for your image](HK_LOGO_END.png)
 
-
-
 --- 
-
-
 
 ![Alt text for your image](git_title_1.png)
 
