@@ -24,8 +24,10 @@
 
 ---
 
+
 ![Alt text for your image](git_title_3.png)
 ![Alt text for your image](git_sticky_notes.png)
+
 
 ---
 
