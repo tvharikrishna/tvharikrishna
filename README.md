@@ -4,7 +4,6 @@
 </div>
 
 <div align="center">
-    
 </div>
 
 ![Alt text for your image](HK_LOGO_END.png)
