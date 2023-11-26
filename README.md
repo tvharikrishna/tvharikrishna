@@ -180,47 +180,47 @@
     <tr>
       <td align="center">ROSRobotics_</td>
       <td align="center">☢️</td>
-      <td align="center">1</td>
+      <td align="center">3</td>
     </tr>
     <tr>
       <td align="center">CarlaSim_</td>
       <td align="center">🚗</td>
-      <td align="center">2</td>
+      <td align="center">1</td>
     </tr>
     <tr>
       <td align="center">PathPlanning_</td>
       <td align="center">🪱</td>
-      <td align="center">3</td>
+      <td align="center"> coming soon </td>
     </tr>
     <tr>
       <td align="center">MotionPlanning_</td>
       <td align="center">🛩</td>
-      <td align="center">4</td>
+      <td align="center">2</td>
     </tr>
     <tr>
       <td align="center">HKBOT_</td>
       <td align="center">🤖</td>
-      <td align="center">5</td>
+      <td align="center">3</td>
     </tr>
     <tr>
       <td align="center">3DVision_</td>
       <td align="center">🗾</td>
-      <td align="center">6</td>
+      <td align="center">2</td>
     </tr>
     <tr>
       <td align="center">OpenCV_</td>
       <td align="center">👀</td>
-      <td align="center">7</td>
+      <td align="center">2</td>
     </tr>
     <tr>
       <td align="center">VisionAI_</td>
       <td align="center">🧠</td>
-      <td align="center">8</td>
+      <td align="center"> coming soon </td>
     </tr>
     <tr>
       <td align="center">AIAgents_</td>
       <td align="center">👽</td>
-      <td align="center">9</td>
+      <td align="center">1</td>
     </tr>
   </table>
 </p>
