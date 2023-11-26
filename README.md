@@ -164,24 +164,18 @@
 
 ![Alt text for your image](git_title_9.png)
 
-<td> | Repo Prefix       | Repo Emoji Identification | Number of Repo |
-|-------------------|---------------------------|----------------|
-| ROSRobotics_      | ☢️                       | 1              |
-| CarlaSim_         | 🚗                       | 2              |
-| PathPlanning_     | 🪱                       | 3              |
-| MotionPlanning_   | 🛩                        | 4              |
-| HKBOT_            | 🤖                       | 5              |
-| 3DVision_         | 🗾                       | 6              |
-| OpenCV_           | 👀                       | 7              |
-| VisionAI_         | 🧠                       | 8              |
-| AIAgents_         | 👽                       | 9              |
+
+<!-- Hazzle Free Repo Table -->
+<!-- Hazzle Free Repo Table -->
+<!-- Hazzle Free Repo Table -->
+
 
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <th>Repo Prefix</th>
-      <th>Repo Emoji Identification</th>
-      <th>Number of Repo</th>
+      <th align="center">Repo Emoji Identification</th>
+      <th align="center">Number of Repo</th>
     </tr>
     <tr>
       <td align="center">ROSRobotics_</td>
@@ -231,7 +225,11 @@
   </table>
 </p>
 
-<!-- Change Repo Count Here -->
+<!-- Hazzle Free Repo Table -->
+<!-- Hazzle Free Repo Table -->
+<!-- Hazzle Free Repo Table -->
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Repositories-13-blue?style=flat-square&logo=github" style="width: 25%; height: auto;" />
 </p>
