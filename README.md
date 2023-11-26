@@ -229,18 +229,21 @@
 <!-- Hazzle Free Repo Table -->
 <!-- Hazzle Free Repo Table -->
 
+<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-13-blue?style=flat-square&logo=github" style="width: 25%; height: auto;" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-13-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⚠️ NOTE⚠️ -important" alt="Note"/>
+  <img src="https://img.shields.io/badge/⚠️ NOTE⚠️ -important" alt="Note" />
 </p>
 
 <p align="center">
   Some of my repositories 𝗹𝗮𝗰𝗸 𝗰𝗼𝗱𝗲 because they are related to 𝗰𝗼𝘂𝗿𝘀𝗲𝘄𝗼𝗿𝗸 from SUNY Buffalo. <br>
   In compliance with the 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗮𝘁 𝗕𝘂𝗳𝗳𝗮𝗹𝗼'𝘀 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗜𝗻𝘁𝗲𝗴𝗿𝗶𝘁𝘆 𝗣𝗼𝗹𝗶𝗰𝘆, it is prohibited to upload code to any online platform.
 </p>
+
+
