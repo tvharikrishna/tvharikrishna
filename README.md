@@ -170,43 +170,25 @@
 
 </div>
 
-
-<!-- GitHub Status - 1. GitHub Status 2.GitHub Streak 3.Github Repo Language Status -->
-
-
-----
-
-
-<table width="100%">
+<table align="center">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=tvharikrishna&show_icons=true&theme=radical" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tvharikrishna&theme=radical" />
-    </td>
+    <!-- Github Statistics Widget -->
+    <td><img src="https://github-readme-stats.vercel.app/api?username=tvharikrishna&show_icons=true&theme=radical" /></td>
+    <!-- Github Top Language Used Widget -->
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" /></td>
   </tr>
 </table>
 
-
-<!-- 3.Github Repo Language Status -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" />
-</p>
-
-
 ---
 
+![Alt text for your image](git_title_4.png)
+
+![Alt text for your image](git_repo_naming_table_v2.png)
 
 <!-- Change Repo Count Here -->
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Repositories-13-blue?style=flat-square&logo=github" style="width: 25%; height: auto;" />
 </p>
-
-
-![Alt text for your image](git_title_4.png)
-
-![Alt text for your image](git_repo_naming_table_v2.png)
 
 
 <br>
