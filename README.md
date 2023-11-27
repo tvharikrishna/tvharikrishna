@@ -200,12 +200,12 @@
     <tr>
       <td align="center">HKBOT_</td>
       <td align="center">🤖</td>
-      <td align="center">3</td>
+      <td align="center">2</td>
     </tr>
     <tr>
       <td align="center">3DVision_</td>
       <td align="center">🗾</td>
-      <td align="center">2</td>
+      <td align="center">1</td>
     </tr>
     <tr>
       <td align="center">OpenCV_</td>
