@@ -1,39 +1,116 @@
-<div align="center">
-    <p style="font-size: 8px; margin: 0; padding: 0;"><b>'HK' logo is Copyrighted & Protected by Department for Promotion of Industry & Internal Trade under the Govt of India's Intellectual Property Rights. I reserve the right to take legal action & file a lawsuit against any infringement on all social media platforms.</b></p>
-    <p style="font-size: 8px; margin: 0; padding: 0;"><b> © All Rights Reserved to the Creator of Logo </b></p>
 
-</div>
-<div align="center">
-</div>
-
-![Alt text for your image](HK_LOGO_END.png)
-
---- 
 
 ![Alt text for your image](git_title_1.png)
+
 ![Alt text for your image](git_cover_photo.png)
 
----
-
-![Alt text for your image](git_title_2.png)
-
-<div align="center">
-    <img src="git_my_intrests.gif" alt="Alt text for your image" width="80%">
-</div>
-<br><br>
-
----
+<br>
 
 ![Alt text for your image](git_title_3.png)
+
 ![Alt text for your image](git_sticky_notes.png)
+
+![Alt text for your image](git_title_4.png)
+
+![Alt text for your image](git_repo_naming_table_v2.png)
+
+![Alt text for your image](git_title_9.png)
+
+
+<!-- Hazzle Free Repo Table -->
+<!-- Hazzle Free Repo Table -->
+<!-- Hazzle Free Repo Table -->
+
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <th>Repo Prefix</th>
+      <th align="center">Repo Emoji Identification</th>
+      <th align="center">Number of Repo</th>
+    </tr>
+    <tr>
+      <td align="center">ROSRobotics_</td>
+      <td align="center">☢️</td>
+      <td align="center">3</td>
+    </tr>
+    <tr>
+      <td align="center">CarlaSim_</td>
+      <td align="center">🚗</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td align="center">PathPlanning_</td>
+      <td align="center">🪱</td>
+      <td align="center"> coming soon </td>
+    </tr>
+    <tr>
+      <td align="center">MotionPlanning_</td>
+      <td align="center">🛩</td>
+      <td align="center">2</td>
+    </tr>
+    <tr>
+      <td align="center">HKBOT_</td>
+      <td align="center">🤖</td>
+      <td align="center">2</td>
+    </tr>
+    <tr>
+      <td align="center">3DVision_</td>
+      <td align="center">🗾</td>
+      <td align="center">1</td>
+    </tr>
+    <tr>
+      <td align="center">OpenCV_</td>
+      <td align="center">👀</td>
+      <td align="center">2</td>
+    </tr>
+    <tr>
+      <td align="center">VisionAI_</td>
+      <td align="center">🧠</td>
+      <td align="center"> coming soon </td>
+    </tr>
+    <tr>
+      <td align="center">AIAgents_</td>
+      <td align="center">👽</td>
+      <td align="center">1</td>
+    </tr>
+  </table>
+</p>
+
+<!-- Hazzle Free Repo Table -->
+<!-- Hazzle Free Repo Table -->
+<!-- Hazzle Free Repo Table -->
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Repositories-12-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚠️ NOTE⚠️ -important" alt="Note" />
+</p>
+
+<p align="center">
+  Some of my repositories 𝗹𝗮𝗰𝗸 𝗰𝗼𝗱𝗲 because they are related to 𝗰𝗼𝘂𝗿𝘀𝗲𝘄𝗼𝗿𝗸 from SUNY Buffalo. <br>
+  In compliance with the 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗮𝘁 𝗕𝘂𝗳𝗳𝗮𝗹𝗼'𝘀 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗜𝗻𝘁𝗲𝗴𝗿𝗶𝘁𝘆 𝗣𝗼𝗹𝗶𝗰𝘆, it is prohibited to upload code to any online platform.
+</p>
 
 ---
 
 ![Alt text for your image](git_title_5.png)
+
 ![Alt text for your image](git_about_me_1.png)
+
 ![Alt text for your image](git_about_me_2.png)
 
+![Alt text for your image](git_title_2.png)
+
 ---
+
+![Alt text for your image](git_title_6.png)
 
 ![Alt text for your image](git_title_6.png)
 
@@ -156,94 +233,18 @@
   </tr>
 </table>
 
----
-
-![Alt text for your image](git_title_4.png)
-
-![Alt text for your image](git_repo_naming_table_v2.png)
-
-![Alt text for your image](git_title_9.png)
 
 
-<!-- Hazzle Free Repo Table -->
-<!-- Hazzle Free Repo Table -->
-<!-- Hazzle Free Repo Table -->
 
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <th>Repo Prefix</th>
-      <th align="center">Repo Emoji Identification</th>
-      <th align="center">Number of Repo</th>
-    </tr>
-    <tr>
-      <td align="center">ROSRobotics_</td>
-      <td align="center">☢️</td>
-      <td align="center">3</td>
-    </tr>
-    <tr>
-      <td align="center">CarlaSim_</td>
-      <td align="center">🚗</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td align="center">PathPlanning_</td>
-      <td align="center">🪱</td>
-      <td align="center"> coming soon </td>
-    </tr>
-    <tr>
-      <td align="center">MotionPlanning_</td>
-      <td align="center">🛩</td>
-      <td align="center">2</td>
-    </tr>
-    <tr>
-      <td align="center">HKBOT_</td>
-      <td align="center">🤖</td>
-      <td align="center">2</td>
-    </tr>
-    <tr>
-      <td align="center">3DVision_</td>
-      <td align="center">🗾</td>
-      <td align="center">1</td>
-    </tr>
-    <tr>
-      <td align="center">OpenCV_</td>
-      <td align="center">👀</td>
-      <td align="center">2</td>
-    </tr>
-    <tr>
-      <td align="center">VisionAI_</td>
-      <td align="center">🧠</td>
-      <td align="center"> coming soon </td>
-    </tr>
-    <tr>
-      <td align="center">AIAgents_</td>
-      <td align="center">👽</td>
-      <td align="center">1</td>
-    </tr>
-  </table>
-</p>
+<div align="center">
+    <p style="font-size: 8px; margin: 0; padding: 0;"><b>'HK' logo is Copyrighted & Protected by Department for Promotion of Industry & Internal Trade under the Govt of India's Intellectual Property Rights. I reserve the right to take legal action & file a lawsuit against any infringement on all social media platforms.</b></p>
+    <p style="font-size: 8px; margin: 0; padding: 0;"><b> © All Rights Reserved to the Creator of Logo </b></p>
 
-<!-- Hazzle Free Repo Table -->
-<!-- Hazzle Free Repo Table -->
-<!-- Hazzle Free Repo Table -->
+</div>
+<div align="center">
+</div>
 
-<br>
+![Alt text for your image](HK_LOGO_END.png)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-12-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⚠️ NOTE⚠️ -important" alt="Note" />
-</p>
-
-<p align="center">
-  Some of my repositories 𝗹𝗮𝗰𝗸 𝗰𝗼𝗱𝗲 because they are related to 𝗰𝗼𝘂𝗿𝘀𝗲𝘄𝗼𝗿𝗸 from SUNY Buffalo. <br>
-  In compliance with the 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗮𝘁 𝗕𝘂𝗳𝗳𝗮𝗹𝗼'𝘀 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗜𝗻𝘁𝗲𝗴𝗿𝗶𝘁𝘆 𝗣𝗼𝗹𝗶𝗰𝘆, it is prohibited to upload code to any online platform.
-</p>
-
-
+--- 
