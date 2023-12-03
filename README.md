@@ -115,18 +115,7 @@
 </p>
 
 
----
-
 ![Alt text for your image](git_title_6.png)
-
-
-
-
-
-
-
-
-
 
 
 <!-- Technology and Tools Badges -->
@@ -196,7 +185,6 @@
 ![Paint3D](https://img.shields.io/badge/-PAINT%203D-%235859A8?style=for-the-badge)
 ![VNEditor](https://img.shields.io/badge/-VN%20EDITOR-%23E44134?style=for-the-badge)
 
----
 
 <!-- Title 7 -->
 <p align="center">
@@ -247,9 +235,6 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" /></td>
   </tr>
 </table>
-
-
-
 
 
 <div align="center">
