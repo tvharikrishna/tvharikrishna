@@ -108,12 +108,15 @@
 
 ![Alt text for your image](git_about_me_2.png)
 
+--- 
+
 ![Alt text for your image](git_title_2.png)
 
 <p align="center">
   <img src="git_my_intrests.gif" />
 </p>
 
+--- 
 
 ![Alt text for your image](git_title_6.png)
 
@@ -185,6 +188,7 @@
 ![Paint3D](https://img.shields.io/badge/-PAINT%203D-%235859A8?style=for-the-badge)
 ![VNEditor](https://img.shields.io/badge/-VN%20EDITOR-%23E44134?style=for-the-badge)
 
+--- 
 
 <!-- Title 7 -->
 <p align="center">
