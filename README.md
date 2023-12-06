@@ -236,6 +236,7 @@
   </tr>
 </table>
 
+--- 
 
 <div align="center">
     <p style="font-size: 8px; margin: 0; padding: 0;"><b>'HK' logo is Copyrighted & Protected by Department for Promotion of Industry & Internal Trade under the Govt of India's Intellectual Property Rights. I reserve the right to take legal action & file a lawsuit against any infringement on all social media platforms.</b></p>
@@ -247,4 +248,4 @@
 
 ![Alt text for your image](HK_LOGO_END.png)
 
---- 
+
