@@ -108,82 +108,122 @@
 
 ![Alt text for your image](git_title_6.png)
 
+<h3 style="font-size: 28px;">
+  Operating Systems & Shell Scripting <i class="fas fa-terminal" style="font-size: 24px;"></i>
+</h3>
 
-<!-- Technology and Tools Badges -->
-<img src="https://img.shields.io/badge/-Technology%20and%20Tools-blue?style=plastic" alt="Technology and Tools" width="220" />
+<p>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows OS Badge" style="height:32px;" />
+&nbsp;
+<img src="https://img.shields.io/badge/Windows%20Terminal-%23000000.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal Badge" style="height:32px;" />
+&nbsp;
+<img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell Badge" style="height:32px;" />
+&nbsp;
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu OS Badge" style="height:32px;" />
+&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" style="height:32px;" />
+&nbsp;
+<img src="https://img.shields.io/badge/Bash_Scripting-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Scripting Badge" style="height:32px;" />
+&nbsp;
+<img src="https://img.shields.io/badge/Git_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Git Bash Badge" style="height:32px;" />
+</p>
 
-![Pytorch Badge](https://img.shields.io/badge/-PYTORCH-%23EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
-![Numpy Badge](https://img.shields.io/badge/-NUMPY-%23013243?logo=numpy&logoColor=white&style=for-the-badge)
-![Open3D Badge](https://img.shields.io/badge/-OPEN3D-%23EC4C02?style=for-the-badge)
-![OpenAI Gym Badge](https://img.shields.io/badge/-OPENAI%20GYM-%2300BFFF?style=for-the-badge)
-![Visual Studio Badge](https://img.shields.io/badge/-VISUAL%20STUDIO-%235C2D91?logo=visualstudio&logoColor=white&style=for-the-badge)
-![MATLAB Badge](https://img.shields.io/badge/-MATLAB-%23E46F00?logo=mathworks&logoColor=white&style=for-the-badge)
-![Pandas Badge](https://img.shields.io/badge/-PANDAS-%23150458?logo=pandas&logoColor=white&style=for-the-badge)
-![C++ Badge](https://img.shields.io/badge/-C++-%2300599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![Visual Code Badge](https://img.shields.io/badge/-VISUAL%20CODE-%23007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![Jupyter Notebook Badge](https://img.shields.io/badge/-JUPYTER%20NOTEBOOK-%23F37626?logo=jupyter&logoColor=white&style=for-the-badge)
-![Scipy Badge](https://img.shields.io/badge/-SCIPY-%238CAAE6?logo=scipy&logoColor=white&style=for-the-badge)
-![Apache MXNet Badge](https://img.shields.io/badge/-APACHE%20MXNET-%23D61F1F?logo=apache&logoColor=white&style=for-the-badge)
-![ROS Badge](https://img.shields.io/badge/-ROS-%2383B1D3?logo=ros&logoColor=white&style=for-the-badge)
-![VMware Badge](https://img.shields.io/badge/-VMWARE-%23607C8E?logo=vmware&logoColor=white&style=for-the-badge)
-![TensorFlow Badge](https://img.shields.io/badge/-TENSORFLOW-%23FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
-![Unity Engine Badge](https://img.shields.io/badge/-UNITY%20ENGINE-%23000000?logo=unity&logoColor=white&style=for-the-badge)
-![OpenCV Badge](https://img.shields.io/badge/-OPENCV-%235BB97F?logo=opencv&logoColor=white&style=for-the-badge)
-![F1tenth Simulator Badge](https://img.shields.io/badge/-F1TENTH%20SIMULATOR-%23EE82EE?style=for-the-badge)
-![Keras Badge](https://img.shields.io/badge/-KERAS-%23D00000?logo=keras&logoColor=white&style=for-the-badge)
-![Notepad++ Badge](https://img.shields.io/badge/-NOTEPAD++-%2390E59A?logo=notepadplusplus&logoColor=white&style=for-the-badge)
-![Anaconda Badge](https://img.shields.io/badge/-ANACONDA-%2344A833?logo=anaconda&logoColor=white&style=for-the-badge)
-![Python Badge](https://img.shields.io/badge/-PYTHON-%23DAA520?logo=python&logoColor=white&style=for-the-badge)
-![CARLA Badge](https://img.shields.io/badge/-CARLA-%23F54F33?style=for-the-badge)
-![Jetson Nano Badge](https://img.shields.io/badge/-JETSON%20NANO-%2376B900?logo=nvidia&logoColor=white&style=for-the-badge)
-![Matplotlib Badge](https://img.shields.io/badge/-MATPLOTLIB-%23FCC624?logo=matplotlib&logoColor=white&style=for-the-badge)
-![Scikit-learn Badge](https://img.shields.io/badge/-SCIKIT--LEARN-%23F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
-![PCL Library Badge](https://img.shields.io/badge/-PCL%20LIBRARY-%23E6E6E6?style=for-the-badge)
-![Gazebo Badge](https://img.shields.io/badge/-GAZEBO-%23F47D43?style=for-the-badge)
-![Unreal Engine Badge](https://img.shields.io/badge/-UNREAL%20ENGINE-%23313131?logo=unreal-engine&logoColor=white&style=for-the-badge)
-![MeshLab Badge](https://img.shields.io/badge/-MESHLAB-%236C757D?style=for-the-badge)
-![RViz Badge](https://img.shields.io/badge/-RVIZ-%23FF69B4?style=for-the-badge)
-![CUDA Badge](https://img.shields.io/badge/-CUDA-%2376B900?logo=nvidia&logoColor=white&style=for-the-badge)
-![CMakeBadge](http://img.shields.io/badge/-CMake-%2308a5e3?logo=cmake&logoColor=white&style=for-the-badge)
+<!-- ======= PROGRAMMING LANGUAGES ======== -->
+<h3 style="font-size: 28px;">
+  Programming Languages <i class="fas fa-code" style="font-size: 24px;"></i>
+</h3>
+<p>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge" style="height:32px;" />
+&nbsp;
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge" style="height:32px;" />
+</p>
 
-<br><br>
+<!-- ======= LIBRARY ======== -->
+<h3 style="font-size: 28px;">
+  Libraries <i class="fas fa-book" style="font-size: 24px;"></i>
+</h3>
+<p style="text-align: justify;">
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy Badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-8B0000?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib Badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn Badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/SciPy-FFD700?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy Badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn Badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open3D-1E90FF?style=for-the-badge&logo=python&logoColor=white" alt="Open3D Badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/PCL-228B22?style=for-the-badge&logo=cplusplus&logoColor=white" alt="PCL Badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Eigen-FF1493?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Eigen Badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/STL-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="STL Badge" />
+</p>
 
-<!-- Office Tools Badges -->
-<img src="https://img.shields.io/badge/Office%20Tools-blue?style=plastic" alt="Office Tools" width="130" />
+<!-- ======= TOOLS ======== -->
+<h3 style="font-size: 28px;">
+  Tools <i class="fas fa-tools" style="font-size: 24px;"></i>
+</h3>
+<p>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware Badge" style="height:32px;" />
+&nbsp;
+<img src="https://img.shields.io/badge/CloudCompare-3D3D3D?style=for-the-badge&logo=cplusplus&logoColor=white" alt="CloudCompare Badge" style="height:32px;" /> <!-- C++ logo for CloudCompare -->
+&nbsp;
+<img src="https://img.shields.io/badge/RealVNC-000000?style=for-the-badge&logo=computer&logoColor=white" alt="Real VNC Badge" style="height:32px;" /> <!-- Generic computer icon for RealVNC -->
+&nbsp;
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake Badge" style="height:32px;" />
+&nbsp;
+<img src="https://img.shields.io/badge/DevC++-5C2D91?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Dev C++ Badge" style="height:32px;" />
+&nbsp;
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code Badge" style="height:32px;" />
+&nbsp;
+<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio Badge" style="height:32px;" />
+&nbsp;
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda Badge" style="height:32px;" />
+&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook Badge" style="height:32px;" />
+&nbsp;
+<img src="https://img.shields.io/badge/PuTTY-019733?style=for-the-badge&logo=terminal&logoColor=white" alt="PuTTY Badge" style="height:32px;" /> <!-- Terminal icon for PuTTY -->
+</p>
 
-![Google_Sheets](https://img.shields.io/badge/-GOOGLE%20SHEETS-%234285F4?logo=google-sheets&logoColor=white&style=for-the-badge)
-![Excel](https://img.shields.io/badge/-MICROSOFT%20EXCEL-%23217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
-![Office](https://img.shields.io/badge/-MICROSOFT%20OFFICE-%23D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge)
-![Word](https://img.shields.io/badge/-MICROSOFT%20WORD-%232B579A?logo=microsoft-word&logoColor=white&style=for-the-badge)
-![PowerPoint](https://img.shields.io/badge/-MICROSOFT%20POWERPOINT-%23B7472A?logo=microsoft-powerpoint&logoColor=white&style=for-the-badge)
-![NotePad](https://img.shields.io/badge/-NOTEPAD-%2390E59A?logo=notepadplusplus&logoColor=white&style=for-the-badge)
-
-<br><br>
-
-<!-- Other Tools Badges -->
-<img src="https://img.shields.io/badge/Other%20Tools-blue?style=plastic" alt="Other Tools" width="125" />
-
-![PremierPro](https://img.shields.io/badge/-ADOBE%20PREMIERE%20PRO-%23999999?logo=adobe-premiere-pro&logoColor=white&style=for-the-badge)
-![AfterEffects](https://img.shields.io/badge/-ADOBE%20AFTER%20EFFECTS-%23FF0000?logo=adobe-aftereffects&logoColor=white&style=for-the-badge)
-![PhotoSgop](https://img.shields.io/badge/-ADOBE%20PHOTOSHOP-%2331A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge)
-![DavinchiResolve18](https://img.shields.io/badge/-DA%20VINCI%20RESOLVE%2019-%23FF9E00?style=for-the-badge)
-![Canva](https://img.shields.io/badge/-CANVA-%2300C4CC?logo=canva&logoColor=white&style=for-the-badge)
-![SnapSeed](https://img.shields.io/badge/-SNAPSEED-%23FFDB58?style=for-the-badge)
-![PicsArt](https://img.shields.io/badge/-PICSART-%23007BEF?logo=picsart&logoColor=white&style=for-the-badge)
-![Paint](https://img.shields.io/badge/-PAINT-%23808080?style=for-the-badge)
-![CapCut](https://img.shields.io/badge/-CAPCUT-%23000000?style=for-the-badge)
-![Veed](https://img.shields.io/badge/-VEED-%234A90E2?style=for-the-badge)
-![Paint3D](https://img.shields.io/badge/-PAINT%203D-%235859A8?style=for-the-badge)
-![VNEditor](https://img.shields.io/badge/-VN%20EDITOR-%23E44134?style=for-the-badge)
+<!-- ======= CONTAINERIZATION & VERSION CONTROL TOOLS ======= -->
+<h3 style="font-size: 28px;">
+  Containerization and Version Control Tools <i class="fab fa-docker" style="font-size: 24px;"></i> <i class="fas fa-code-branch" style="font-size: 24px;"></i>
+</h3>
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" style="height:32px;" />
+&nbsp;
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" style="height:32px;" />
+&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" style="height:32px;" />
+</p>
 
 --- 
 
+<!-- Title 7 -->
 <!-- Title 7 -->
 <p align="center">
     <img src="git_title_7.png" alt="Title Image">
 </p>
 
 <p align="center">
+    <a href="your-website-url-here">
+        <img src="git_website_animation.gif" alt="Website" width="200"> 
+    </a>
     <a href="https://www.linkedin.com/in/talapala/">
         <img src="git_linkedin_animation.gif" alt="LinkedIn" width="200">
     </a>
@@ -194,6 +234,7 @@
         <img src="git_github_animation.gif" alt="GitHub" width="250">
     </a>
 </p>
+
 
 <!-- Profile Views and Followers -->
 <!-- Discord Animation GIF -->
