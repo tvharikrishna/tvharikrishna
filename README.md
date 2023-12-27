@@ -222,16 +222,16 @@
 
 <p align="center">
     <a href="https://www.acsu.buffalo.edu/~talapala/">
-        <img src="git_website_animation.gif" alt="Website" width="200"> 
+        <img src="git_website_animation.gif" alt="Website" width="150"> 
     </a>
     <a href="https://www.linkedin.com/in/talapala/">
-        <img src="git_linkedin_animation.gif" alt="LinkedIn" width="200">
+        <img src="git_linkedin_animation.gif" alt="LinkedIn" width="150">
     </a>
     <a href="mailto:tvharikrishna7744@gmail.com?subject=Hello%20from%20GitHub&body=Hi,%20I%20found%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out.">
-        <img src="git_gmail_animation.gif" alt="Gmail" width="200">
+        <img src="git_gmail_animation.gif" alt="Gmail" width="150">
     </a>
     <a href="https://github.com/tvharikrishna">
-        <img src="git_github_animation.gif" alt="GitHub" width="250">
+        <img src="git_github_animation.gif" alt="GitHub" width="150">
     </a>
 </p>
 
