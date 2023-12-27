@@ -215,11 +215,15 @@
 --- 
 
 <!-- Title 7 -->
+<!-- Title 7 -->
 <p align="center">
     <img src="git_title_7.png" alt="Title Image">
 </p>
 
 <p align="center">
+    <a href="your-website-url-here">
+        <img src="git_website_animation.gif" alt="Website" width="200"> 
+    </a>
     <a href="https://www.linkedin.com/in/talapala/">
         <img src="git_linkedin_animation.gif" alt="LinkedIn" width="200">
     </a>
@@ -230,6 +234,7 @@
         <img src="git_github_animation.gif" alt="GitHub" width="250">
     </a>
 </p>
+
 
 <!-- Profile Views and Followers -->
 <!-- Discord Animation GIF -->
