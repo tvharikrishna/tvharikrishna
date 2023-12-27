@@ -6,10 +6,6 @@
 
 <br>
 
-![Alt text for your image](git_title_3.png)
-
-![Alt text for your image](git_sticky_notes.png)
-
 ![Alt text for your image](git_title_4.png)
 
 ![Alt text for your image](git_repo_naming_table_v2.png)
@@ -70,9 +66,9 @@
       <td align="center"> coming soon </td>
     </tr>
     <tr>
-      <td align="center">AIAgents_</td>
+      <td align="center">HKCore_</td>
       <td align="center">👽</td>
-      <td align="center">1</td>
+      <td align="center">0</td>
     </tr>
   </table>
 </p>
