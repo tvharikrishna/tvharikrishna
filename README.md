@@ -109,7 +109,7 @@
 ![Alt text for your image](git_title_6.png)
 
 <h3 style="font-size: 28px;">
-  Operating Systems & Shell Scripting <i class="fas fa-terminal" style="font-size: 24px;"></i>
+  <strong>Operating Systems & Shell Scripting</strong> <i class="fas fa-terminal" style="font-size: 24px;"></i>
 </h3>
 
 <p>
@@ -130,7 +130,7 @@
 
 <!-- ======= PROGRAMMING LANGUAGES ======== -->
 <h3 style="font-size: 28px;">
-  Programming Languages <i class="fas fa-code" style="font-size: 24px;"></i>
+  <strong>Programming Languages</strong> <i class="fas fa-code" style="font-size: 24px;"></i>
 </h3>
 <p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge" style="height:32px;" />
@@ -140,7 +140,7 @@
 
 <!-- ======= LIBRARY ======== -->
 <h3 style="font-size: 28px;">
-  Libraries <i class="fas fa-book" style="font-size: 24px;"></i>
+  <strong>Libraries</strong> <i class="fas fa-book" style="font-size: 24px;"></i>
 </h3>
 <p style="text-align: justify;">
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy Badge" />
@@ -176,7 +176,7 @@
 
 <!-- ======= TOOLS ======== -->
 <h3 style="font-size: 28px;">
-  Tools <i class="fas fa-tools" style="font-size: 24px;"></i>
+  <strong>Tools</strong> <i class="fas fa-tools" style="font-size: 24px;"></i>
 </h3>
 <p>
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware Badge" style="height:32px;" />
@@ -202,7 +202,7 @@
 
 <!-- ======= CONTAINERIZATION & VERSION CONTROL TOOLS ======= -->
 <h3 style="font-size: 28px;">
-  Containerization and Version Control Tools <i class="fab fa-docker" style="font-size: 24px;"></i> <i class="fas fa-code-branch" style="font-size: 24px;"></i>
+  <strong>Containerization and Version Control Tools</strong> <i class="fab fa-docker" style="font-size: 24px;"></i> <i class="fas fa-code-branch" style="font-size: 24px;"></i>
 </h3>
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" style="height:32px;" />
@@ -221,7 +221,7 @@
 </p>
 
 <p align="center">
-    <a href="your-website-url-here">
+    <a href="https://www.acsu.buffalo.edu/~talapala/">
         <img src="git_website_animation.gif" alt="Website" width="200"> 
     </a>
     <a href="https://www.linkedin.com/in/talapala/">
