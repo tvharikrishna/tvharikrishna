@@ -106,14 +106,6 @@
 
 --- 
 
-![Alt text for your image](git_title_2.png)
-
-<p align="center">
-  <img src="git_my_intrests.gif" />
-</p>
-
---- 
-
 ![Alt text for your image](git_title_6.png)
 
 
