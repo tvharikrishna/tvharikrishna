@@ -109,7 +109,7 @@
 ![Alt text for your image](git_title_6.png)
 
 <h3 style="font-size: 28px;">
-  Operating Systems & Shell Scripting <i class="fas fa-terminal" style="font-size: 24px;"></i>
+  <strong>Operating Systems & Shell Scripting</strong> <i class="fas fa-terminal" style="font-size: 24px;"></i>
 </h3>
 
 <p>
@@ -130,7 +130,7 @@
 
 <!-- ======= PROGRAMMING LANGUAGES ======== -->
 <h3 style="font-size: 28px;">
-  Programming Languages <i class="fas fa-code" style="font-size: 24px;"></i>
+  <strong>Programming Languages</strong> <i class="fas fa-code" style="font-size: 24px;"></i>
 </h3>
 <p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge" style="height:32px;" />
@@ -140,7 +140,7 @@
 
 <!-- ======= LIBRARY ======== -->
 <h3 style="font-size: 28px;">
-  Libraries <i class="fas fa-book" style="font-size: 24px;"></i>
+  <strong>Libraries</strong> <i class="fas fa-book" style="font-size: 24px;"></i>
 </h3>
 <p style="text-align: justify;">
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy Badge" />
@@ -176,7 +176,7 @@
 
 <!-- ======= TOOLS ======== -->
 <h3 style="font-size: 28px;">
-  Tools <i class="fas fa-tools" style="font-size: 24px;"></i>
+  <strong>Tools</strong> <i class="fas fa-tools" style="font-size: 24px;"></i>
 </h3>
 <p>
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware Badge" style="height:32px;" />
@@ -202,7 +202,7 @@
 
 <!-- ======= CONTAINERIZATION & VERSION CONTROL TOOLS ======= -->
 <h3 style="font-size: 28px;">
-  Containerization and Version Control Tools <i class="fab fa-docker" style="font-size: 24px;"></i> <i class="fas fa-code-branch" style="font-size: 24px;"></i>
+  <strong>Containerization and Version Control Tools</strong> <i class="fab fa-docker" style="font-size: 24px;"></i> <i class="fas fa-code-branch" style="font-size: 24px;"></i>
 </h3>
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" style="height:32px;" />
@@ -221,17 +221,17 @@
 </p>
 
 <p align="center">
-    <a href="your-website-url-here">
-        <img src="git_website_animation.gif" alt="Website" width="200"> 
+    <a href="https://www.acsu.buffalo.edu/~talapalaaa/"> <!-- Title 7 -->
+        <img src="git_website_animation.gif" alt="Website" width="150"> 
     </a>
     <a href="https://www.linkedin.com/in/talapala/">
-        <img src="git_linkedin_animation.gif" alt="LinkedIn" width="200">
+        <img src="git_linkedin_animation.gif" alt="LinkedIn" width="150">
     </a>
     <a href="mailto:tvharikrishna7744@gmail.com?subject=Hello%20from%20GitHub&body=Hi,%20I%20found%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out.">
-        <img src="git_gmail_animation.gif" alt="Gmail" width="200">
+        <img src="git_gmail_animation.gif" alt="Gmail" width="150">
     </a>
     <a href="https://github.com/tvharikrishna">
-        <img src="git_github_animation.gif" alt="GitHub" width="250">
+        <img src="git_github_animation.gif" alt="GitHub" width="150">
     </a>
 </p>
 
@@ -270,6 +270,10 @@
 </table>
 
 --- 
+
+<p align="center">
+  <img src="HK_Intro_GIF.gif" alt="Alt text for your image">
+</p>
 
 <div align="center">
     <p style="font-size: 8px; margin: 0; padding: 0;"><b>'HK' logo is Copyrighted & Protected by Department for Promotion of Industry & Internal Trade under the Govt of India's Intellectual Property Rights. I reserve the right to take legal action & file a lawsuit against any infringement on all social media platforms.</b></p>
