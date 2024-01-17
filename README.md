@@ -105,9 +105,9 @@
 
 ![Alt text for your image](git_title_5.png)
 
-![Alt text for your image](git_about_me_1.png)
+![Alt text for your image](main_1.png)
 
-![Alt text for your image](git_about_me_2.png)
+![Alt text for your image](main_2.png)
 
 --- 
 
