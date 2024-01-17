@@ -105,9 +105,9 @@
 
 ![Alt text for your image](git_title_5.png)
 
-![Alt text for your image](git_about_me_1.png)
+![Alt text for your image](main_1.png)
 
-![Alt text for your image](git_about_me_2.png)
+![Alt text for your image](main_2.png)
 
 --- 
 
@@ -226,7 +226,7 @@
 </p>
 
 <p align="center">
-    <a href="https://www.acsu.buffalo.edu/~talapalaaa/"> <!-- Title 7 -->
+    <a href="https://www.acsu.buffalo.edu/~talapala/"> <!-- Title 7 -->
         <img src="git_website_animation.gif" alt="Website" width="150"> 
     </a>
     <a href="https://www.linkedin.com/in/talapala/">
