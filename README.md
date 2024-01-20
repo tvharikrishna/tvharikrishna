@@ -89,7 +89,7 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-12-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-11-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
 </p>
 
 <br>
