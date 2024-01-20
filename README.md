@@ -10,6 +10,10 @@
 
 ![Alt text for your image](git_repo_naming_table.png)
 
+<p>
+Chart categorizes my <strong>principal repositories</strong>, with various <strong>submodules</strong> organized beneath, each containing <strong>targeted work</strong> specific to its domain 
+</p>
+
 ![Alt text for your image](git_title_9.png)
 
 
