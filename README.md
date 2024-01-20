@@ -26,58 +26,58 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
   <table align="center">
     <tr>
       <th>Repo Prefix</th>
-      <th align="center">Repo Emoji Identification</th>
+      <th align="center">Repo Emoji </th>
       <th align="center">Number of Repo</th>
     </tr>
     <tr>
-      <td align="center">ROSRobotics_</td>
+      <td align="center">ROSRobotics</td>
       <td align="center">☢️</td>
       <td align="center">3</td>
     </tr>
     <tr>
-      <td align="center">CarlaSim_</td>
+      <td align="center">SelfDrivingCars</td>
       <td align="center">🚗</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td align="center">PathPlanning_</td>
+      <td align="center">PathPlanning</td>
       <td align="center">🪱</td>
-      <td align="center"> coming soon </td>
+      <td align="center">-</td>
     </tr>
     <tr>
-      <td align="center">MotionPlanning_</td>
+      <td align="center">MotionPlanning</td>
       <td align="center">🛩</td>
       <td align="center">2</td>
     </tr>
     <tr>
-      <td align="center">HKBOT_</td>
+      <td align="center">HKBOT_MobileRobot</td>
       <td align="center">🤖</td>
       <td align="center">2</td>
     </tr>
     <tr>
-      <td align="center">3DVision_</td>
+      <td align="center">3DVision</td>
       <td align="center">🗾</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td align="center">OpenCV_</td>
+      <td align="center">ComputerVision</td>
       <td align="center">👀</td>
       <td align="center">2</td>
     </tr>
     <tr>
-      <td align="center">VisionAI_</td>
+      <td align="center">AIVision</td>
       <td align="center">🧠</td>
-      <td align="center"> coming soon </td>
+      <td align="center">-</td>
     </tr>
     <tr>
-      <td align="center">GameEngine_</td>
+      <td align="center">GameEngines</td>
       <td align="center">⚜️</td>
-      <td align="center">0</td>
+      <td align="center">-</td>
     </tr>
     <tr>
-      <td align="center">HKCore_</td>
+      <td align="center">CoreProjects</td>
       <td align="center">👽</td>
-      <td align="center">0</td>
+      <td align="center">-</td>
     </tr>
   </table>
 </p>
