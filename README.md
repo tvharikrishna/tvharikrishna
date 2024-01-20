@@ -8,7 +8,7 @@
 
 ![Alt text for your image](git_title_4.png)
 
-![Alt text for your image](git_repo_naming_table_v1.png)
+![Alt text for your image](git_repo_naming_table.png)
 
 ![Alt text for your image](git_title_9.png)
 
