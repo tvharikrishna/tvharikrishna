@@ -16,12 +16,6 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
 
 ![Alt text for your image](git_title_9.png)
 
-
-<!-- Hazzle Free Repo Table -->
-<!-- Hazzle Free Repo Table -->
-<!-- Hazzle Free Repo Table -->
-
-
 <p align="center">
   <table align="center">
     <tr>
@@ -68,8 +62,6 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
       <td align="center">2</td>
     </tr>
     <tr>
-
-    </tr>
   </table>
 </p>
 
