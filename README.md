@@ -30,44 +30,45 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
       <th align="center">Number of Repo</th>
     </tr>
     <tr>
-      <td align="center">ROSRobotics</td>
+      <td align="left">_ROSRobotics</td>
       <td align="center">☢️</td>
       <td align="center">3</td>
     </tr>
     <tr>
-      <td align="center">SelfDrivingCars</td>
+      <td align="left">_SelfDrivingCars</td>
       <td align="center">🚗</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td align="center">PathPlanning</td>
+      <td align="left">_AIVision</td>
+      <td align="center">🧠</td>
+      <td align="center">-</td>
+    </tr>
+      <td align="left">_HKBOT_MobileRobot</td>
+      <td align="center">🤖</td>
+      <td align="center">2</td>
+    <tr>
+      <td align="left">_PathPlanning</td>
       <td align="center">🪱</td>
       <td align="center">-</td>
     </tr>
     <tr>
-      <td align="center">Motion_Controllers</td>
+      <td align="left">_Motion_Controllers</td>
       <td align="center">🛩</td>
       <td align="center">2</td>
     </tr>
     <tr>
-      <td align="center">HKBOT_MobileRobot</td>
-      <td align="center">🤖</td>
-      <td align="center">2</td>
-    </tr>
-    <tr>
-      <td align="center">3DVision</td>
+      <td align="left">_3DVision</td>
       <td align="center">🗾</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td align="center">ComputerVision</td>
+      <td align="left">_ComputerVision</td>
       <td align="center">👀</td>
       <td align="center">2</td>
     </tr>
     <tr>
-      <td align="center">AIVision</td>
-      <td align="center">🧠</td>
-      <td align="center">-</td>
+
     </tr>
   </table>
 </p>
