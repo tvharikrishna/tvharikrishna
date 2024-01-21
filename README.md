@@ -20,7 +20,7 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
   <table align="center">
     <tr>
       <th>Repo Prefix</th>
-      <th align="center">Repo Emoji </th>
+      <th align="center">Repo Emoji</th>
       <th align="center">Number of Repo</th>
     </tr>
     <tr>
@@ -38,9 +38,11 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
       <td align="center">🧠</td>
       <td align="center">-</td>
     </tr>
+    <tr></tr>
       <td align="left">_HKBOT_MobileRobot</td>
       <td align="center">🤖</td>
       <td align="center">2</td>
+    </tr>
     <tr>
       <td align="left">_PathPlanning</td>
       <td align="center">🪱</td>
@@ -61,9 +63,9 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
       <td align="center">👀</td>
       <td align="center">2</td>
     </tr>
-    <tr>
   </table>
 </p>
+
 
 <!-- Hazzle Free Repo Table -->
 <!-- Hazzle Free Repo Table -->
