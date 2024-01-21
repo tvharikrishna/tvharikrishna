@@ -8,7 +8,11 @@
 
 ![Alt text for your image](git_title_4.png)
 
-![Alt text for your image](git_repo_naming_table_v1.png)
+![Alt text for your image](git_repo_naming_table.png)
+
+<p>
+Chart categorizes my <strong>principal repositories</strong>, with various <strong>submodules</strong> organized beneath, each containing <strong>targeted work</strong> specific to its domain 
+</p>
 
 ![Alt text for your image](git_title_9.png)
 
@@ -22,58 +26,48 @@
   <table align="center">
     <tr>
       <th>Repo Prefix</th>
-      <th align="center">Repo Emoji Identification</th>
+      <th align="center">Repo Emoji </th>
       <th align="center">Number of Repo</th>
     </tr>
     <tr>
-      <td align="center">ROSRobotics_</td>
+      <td align="center">ROSRobotics</td>
       <td align="center">☢️</td>
       <td align="center">3</td>
     </tr>
     <tr>
-      <td align="center">CarlaSim_</td>
+      <td align="center">SelfDrivingCars</td>
       <td align="center">🚗</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td align="center">PathPlanning_</td>
+      <td align="center">PathPlanning</td>
       <td align="center">🪱</td>
-      <td align="center"> coming soon </td>
+      <td align="center">-</td>
     </tr>
     <tr>
-      <td align="center">MotionPlanning_</td>
+      <td align="center">Motion_Controllers</td>
       <td align="center">🛩</td>
       <td align="center">2</td>
     </tr>
     <tr>
-      <td align="center">HKBOT_</td>
+      <td align="center">HKBOT_MobileRobot</td>
       <td align="center">🤖</td>
       <td align="center">2</td>
     </tr>
     <tr>
-      <td align="center">3DVision_</td>
+      <td align="center">3DVision</td>
       <td align="center">🗾</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td align="center">OpenCV_</td>
+      <td align="center">ComputerVision</td>
       <td align="center">👀</td>
       <td align="center">2</td>
     </tr>
     <tr>
-      <td align="center">VisionAI_</td>
+      <td align="center">AIVision</td>
       <td align="center">🧠</td>
-      <td align="center"> coming soon </td>
-    </tr>
-    <tr>
-      <td align="center">GameEngine_</td>
-      <td align="center">⚜️</td>
-      <td align="center">0</td>
-    </tr>
-    <tr>
-      <td align="center">HKCore_</td>
-      <td align="center">👽</td>
-      <td align="center">0</td>
+      <td align="center">-</td>
     </tr>
   </table>
 </p>
@@ -85,7 +79,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-12-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-11-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
 </p>
 
 <br>
