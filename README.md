@@ -69,16 +69,6 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
       <td align="center">🧠</td>
       <td align="center">-</td>
     </tr>
-    <tr>
-      <td align="center">GameEngines</td>
-      <td align="center">⚜️</td>
-      <td align="center">-</td>
-    </tr>
-    <tr>
-      <td align="center">CoreProjects</td>
-      <td align="center">👽</td>
-      <td align="center">-</td>
-    </tr>
   </table>
 </p>
 
