@@ -8,7 +8,7 @@
 
 ![Alt text for your image](git_title_4.png)
 
-![Alt text for your image](git_repo_naming_table.png)
+![Alt text for your image](git_repo_naming_table_v3.png)
 
 <p>
 Chart categorizes my <strong>principal repositories</strong>, with various <strong>submodules</strong> organized beneath, each containing <strong>targeted work</strong> specific to its domain 
