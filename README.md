@@ -8,7 +8,7 @@
 
 ![Alt text for your image](git_title_4.png)
 
-![Alt text for your image](git_repo_naming_table.png)
+![Alt text for your image](git_repo_naming_table_v3.png)
 
 <p>
 Chart categorizes my <strong>principal repositories</strong>, with various <strong>submodules</strong> organized beneath, each containing <strong>targeted work</strong> specific to its domain 
@@ -16,61 +16,56 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
 
 ![Alt text for your image](git_title_9.png)
 
-
-<!-- Hazzle Free Repo Table -->
-<!-- Hazzle Free Repo Table -->
-<!-- Hazzle Free Repo Table -->
-
-
 <p align="center">
   <table align="center">
     <tr>
       <th>Repo Prefix</th>
-      <th align="center">Repo Emoji </th>
+      <th align="center">Repo Emoji</th>
       <th align="center">Number of Repo</th>
     </tr>
     <tr>
-      <td align="center">ROSRobotics</td>
+      <td align="left">_ROSRobotics</td>
       <td align="center">☢️</td>
       <td align="center">3</td>
     </tr>
     <tr>
-      <td align="center">SelfDrivingCars</td>
+      <td align="left">_SelfDrivingCars</td>
       <td align="center">🚗</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td align="center">PathPlanning</td>
-      <td align="center">🪱</td>
+      <td align="left">_AIVision</td>
+      <td align="center">🧠</td>
       <td align="center">-</td>
     </tr>
-    <tr>
-      <td align="center">Motion_Controllers</td>
-      <td align="center">🛩</td>
-      <td align="center">2</td>
-    </tr>
-    <tr>
-      <td align="center">HKBOT_MobileRobot</td>
+    <tr></tr>
+      <td align="left">_HKBOT_MobileRobot</td>
       <td align="center">🤖</td>
       <td align="center">2</td>
     </tr>
     <tr>
-      <td align="center">3DVision</td>
+      <td align="left">_PathPlanning</td>
+      <td align="center">🪱</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td align="left">_Motion_Controllers</td>
+      <td align="center">🛩</td>
+      <td align="center">2</td>
+    </tr>
+    <tr>
+      <td align="left">_3DVision</td>
       <td align="center">🗾</td>
       <td align="center">1</td>
     </tr>
     <tr>
-      <td align="center">ComputerVision</td>
+      <td align="left">_ComputerVision</td>
       <td align="center">👀</td>
       <td align="center">2</td>
     </tr>
-    <tr>
-      <td align="center">AIVision</td>
-      <td align="center">🧠</td>
-      <td align="center">-</td>
-    </tr>
   </table>
 </p>
+
 
 <!-- Hazzle Free Repo Table -->
 <!-- Hazzle Free Repo Table -->
