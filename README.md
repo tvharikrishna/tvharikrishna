@@ -8,7 +8,8 @@
 
 <!--------------------------- SERVER DOWN -------------------------------------->
 
-    Server back to Online: 2/1/2024
+                    Server will be back onkine: 2/1/2024 by 6am-IST
+                    
 <p align="center">
   <img src="server1.gif" alt="Alt text for your image">
 </p>
