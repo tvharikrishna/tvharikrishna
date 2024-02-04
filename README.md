@@ -12,9 +12,10 @@
 
 ![Alt text for your image](git_repo_naming_table.png)
 
-<p>
-The chart organizes my <strong>main repositories</strong> and their <strong>submodules</strong>, each focusing on <strong>domain-specific work</strong>.
+<p align="center">
+  The chart organizes my <strong>main repositories</strong> and their <strong>submodules</strong>, each focusing on <strong>domain-specific work</strong>.
 </p>
+
 
 ![Alt text for your image](git_title_9.png)
 
