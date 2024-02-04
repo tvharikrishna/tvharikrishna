@@ -10,7 +10,7 @@
 
 ![Alt text for your image](git_title_4.png)
 
-![Alt text for your image](git_repo_naming_table_v3.png)
+![Alt text for your image](git_repo_naming_table.png)
 
 <p>
 Chart categorizes my <strong>principal repositories</strong>, with various <strong>submodules</strong> organized beneath, each containing <strong>targeted work</strong> specific to its domain 
@@ -46,13 +46,8 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
       <td align="center">2</td>
     </tr>
     <tr>
-      <td align="left">_PathPlanning</td>
+      <td align="left">_Motion_Planning</td>
       <td align="center">🪱</td>
-      <td align="center">-</td>
-    </tr>
-    <tr>
-      <td align="left">_Motion_Controllers</td>
-      <td align="center">🛩</td>
       <td align="center">2</td>
     </tr>
     <tr>
