@@ -28,22 +28,22 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
     <tr>
       <td align="left">_ROSRobotics</td>
       <td align="center">☢️</td>
-      <td align="center">3</td>
+      <td align="center">0</td>
     </tr>
     <tr>
       <td align="left">_SelfDrivingCars</td>
       <td align="center">🚗</td>
-      <td align="center">1</td>
+      <td align="center">0</td>
     </tr>
     <tr>
       <td align="left">_AIVision</td>
       <td align="center">🧠</td>
-      <td align="center">-</td>
+      <td align="center">0</td>
     </tr>
     <tr></tr>
       <td align="left">_HKBOT_MobileRobot</td>
       <td align="center">🤖</td>
-      <td align="center">2</td>
+      <td align="center">0</td>
     </tr>
     <tr>
       <td align="left">_Motion_Planning</td>
@@ -53,12 +53,12 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
     <tr>
       <td align="left">_3DVision</td>
       <td align="center">🗾</td>
-      <td align="center">1</td>
+      <td align="center">0</td>
     </tr>
     <tr>
       <td align="left">_ComputerVision</td>
       <td align="center">👀</td>
-      <td align="center">2</td>
+      <td align="center">0</td>
     </tr>
   </table>
 </p>
@@ -68,7 +68,7 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-11-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-2-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
 </p>
 
 <br>
