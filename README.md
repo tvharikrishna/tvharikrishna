@@ -47,7 +47,7 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
     </tr>
     <tr>
       <td align="left">_Motion_Planning</td>
-      <td align="center">🪱</td>
+      <td align="center">🚗 🪱</td>
       <td align="center">2</td>
     </tr>
     <tr>
