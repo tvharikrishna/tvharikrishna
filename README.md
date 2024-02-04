@@ -6,6 +6,8 @@
 
 <br>
 
+<!------------------------------ MAIN ------------------------------------------>
+
 ![Alt text for your image](git_title_4.png)
 
 ![Alt text for your image](git_repo_naming_table_v3.png)
@@ -67,9 +69,6 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
 </p>
 
 
-<!-- Hazzle Free Repo Table -->
-<!-- Hazzle Free Repo Table -->
-<!-- Hazzle Free Repo Table -->
 
 <br>
 
@@ -122,7 +121,6 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
 <img src="https://img.shields.io/badge/Git_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Git Bash Badge" style="height:32px;" />
 </p>
 
-<!-- ======= PROGRAMMING LANGUAGES ======== -->
 <h3 style="font-size: 28px;">
   <strong>Programming Languages</strong> <i class="fas fa-code" style="font-size: 24px;"></i>
 </h3>
@@ -132,7 +130,6 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge" style="height:32px;" />
 </p>
 
-<!-- ======= LIBRARY ======== -->
 <h3 style="font-size: 28px;">
   <strong>Libraries</strong> <i class="fas fa-book" style="font-size: 24px;"></i>
 </h3>
@@ -168,16 +165,15 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
 <img src="https://img.shields.io/badge/STL-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="STL Badge" />
 </p>
 
-<!-- ======= TOOLS ======== -->
 <h3 style="font-size: 28px;">
   <strong>Tools</strong> <i class="fas fa-tools" style="font-size: 24px;"></i>
 </h3>
 <p>
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware Badge" style="height:32px;" />
 &nbsp;
-<img src="https://img.shields.io/badge/CloudCompare-3D3D3D?style=for-the-badge&logo=cplusplus&logoColor=white" alt="CloudCompare Badge" style="height:32px;" /> <!-- C++ logo for CloudCompare -->
+<img src="https://img.shields.io/badge/CloudCompare-3D3D3D?style=for-the-badge&logo=cplusplus&logoColor=white" alt="CloudCompare Badge" style="height:32px;" /> 
 &nbsp;
-<img src="https://img.shields.io/badge/RealVNC-000000?style=for-the-badge&logo=computer&logoColor=white" alt="Real VNC Badge" style="height:32px;" /> <!-- Generic computer icon for RealVNC -->
+<img src="https://img.shields.io/badge/RealVNC-000000?style=for-the-badge&logo=computer&logoColor=white" alt="Real VNC Badge" style="height:32px;" /> 
 &nbsp;
 <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake Badge" style="height:32px;" />
 &nbsp;
@@ -191,10 +187,10 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
 &nbsp;
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook Badge" style="height:32px;" />
 &nbsp;
-<img src="https://img.shields.io/badge/PuTTY-019733?style=for-the-badge&logo=terminal&logoColor=white" alt="PuTTY Badge" style="height:32px;" /> <!-- Terminal icon for PuTTY -->
+<img src="https://img.shields.io/badge/PuTTY-019733?style=for-the-badge&logo=terminal&logoColor=white" alt="PuTTY Badge" style="height:32px;" />
 </p>
 
-<!-- ======= CONTAINERIZATION & VERSION CONTROL TOOLS ======= -->
+
 <h3 style="font-size: 28px;">
   <strong>Containerization and Version Control Tools</strong> <i class="fab fa-docker" style="font-size: 24px;"></i> <i class="fas fa-code-branch" style="font-size: 24px;"></i>
 </h3>
@@ -208,8 +204,6 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
 
 --- 
 
-<!-- Title 7 -->
-<!-- Title 7 -->
 <p align="center">
     <img src="git_title_7.png" alt="Title Image">
 </p>
@@ -226,13 +220,8 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
     </a>
     <a href="https://github.com/tvharikrishna">
         <img src="git_github_animation.gif" alt="GitHub" width="150">
-    </a>
-</p>
-
-
-<!-- Profile Views and Followers -->
-<!-- Discord Animation GIF -->
-
+    </a></p>
+    
 ---
 
 <p align="center">
@@ -256,14 +245,13 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
 
 <table align="center">
   <tr>
-    <!-- Github Statistics Widget -->
-    <td><img src="https://github-readme-stats.vercel.app/api?username=tvharikrishna&show_icons=true&theme=radical" /></td>
-    <!-- Github Top Language Used Widget -->
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" /></td>
+
+  <td><img src="https://github-readme-stats.vercel.app/api?username=tvharikrishna&show_icons=true&theme=radical" /></td>
+
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" /></td>
   </tr>
 </table>
 
---- 
 
 <p align="center">
   <img src="HK_Intro_GIF.gif" alt="Alt text for your image">
@@ -278,6 +266,14 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
 </div>
 
 ![Alt text for your image](HK_LOGO_END.png)
+
+
+
+
+
+
+
+
 
 
 
