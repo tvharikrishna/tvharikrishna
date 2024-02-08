@@ -10,11 +10,12 @@
 
 ![Alt text for your image](git_title_4.png)
 
-![Alt text for your image](git_repo_naming_table_v3.png)
+![Alt text for your image](git_repo_naming_table.png)
 
-<p>
-Chart categorizes my <strong>principal repositories</strong>, with various <strong>submodules</strong> organized beneath, each containing <strong>targeted work</strong> specific to its domain 
+<p align="center">
+  The chart organizes my <strong>main repositories</strong> and their <strong>submodules</strong>, each focusing on <strong>domain-specific work</strong>.
 </p>
+
 
 ![Alt text for your image](git_title_9.png)
 
@@ -28,42 +29,37 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
     <tr>
       <td align="left">_ROSRobotics</td>
       <td align="center">☢️</td>
-      <td align="center">3</td>
+      <td align="center">0</td>
     </tr>
     <tr>
       <td align="left">_SelfDrivingCars</td>
       <td align="center">🚗</td>
-      <td align="center">1</td>
+      <td align="center">0</td>
     </tr>
     <tr>
       <td align="left">_AIVision</td>
       <td align="center">🧠</td>
-      <td align="center">-</td>
+      <td align="center">0</td>
     </tr>
     <tr></tr>
       <td align="left">_HKBOT_MobileRobot</td>
       <td align="center">🤖</td>
-      <td align="center">2</td>
+      <td align="center">0</td>
     </tr>
     <tr>
-      <td align="left">_PathPlanning</td>
-      <td align="center">🪱</td>
-      <td align="center">-</td>
-    </tr>
-    <tr>
-      <td align="left">_Motion_Controllers</td>
-      <td align="center">🛩</td>
+      <td align="left">_Motion_Planning</td>
+      <td align="center">🚗 🪱</td>
       <td align="center">2</td>
     </tr>
     <tr>
       <td align="left">_3DVision</td>
       <td align="center">🗾</td>
-      <td align="center">1</td>
+      <td align="center">0</td>
     </tr>
     <tr>
       <td align="left">_ComputerVision</td>
       <td align="center">👀</td>
-      <td align="center">2</td>
+      <td align="center">0</td>
     </tr>
   </table>
 </p>
@@ -73,7 +69,7 @@ Chart categorizes my <strong>principal repositories</strong>, with various <stro
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-11-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-2-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
 </p>
 
 <br>
