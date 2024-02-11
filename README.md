@@ -10,12 +10,12 @@
 
 <table>
   <tr>
-    <td><img src="table_repo.png" alt="Alt text for your image" width="900"/></td>
+    <td><img src="table_repo.png" alt="Alt text for your image" width="620"/></td>
       
 <td>
         <table>
           <tr>
-            <th>Number of Repos</th>
+            <th><b>Number of Repos</b></th>
           </tr>
           <tr>
             <td align="center">0</td>
