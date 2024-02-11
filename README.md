@@ -1,16 +1,15 @@
+<img src="git_title_1.png" alt="Alt text for your image" width="500"/>
 
-
-![Alt text for your image](git_title_1.png)
-
-![Alt text for your image](git_cover_photo.png)
+<img src="git_cover_photo.png" alt="Alt text for your image" width="600"/>
 
 <br>
 
 <!------------------------------ MAIN ------------------------------------------>
 
-![Alt text for your image](git_title_4.png)
+<img src="git_title_4.png" alt="Alt text for your image" width="600"/>
 
-![Alt text for your image](git_repo_table.png)
+<img src="git_repo_table.png" alt="Alt text for your image" width="600"/>
+
 
 <p align="center">
   The chart organizes my <strong>main repositories</strong> and their <strong>submodules</strong>, each focusing on <strong>domain-specific work</strong>.
@@ -32,34 +31,24 @@
       <td align="center">0</td>
     </tr>
     <tr>
-      <td align="left">_SelfDrivingCars</td>
-      <td align="center">🚗</td>
-      <td align="center">0</td>
-    </tr>
-    <tr>
-      <td align="left">_AIVision</td>
-      <td align="center">🧠</td>
-      <td align="center">0</td>
-    </tr>
-    <tr></tr>
       <td align="left">_HKBOT_MobileRobot</td>
       <td align="center">🤖</td>
       <td align="center">0</td>
     </tr>
     <tr>
-      <td align="left">_Motion_Planning</td>
-      <td align="center">🚗 🪱</td>
-      <td align="center">2</td>
-    </tr>
-    <tr>
-      <td align="left">_3DVision</td>
-      <td align="center">🗾</td>
+      <td align="left">_SelfDrivingCars</td>
+      <td align="center">🚗</td>
       <td align="center">0</td>
     </tr>
-    <tr>
-      <td align="left">_ComputerVision</td>
+    <tr></tr>
+      <td align="left">ComputerVision</td>
       <td align="center">👀</td>
       <td align="center">0</td>
+    </tr>
+    <tr>
+      <td align="left">_AIVision</td>
+      <td align="center">🧠</td>
+      <td align="center">2</td>
     </tr>
   </table>
 </p>
@@ -84,119 +73,6 @@
 </p>
 
 <br>
-
----
-
-![Alt text for your image](git_title_5.png)
-
-![Alt text for your image](main_1.png)
-
-![Alt text for your image](main_2.png)
-
---- 
-
-![Alt text for your image](git_title_6.png)
-
-<h3 style="font-size: 28px;">
-  <strong>Operating Systems & Shell Scripting</strong> <i class="fas fa-terminal" style="font-size: 24px;"></i>
-</h3>
-
-<p>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows OS Badge" style="height:32px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/Windows%20Terminal-%23000000.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal Badge" style="height:32px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell Badge" style="height:32px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu OS Badge" style="height:32px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" style="height:32px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/Bash_Scripting-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Scripting Badge" style="height:32px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/Git_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Git Bash Badge" style="height:32px;" />
-</p>
-
-<h3 style="font-size: 28px;">
-  <strong>Programming Languages</strong> <i class="fas fa-code" style="font-size: 24px;"></i>
-</h3>
-<p>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge" style="height:32px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge" style="height:32px;" />
-</p>
-
-<h3 style="font-size: 28px;">
-  <strong>Libraries</strong> <i class="fas fa-book" style="font-size: 24px;"></i>
-</h3>
-<p style="text-align: justify;">
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy Badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-8B0000?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib Badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn Badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/SciPy-FFD700?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy Badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn Badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/Open3D-1E90FF?style=for-the-badge&logo=python&logoColor=white" alt="Open3D Badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/PCL-228B22?style=for-the-badge&logo=cplusplus&logoColor=white" alt="PCL Badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/Eigen-FF1493?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Eigen Badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/STL-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="STL Badge" />
-</p>
-
-<h3 style="font-size: 28px;">
-  <strong>Tools</strong> <i class="fas fa-tools" style="font-size: 24px;"></i>
-</h3>
-<p>
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware Badge" style="height:32px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/CloudCompare-3D3D3D?style=for-the-badge&logo=cplusplus&logoColor=white" alt="CloudCompare Badge" style="height:32px;" /> 
-&nbsp;
-<img src="https://img.shields.io/badge/RealVNC-000000?style=for-the-badge&logo=computer&logoColor=white" alt="Real VNC Badge" style="height:32px;" /> 
-&nbsp;
-<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake Badge" style="height:32px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/DevC++-5C2D91?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Dev C++ Badge" style="height:32px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code Badge" style="height:32px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio Badge" style="height:32px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda Badge" style="height:32px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook Badge" style="height:32px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/PuTTY-019733?style=for-the-badge&logo=terminal&logoColor=white" alt="PuTTY Badge" style="height:32px;" />
-</p>
-
-
-<h3 style="font-size: 28px;">
-  <strong>Containerization and Version Control Tools</strong> <i class="fab fa-docker" style="font-size: 24px;"></i> <i class="fas fa-code-branch" style="font-size: 24px;"></i>
-</h3>
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" style="height:32px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" style="height:32px;" />
-&nbsp;
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" style="height:32px;" />
-</p>
 
 --- 
 
