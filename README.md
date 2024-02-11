@@ -73,49 +73,40 @@
     <img src="title_3.png" alt="Alt text for your image" width="500"/>
 </p>
 
+<br>
+
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center"><a href="https://www.acsu.buffalo.edu/~talapala/"><img src="https://img.shields.io/badge/Portfolio-informational?style=for-the-badge&logo=Portfolio&logoColor=white&color=blue" alt="Portfolio"/></a><br>badge 1</td>
-      <td align="center"><a href="https://poplme.co/F72Hr9Mk/dash"><img src="https://img.shields.io/badge/Visiting%20Card-%F0%9F%98%8A-informational?style=for-the-badge&logo=appveyor&color=lightgrey" alt="Visiting Card"/></a><br>badge 2</td>
-      <td align="center"><a href="https://www.linkedin.com/in/tvharikrishnahk/"><img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0077B5" alt="LinkedIn"/></a><br>badge 3</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://www.youtube.com/@harikrishnaroboticsai/videos"><img src="https://img.shields.io/badge/YouTube-informational?style=for-the-badge&logo=YouTube&logoColor=white&color=red" alt="YouTube"/></a><br>badge 4</td>
-      <td align="center"><a href="https://www.hackerrank.com/watchmelater"><img src="https://img.shields.io/badge/HackerRank-informational?style=for-the-badge&logo=HackerRank&logoColor=white&color=00EA64" alt="HackerRank"/></a><br>badge 5</td>
-      <td align="center"><a href="https://leetcode.com/watchmelater/"><img src="https://img.shields.io/badge/LeetCode-informational?style=for-the-badge&logo=LeetCode&logoColor=white&color=FFA116" alt="LeetCode"/></a><br>badge 6</td>
-    </tr>
-  </table>
+  <a href="https://www.acsu.buffalo.edu/~talapala/"><img src="https://img.shields.io/badge/Portfolio-informational?style=for-the-badge&logo=Portfolio&logoColor=white&color=blue" alt="Portfolio" width="110"/></a>
+  <a href="https://poplme.co/F72Hr9Mk/dash"><img src="https://img.shields.io/badge/Visiting%20Card-%F0%9F%98%8A-informational?style=for-the-badge&logo=appveyor&color=lightgrey" alt="Visiting Card" width="190"/></a>
+  <a href="https://www.linkedin.com/in/tvharikrishnahk/"><img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0077B5" alt="LinkedIn" width="125"/></a>
+  <a href="https://www.youtube.com/@harikrishnaroboticsai/videos"><img src="https://img.shields.io/badge/YouTube-informational?style=for-the-badge&logo=YouTube&logoColor=white&color=red" alt="YouTube" width="113"/></a>
+  <a href="https://www.hackerrank.com/watchmelater"><img src="https://img.shields.io/badge/HackerRank-informational?style=for-the-badge&logo=HackerRank&logoColor=white&color=000000" alt="HackerRank" width="160"/></a>
+  <a href="https://leetcode.com/watchmelater/"><img src="https://img.shields.io/badge/LeetCode-informational?style=for-the-badge&logo=LeetCode&logoColor=white&color=000000" alt="LeetCode" width="125"/></a>
 </p>
 
-    
 ---
 
 <!----------------- GITHUB STATUS --------------------------------->
-<p align="center">
-    <img src="title_4.png" alt="Title Image" width="700" >
-</p>
 
 <div align="center">
  <table>
   <tr>
-    <td><img src="profile_views.gif" alt="Profile Views GIF" width="150" /></td>
-    <td><img src="followers.gif" alt="Followers GIF" width="150" /></td>
-    <td align="center"><img src="languages.gif" alt="Languages GIF" width="150" /></td>
-  <tr>
-    <td><img src="https://komarev.com/ghpvc/?username=tvharikrishna&style=for-the-badge" alt="Profile Views Badge" width="200" /></td>
-    <td><img src="https://img.shields.io/github/followers/tvharikrishna?logo=github&style=for-the-badge" alt="Followers Badge" width="200"  /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" width="200"  /></td> 
+   <td valign="top">
+    <img src="profile_views.gif" alt="Profile Views GIF" width="180" /><br>
+    <img src="https://komarev.com/ghpvc/?username=tvharikrishna&style=for-the-badge" alt="Profile Views Badge" width="180" /><br>
+    <img src="followers.gif" alt="Followers GIF" width="180" /><br>
+    <img src="https://img.shields.io/github/followers/tvharikrishna?logo=github&style=for-the-badge" alt="Followers Badge" width="180" /><br>
+    <img src="languages.gif" alt="Languages GIF" width="180" /><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" width="180" />
+   </td>
+  <td valign="top">
+    <img src="HK_Intro_GIF.gif" alt="Alt text for your image" width="600"/>
+  </td>
   </tr>
- </table>
+  </table>
 </div>
 
-
 <!----------------- HK - LOGO & COPYRIGHTS ------------------------>
-<p align="center">
-  <img src="HK_Intro_GIF.gif" alt="Alt text for your image">
-</p>
-
 <div align="center">
     <p style="font-size: 8px; margin: 0; padding: 0;">
         <b>'HK' logo is Copyrighted & Protected by Department for Promotion of Industry & Internal Trade under the Govt of India's Intellectual Property Rights. 
@@ -130,6 +121,7 @@
 <div align="center">
 </div>
 
+<br>
 <p align="center">
   <img src="HK_LOGO_END.png" alt="Alt text for your image">
 </p>
