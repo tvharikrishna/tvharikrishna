@@ -73,43 +73,13 @@
     <img src="title_3.png" alt="Alt text for your image" width="500"/>
 </p>
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <a href="https://www.acsu.buffalo.edu/~talapala/" target="_blank">
-          <img src="hklogo_logo.png" alt="hklogo_logo" width="130" height="80"/>
-      </td>
-      <td align="center">
-        <a href="https://poplme.co/F72Hr9Mk/dash" target="_blank">
-          <img src="visitingcard_logo.png" alt="visitingcard_logo" width="140" height="140"/>
-      </td>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/tvharikrishnahk/" target="_blank">
-          <img src="linkedin_logo.png" alt="linkedin_logo" width="90" height="90"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://www.youtube.com/@harikrishnaroboticsai/videos" target="_blank">
-          <img src="youtube_logo.png" alt="youtube_logo" width="120" height="110"/>
-      </td>
-      <td align="center">
-        <a href="https://www.hackerrank.com/watchmelater" target="_blank">
-          <img src="hackerrank_logo.png" alt="hackerrank_logo" width="90" height="90"/>
-      </td>
-      <td align="center">
-        <a href="https://leetcode.com/watchmelater/" target="_blank">
-          <img src="leetcode_logo.png" alt="leetcode_logo" width="100" height="100"/>
-      </td>
-    </tr>
-  </table>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-informational?style=for-the-badge&logo=Portfolio&logoColor=white&color=blue)](https://www.acsu.buffalo.edu/~talapala/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0077B5)](https://www.linkedin.com/in/tvharikrishnahk/)
+[![YouTube](https://img.shields.io/badge/YouTube-informational?style=for-the-badge&logo=YouTube&logoColor=white&color=red)](https://www.youtube.com/@harikrishnaroboticsai/videos)
+[![HackerRank](https://img.shields.io/badge/HackerRank-informational?style=for-the-badge&logo=HackerRank&logoColor=white&color=000000)](https://www.hackerrank.com/watchmelater)
+[![LeetCode](https://img.shields.io/badge/LeetCode-informational?style=for-the-badge&logo=LeetCode&logoColor=white&color=000000)](https://leetcode.com/watchmelater/)
+[![Visiting Card](https://img.shields.io/badge/Visiting%20Card-%F0%9F%98%8A-informational?style=for-the-badge&logo=appveyor&color=lightgrey)](https://poplme.co/F72Hr9Mk/dash)
 
-
-
-
-    
 ---
 
 <!----------------- GITHUB STATUS --------------------------------->
