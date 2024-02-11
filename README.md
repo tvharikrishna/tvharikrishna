@@ -134,7 +134,7 @@
 
 <!----------------- HK - LOGO & COPYRIGHTS ------------------------>
 <p align="center">
-  <img src="HK_Intro_GIF.gif" alt="Alt text for your image">
+    <img src="HK_Intro_GIF.gif" alt="Alt text for your image" width="1000"/>
 </p>
 
 <div align="center">
