@@ -79,34 +79,28 @@
       <td align="center">
         <a href="https://www.acsu.buffalo.edu/~talapala/" target="_blank">
           <img src="hklogo_logo.png" alt="hklogo_logo" width="130" height="80"/>
-        </a><br>Portfolio
       </td>
       <td align="center">
         <a href="https://poplme.co/F72Hr9Mk/dash" target="_blank">
           <img src="visitingcard_logo.png" alt="visitingcard_logo" width="140" height="140"/>
-        </a><br>Visiting Card
       </td>
       <td align="center">
         <a href="https://www.linkedin.com/in/tvharikrishnahk/" target="_blank">
-          <img src="linkedin_logo.png" alt="linkedin_logo" width="100" height="100"/>
-        </a><br>LinkedIn
+          <img src="linkedin_logo.png" alt="linkedin_logo" width="90" height="90"/>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://www.youtube.com/@harikrishnaroboticsai/videos" target="_blank">
           <img src="youtube_logo.png" alt="youtube_logo" width="120" height="110"/>
-        </a><br>Youtube
       </td>
       <td align="center">
         <a href="https://www.hackerrank.com/watchmelater" target="_blank">
-          <img src="hackerrank_logo.png" alt="hackerrank_logo" width="110" height="110"/>
-        </a><br>HackerRank
+          <img src="hackerrank_logo.png" alt="hackerrank_logo" width="90" height="90"/>
       </td>
       <td align="center">
         <a href="https://leetcode.com/watchmelater/" target="_blank">
-          <img src="leetcode_logo.png" alt="leetcode_logo" width="120" height="120"/>
-        </a><br>LeetCode
+          <img src="leetcode_logo.png" alt="leetcode_logo" width="100" height="100"/>
       </td>
     </tr>
   </table>
