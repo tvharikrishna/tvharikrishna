@@ -79,7 +79,7 @@ ADD BADGES + LINK HERE
 
 <!----------------- GITHUB STATUS --------------------------------->
 <p align="center">
-    <img src="git_title_4.png" alt="Title Image">
+    <img src="title_4.png" alt="Title Image" width="700" >
 </p>
 
 <div align="center">
