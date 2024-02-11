@@ -81,7 +81,7 @@
   <a href="https://www.linkedin.com/in/tvharikrishnahk/"><img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0077B5" alt="LinkedIn" width="125"/></a>
   <a href="https://www.youtube.com/@harikrishnaroboticsai/videos"><img src="https://img.shields.io/badge/YouTube-informational?style=for-the-badge&logo=YouTube&logoColor=white&color=red" alt="YouTube" width="113"/></a>
   <a href="https://www.hackerrank.com/watchmelater"><img src="https://img.shields.io/badge/HackerRank-informational?style=for-the-badge&logo=HackerRank&logoColor=white&color=000000" alt="HackerRank" width="160"/></a>
-  <a href="https://leetcode.com/watchmelater/"><img src="https://img.shields.io/badge/LeetCode-informational?style=for-the-badge&logo=LeetCode&logoColor=white&color=000000" alt="LeetCode" width="120"/></a>
+  <a href="https://leetcode.com/watchmelater/"><img src="https://img.shields.io/badge/LeetCode-informational?style=for-the-badge&logo=LeetCode&logoColor=white&color=000000" alt="LeetCode" width="130"/></a>
 </p>
 
 
