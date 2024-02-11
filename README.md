@@ -1,17 +1,17 @@
 <div style="text-align: center;">
-    <img src="title_1.png" alt="Alt text for your image" width="200"/>
+    <img src="title_1.png" alt="Alt text for your image" width="700"/>
 </div>
 
 <div style="text-align: center;">
-    <img src="git_cover_photo.png" alt="Alt text for your image" width="200"/>
+    <img src="git_cover_photo.png" alt="Alt text for your image" width="700"/>
 </div>
 
 <div style="text-align: center;">
-    <img src="title_2.png" alt="Alt text for your image" width="200"/>
+    <img src="title_2.png" alt="Alt text for your image" width="700"/>
 </div>
 
 <div style="text-align: center;">
-    <img src="git_repo_table.png" alt="Alt text for your image" width="200"/>
+    <img src="git_repo_table.png" alt="Alt text for your image" width="700"/>
 </div>
 
 <p align="center">
