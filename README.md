@@ -90,8 +90,8 @@
  <table>
   <tr>
    <td valign="top">
-    <img src="passport.png" alt="Profile Views GIF" width="150" /><br>
-    <img src="hardwork_is_only_way.jpg" alt="Profile Views GIF" width="150" /><br>
+    <img src="passport.png" alt="Profile Views GIF" width="180" /><br>
+    <img src="hardwork_is_only_way.jpg" alt="Profile Views GIF" width="180" /><br>
     <img src="https://komarev.com/ghpvc/?username=tvharikrishna&style=for-the-badge" alt="Profile Views Badge" width="180" /><br>
     <img src="followers.gif" alt="Followers GIF" width="180" /><br>
     <img src="https://img.shields.io/github/followers/tvharikrishna?logo=github&style=for-the-badge" alt="Followers Badge" width="180" /><br>
