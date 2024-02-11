@@ -64,13 +64,11 @@
   In compliance with the 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗮𝘁 𝗕𝘂𝗳𝗳𝗮𝗹𝗼'𝘀 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗜𝗻𝘁𝗲𝗴𝗿𝗶𝘁𝘆 𝗣𝗼𝗹𝗶𝗰𝘆, it is prohibited to upload code to any online platform.
 </p>
 
-<br>
-
 --- 
 
 <!----------------- CONNECT ME: Title 3 --------------------------->
 <p align="center">
-    <img src="title_3.png" alt="Alt text for your image" width="700"/>
+    <img src="title_3.png" alt="Alt text for your image" width="500"/>
 </p>
 
 ADD BADGES + LINK HERE
