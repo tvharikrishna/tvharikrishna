@@ -1,18 +1,19 @@
-<div style="text-align: center;">
+<p align="center">
     <img src="title_1.png" alt="Alt text for your image" width="700"/>
-</div>
+</p>
 
-<div style="text-align: center;">
+<p align="center">
     <img src="git_cover_photo.png" alt="Alt text for your image" width="700"/>
-</div>
+</p>
 
-<div style="text-align: center;">
+<p align="center">
     <img src="title_2.png" alt="Alt text for your image" width="700"/>
-</div>
+</p>
 
-<div style="text-align: center;">
+<p align="center">
     <img src="git_repo_table.png" alt="Alt text for your image" width="700"/>
-</div>
+</p>
+
 
 <p align="center">
   The chart organizes my <strong>main repositories</strong> and their <strong>submodules</strong>, each focusing on <strong>domain-specific work</strong>.
