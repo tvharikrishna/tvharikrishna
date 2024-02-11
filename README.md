@@ -84,27 +84,29 @@
   <a href="https://leetcode.com/watchmelater/"><img src="https://img.shields.io/badge/LeetCode-informational?style=for-the-badge&logo=LeetCode&logoColor=white&color=000000" alt="LeetCode" width="125"/></a>
 </p>
 
-
 ---
 
 <!----------------- GITHUB STATUS --------------------------------->
-<p align="center">
-    <img src="title_4.png" alt="Title Image" width="700" >
-</p>
-
 <div align="center">
  <table>
   <tr>
-    <td align="center"><img src="profile_views.gif" alt="Profile Views GIF" width="150" /></td>
-    <td align="center"><img src="followers.gif" alt="Followers GIF" width="150" /></td>
-    <td align="center"><img src="languages.gif" alt="Languages GIF" width="150" /></td>
-  <tr>
-    <td><img src="https://komarev.com/ghpvc/?username=tvharikrishna&style=for-the-badge" alt="Profile Views Badge" width="200" /></td>
-    <td><img src="https://img.shields.io/github/followers/tvharikrishna?logo=github&style=for-the-badge" alt="Followers Badge" width="200"  /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" width="200"  /></td> 
+   <td valign="top">
+    <img src="profile_views.gif" alt="Profile Views GIF" width="100" /><br>
+    <img src="https://komarev.com/ghpvc/?username=tvharikrishna&style=for-the-badge" alt="Profile Views Badge" width="100" /><br>
+    <img src="followers.gif" alt="Followers GIF" width="100" /><br>
+    <img src="https://img.shields.io/github/followers/tvharikrishna?logo=github&style=for-the-badge" alt="Followers Badge" width="100" /><br>
+    <img src="languages.gif" alt="Languages GIF" width="100" /><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" width="100" />
+   </td>
+  <td valign="top">
+    <img src="HK_Intro_GIF.gif" alt="Alt text for your image" width="800"/>
+  </td>
   </tr>
- </table>
+  </table>
 </div>
+
+
+
 
 
 <!----------------- HK - LOGO & COPYRIGHTS ------------------------>
