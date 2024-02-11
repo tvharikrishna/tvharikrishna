@@ -10,47 +10,34 @@
 
 <table>
   <tr>
-    <td><img src="git_repo_table.png" alt="Alt text for your image" width="900"/>
-  </td>
+    <td><img src="table_repo.png" alt="Alt text for your image" width="900"/></td>
       
-  <td>
-    <small>
+<td>
         <table>
-           <tr>
-            <th>Repo Prefix</th>
-            <th>Repo Emoji</th>
+          <tr>
             <th>Number of Repos</th>
           </tr>
           <tr>
-            <td>_ROSRobotics</td>
-            <td align="center">☢️</td>
             <td align="center">0</td>
           </tr>
           <tr>
-            <td>_HKBOT_MobileRobot</td>
-            <td align="center">🤖</td>
             <td align="center">0</td>
           </tr>
           <tr>
-            <td>_SelfDrivingCars</td>
-            <td align="center">🚗</td>
             <td align="center">0</td>
           </tr>
           <tr>
-            <td>ComputerVision</td>
-            <td align="center">👀</td>
             <td align="center">0</td>
           </tr>
           <tr>
-            <td>_AIVision</td>
-            <td align="center">🧠</td>
             <td align="center">2</td>
           </tr>
         </table>
-      </small>
     </td>
   </tr>
 </table>
+
+
 
 
 
