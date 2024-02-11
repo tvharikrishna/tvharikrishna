@@ -92,12 +92,12 @@
  <table>
   <tr>
    <td valign="top">
-    <img src="profile_views.gif" alt="Profile Views GIF" width="130" /><br>
-    <img src="https://komarev.com/ghpvc/?username=tvharikrishna&style=for-the-badge" alt="Profile Views Badge" width="130" /><br>
-    <img src="followers.gif" alt="Followers GIF" width="130" /><br>
-    <img src="https://img.shields.io/github/followers/tvharikrishna?logo=github&style=for-the-badge" alt="Followers Badge" width="130" /><br>
-    <img src="languages.gif" alt="Languages GIF" width="130" /><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" width="130" />
+    <img src="profile_views.gif" alt="Profile Views GIF" width="150" /><br>
+    <img src="https://komarev.com/ghpvc/?username=tvharikrishna&style=for-the-badge" alt="Profile Views Badge" width="150" /><br>
+    <img src="followers.gif" alt="Followers GIF" width="150" /><br>
+    <img src="https://img.shields.io/github/followers/tvharikrishna?logo=github&style=for-the-badge" alt="Followers Badge" width="150" /><br>
+    <img src="languages.gif" alt="Languages GIF" width="150" /><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" width="150" />
    </td>
   <td valign="top">
     <img src="HK_Intro_GIF.gif" alt="Alt text for your image" width="600"/>
