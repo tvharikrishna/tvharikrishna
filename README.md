@@ -76,12 +76,12 @@
 <br>
 
 <p align="center">
-  <a href="https://www.acsu.buffalo.edu/~talapala/"><img src="https://img.shields.io/badge/Portfolio-informational?style=for-the-badge&logo=Portfolio&logoColor=white&color=blue" alt="Portfolio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://poplme.co/F72Hr9Mk/dash"><img src="https://img.shields.io/badge/Visiting%20Card-%F0%9F%98%8A-informational?style=for-the-badge&logo=appveyor&color=lightgrey" alt="Visiting Card"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tvharikrishnahk/"><img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0077B5" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@harikrishnaroboticsai/videos"><img src="https://img.shields.io/badge/YouTube-informational?style=for-the-badge&logo=YouTube&logoColor=white&color=red" alt="YouTube"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/watchmelater"><img src="https://img.shields.io/badge/HackerRank-informational?style=for-the-badge&logo=HackerRank&logoColor=white&color=000000" alt="HackerRank"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/watchmelater/"><img src="https://img.shields.io/badge/LeetCode-informational?style=for-the-badge&logo=LeetCode&logoColor=white&color=000000" alt="LeetCode"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.acsu.buffalo.edu/~talapala/"><img src="https://img.shields.io/badge/Portfolio-informational?style=for-the-badge&logo=Portfolio&logoColor=white&color=blue" alt="Portfolio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://poplme.co/F72Hr9Mk/dash"><img src="https://img.shields.io/badge/Visiting%20Card-%F0%9F%98%8A-informational?style=for-the-badge&logo=appveyor&color=lightgrey" alt="Visiting Card"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tvharikrishnahk/"><img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0077B5" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@harikrishnaroboticsai/videos"><img src="https://img.shields.io/badge/YouTube-informational?style=for-the-badge&logo=YouTube&logoColor=white&color=red" alt="YouTube"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/watchmelater"><img src="https://img.shields.io/badge/HackerRank-informational?style=for-the-badge&logo=HackerRank&logoColor=white&color=000000" alt="HackerRank"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/watchmelater/"><img src="https://img.shields.io/badge/LeetCode-informational?style=for-the-badge&logo=LeetCode&logoColor=white&color=000000" alt="LeetCode"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
