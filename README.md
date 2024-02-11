@@ -1,6 +1,6 @@
 <!----------------- HELLO: Title 1 -------------------------------->
 <p align="center">
-    <img src="main_title_1.png" alt="Alt text for your image" width="700"/>
+    <img src="main_title_1.png" alt="Alt text for your image" width="1500"/>
 </p>
 
 <!----------------- HK: Cover Picture ----------------------------->
