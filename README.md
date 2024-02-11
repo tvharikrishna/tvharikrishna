@@ -70,7 +70,7 @@
 
 <!----------------- CONNECT ME: Title 3 --------------------------->
 <p align="center">
-    <img src="title_3.png" alt="Alt text for your image" width="450"/>
+    <img src="title_3.png" alt="Alt text for your image" width="400"/>
 </p>
 
 <br>
