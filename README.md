@@ -123,5 +123,5 @@
 </div>
 
 <p align="center">
-    <img src="checkmate_buddy.png" alt="Alt text for your image" width="900"/>
+    <img src="checkmate_buddy.png" alt="Alt text for your image" width="1000"/>
 </p>
