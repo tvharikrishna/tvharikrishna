@@ -90,7 +90,9 @@
  <table>
   <tr>
    <td valign="top">
+    <br>
     <img src="passport.png" alt="Profile" width="200" /><br>
+    <br>
     <img src="discipline_is_only_way.png" alt="Profile Views GIF" width="200" /><br>
     <img src="wumpus_dance.gif" alt="Profile Views GIF" width="180" /><br>
     <img src="https://komarev.com/ghpvc/?username=tvharikrishna&style=for-the-badge" alt="Profile Views Badge" width="250" /><br>
