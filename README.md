@@ -91,22 +91,23 @@
   <tr>
    <td valign="top">
     <img src="passport.png" alt="Profile Views GIF" width="180" /><br>
-    <img src="https://komarev.com/ghpvc/?username=tvharikrishna&style=for-the-badge" alt="Profile Views Badge" width="180" /><br>
-    <img src="followers.gif" alt="Followers GIF" width="180" /><br>
-    <img src="https://img.shields.io/github/followers/tvharikrishna?logo=github&style=for-the-badge" alt="Followers Badge" width="180" /><br>
-    <img src="languages.gif" alt="Languages GIF" width="180" /><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" width="180" />
+    <img src="hardwork_is_only_way.jpg" alt="Profile Views GIF" width="180" /><br>
+    <img src="wumpus_dance.gif" alt="Profile Views GIF" width="180" /><br>
+    <img src="https://komarev.com/ghpvc/?username=tvharikrishna&style=for-the-badge" alt="Profile Views Badge" width="250" /><br>
+    <img src="https://img.shields.io/github/followers/tvharikrishna?logo=github&style=for-the-badge" alt="Followers Badge" width="172" /><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" width="200" />
    </td>
    <td valign="top" align="center">
     <img src="HK_Intro_GIF.gif" alt="Alt text for your image" width="600" /><br>
+    <br>
     <div align="center"><img src="radhakrishna.png" alt="Radha Krishna Image" width="450" /></div>
   </td>
   </tr>
  </table>
 </div>
 
-
 <!----------------- HK - LOGO & COPYRIGHTS ------------------------>
+<br>
 <div align="center">
     <p style="font-size: 8px; margin: 0; padding: 0;">
         <b>'HK' logo is Copyrighted & Protected by Department for Promotion of Industry & Internal Trade under the Govt of India's Intellectual Property Rights. 
