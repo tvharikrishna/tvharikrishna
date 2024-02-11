@@ -1,16 +1,15 @@
+<img src="git_title_1.png" alt="Alt text for your image" width="800"/>
 
-
-![Alt text for your image](git_title_1.png)
-
-![Alt text for your image](git_cover_photo.png)
+<img src="git_cover_photo.png" alt="Alt text for your image" width="800"/>
 
 <br>
 
 <!------------------------------ MAIN ------------------------------------------>
 
-![Alt text for your image](git_title_4.png)
+<img src="git_title_4.png" alt="Alt text for your image" width="800"/>
 
-![Alt text for your image](git_repo_table.png)
+<img src="git_repo_table.png" alt="Alt text for your image" width="800"/>
+
 
 <p align="center">
   The chart organizes my <strong>main repositories</strong> and their <strong>submodules</strong>, each focusing on <strong>domain-specific work</strong>.
