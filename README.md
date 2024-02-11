@@ -12,7 +12,7 @@
 
 <!----------------- REPO NAMING: Title 2 -------------------------->
 <p align="center">
-    <img src="title_2.png" alt="Alt text for your image" width="720"/>
+    <img src="title_2.png" alt="Alt text for your image" width="740"/>
 </p>
 
 <!----------------- DUAL TABLE ------------------------------------>
