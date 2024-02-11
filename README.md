@@ -97,13 +97,14 @@
     <img src="languages.gif" alt="Languages GIF" width="180" /><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" width="180" />
    </td>
-  <td valign="top">
-    <img src="HK_Intro_GIF.gif" alt="Alt text for your image" width="600"/>
-    <img src="HK_END_LOGO.png" alt="Alt text for your image">
+   <td valign="top" align="center">
+    <img src="HK_Intro_GIF.gif" alt="Alt text for your image" width="775" /><br>
+    <div align="center"><img src="radhakrishna.png" alt="Radha Krishna Image" width="550" /></div>
   </td>
   </tr>
-  </table>
+ </table>
 </div>
+
 
 <!----------------- HK - LOGO & COPYRIGHTS ------------------------>
 <div align="center">
@@ -119,8 +120,3 @@
 </div>
 <div align="center">
 </div>
-
-<br>
-<p align="center">
-  <img src="HK_LOGO_END.png" alt="Alt text for your image">
-</p>
