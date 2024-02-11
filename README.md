@@ -1,65 +1,54 @@
+<!----------------- HELLO: Title 1 -------------------------------->
 <p align="center">
     <img src="title_1.png" alt="Alt text for your image" width="700"/>
 </p>
 
+<!----------------- HK: Cover Picture ----------------------------->
 <p align="center">
     <img src="git_cover_photo.png" alt="Alt text for your image" width="700"/>
 </p>
 
 <br>
 
+<!----------------- REPO NAMING: Title 2 -------------------------->
+<p align="center">
+    <img src="title_2.png" alt="Alt text for your image" width="700"/>
+</p>
+
+<!----------------- DUAL TABLE ------------------------------------>
 <table>
-  <tr>
-    <td><img src="git_repo_table.png" alt="Alt text for your image" width="900"/>
-  </td>
-      
-  <td>
-    <small>
-        <table>
-           <tr>
-            <th>Repo Prefix</th>
-            <th>Repo Emoji</th>
-            <th>Number of Repos</th>
-          </tr>
-          <tr>
-            <td>_ROSRobotics</td>
-            <td align="center">☢️</td>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td>_HKBOT_MobileRobot</td>
-            <td align="center">🤖</td>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td>_SelfDrivingCars</td>
-            <td align="center">🚗</td>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td>ComputerVision</td>
-            <td align="center">👀</td>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td>_AIVision</td>
-            <td align="center">🧠</td>
-            <td align="center">2</td>
-          </tr>
-        </table>
-      </small>
-    </td>
-  </tr>
+ <tr>
+  <td valign="top"><img src="table_repo.png" alt="Table Image" width="629" /></td>
+  <td valign="top">
+<table>
+ <tr>
+  <th>Number of Repos<br><br></th>
+ </tr>
+ <tr>
+  <td align="center">0</td>
+ </tr>
+ <tr>
+  <td align="center">0</td>
+ </tr>
+ <tr>
+  <td align="center">0<br></td>
+ </tr>
+ <tr>
+  <td align="center">0<br></td>
+ </tr>
+ <tr>
+  <td align="center">2<br></td>
+ </tr>
+ </table>
+ </td>
+ </tr>
 </table>
-
-
-
-
 
 <br>
 
+<!----------------- TOTAL REPO: BADGE ----------------------------->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-2-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-100-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
 </p>
 
 <br>
@@ -77,23 +66,12 @@
 
 --- 
 
+<!----------------- CONNECT ME: Title 3 --------------------------->
 <p align="center">
-    <img src="git_title_7.png" alt="Title Image">
+    <img src="title_3.png" alt="Alt text for your image" width="700"/>
 </p>
 
-<p align="center">
-    <a href="https://www.acsu.buffalo.edu/~talapala/"> <!-- Title 7 -->
-        <img src="git_website_animation.gif" alt="Website" width="150"> 
-    </a>
-    <a href="https://www.linkedin.com/in/talapala/">
-        <img src="git_linkedin_animation.gif" alt="LinkedIn" width="150">
-    </a>
-    <a href="mailto:tvharikrishna7744@gmail.com?subject=Hello%20from%20GitHub&body=Hi,%20I%20found%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out.">
-        <img src="git_gmail_animation.gif" alt="Gmail" width="150">
-    </a>
-    <a href="https://github.com/tvharikrishna">
-        <img src="git_github_animation.gif" alt="GitHub" width="150">
-    </a></p>
+ADD BADGES + LINK HERE
     
 ---
 
