@@ -53,10 +53,12 @@
 
 <br>
 
+<!----------------- NOTE BADGE ------------------------------------>
 <p align="center">
   <img src="https://img.shields.io/badge/⚠️ NOTE⚠️ -important" alt="Note" />
 </p>
 
+<!----------------- NOTE ------------------------------------------>
 <p align="center">
   Some of my repositories 𝗹𝗮𝗰𝗸 𝗰𝗼𝗱𝗲 because they are related to 𝗰𝗼𝘂𝗿𝘀𝗲𝘄𝗼𝗿𝗸 from SUNY Buffalo. <br>
   In compliance with the 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗮𝘁 𝗕𝘂𝗳𝗳𝗮𝗹𝗼'𝘀 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗜𝗻𝘁𝗲𝗴𝗿𝗶𝘁𝘆 𝗣𝗼𝗹𝗶𝗰𝘆, it is prohibited to upload code to any online platform.
@@ -75,59 +77,45 @@ ADD BADGES + LINK HERE
     
 ---
 
+<!----------------- GITHUB STATUS --------------------------------->
 <p align="center">
-    <img src="git_title_8.png" alt="Title Image">
+    <img src="git_title_4.png" alt="Title Image">
 </p>
 
 <div align="center">
-    
-<table>
+ <table>
   <tr>
-    <td><img src="git_status_profile_views.gif" alt="Profile Views GIF"/></td>
-    <td><img src="git_status_followers.gif" alt="Followers GIF"/></td>
-  </tr>
+    <td><img src="profile_views.gif" alt="Profile Views GIF" width="150" /></td>
+    <td><img src="followers.gif" alt="Followers GIF" width="150" /></td>
+    <td align="center"><img src="languages.gif" alt="Languages GIF" width="150" /></td>
   <tr>
-    <td><img src="https://komarev.com/ghpvc/?username=tvharikrishna&style=for-the-badge" alt="Profile Views Badge"/></td>
-    <td><img src="https://img.shields.io/github/followers/tvharikrishna?logo=github&style=for-the-badge" alt="Followers Badge"/></td>
+    <td><img src="https://komarev.com/ghpvc/?username=tvharikrishna&style=for-the-badge" alt="Profile Views Badge" width="200" /></td>
+    <td><img src="https://img.shields.io/github/followers/tvharikrishna?logo=github&style=for-the-badge" alt="Followers Badge" width="200"  /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" width="200"  /></td> 
   </tr>
-</table>
-
+ </table>
 </div>
 
-<table align="center">
-  <tr>
 
-  <td><img src="https://github-readme-stats.vercel.app/api?username=tvharikrishna&show_icons=true&theme=radical" /></td>
-
-  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" /></td>
-  </tr>
-</table>
-
-
+<!----------------- HK - LOGO & COPYRIGHTS ------------------------>
 <p align="center">
   <img src="HK_Intro_GIF.gif" alt="Alt text for your image">
 </p>
 
 <div align="center">
-    <p style="font-size: 8px; margin: 0; padding: 0;"><b>'HK' logo is Copyrighted & Protected by Department for Promotion of Industry & Internal Trade under the Govt of India's Intellectual Property Rights. I reserve the right to take legal action & file a lawsuit against any infringement on all social media platforms.</b></p>
-    <p style="font-size: 8px; margin: 0; padding: 0;"><b> © All Rights Reserved to the Creator of Logo </b></p>
-
+    <p style="font-size: 8px; margin: 0; padding: 0;">
+        <b>'HK' logo is Copyrighted & Protected by Department for Promotion of Industry & Internal Trade under the Govt of India's Intellectual Property Rights. 
+            I reserve the right to take legal action & file a lawsuit against any infringement on all social media platforms.
+        </b>
+    </p>
+    <p style="font-size: 8px; margin: 0; padding: 0;">
+        <b> © All Rights Reserved to the Creator of Logo </b>
+    </p>
+    
 </div>
 <div align="center">
 </div>
 
-![Alt text for your image](HK_LOGO_END.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="HK_LOGO_END.png" alt="Alt text for your image">
+</p>
