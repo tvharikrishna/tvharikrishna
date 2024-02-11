@@ -46,7 +46,7 @@
 
 <br>
 
-<!----------------- TOTAL REPO: BADGE ------------------------------>
+<!----------------- TOTAL REPO: BADGE ----------------------------->
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Repositories-100-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
 </p>
@@ -66,23 +66,12 @@
 
 --- 
 
+<!----------------- CONNECT ME: Title 3 --------------------------->
 <p align="center">
-    <img src="git_title_7.png" alt="Title Image">
+    <img src="title_3.png" alt="Alt text for your image" width="700"/>
 </p>
 
-<p align="center">
-    <a href="https://www.acsu.buffalo.edu/~talapala/"> <!-- Title 7 -->
-        <img src="git_website_animation.gif" alt="Website" width="150"> 
-    </a>
-    <a href="https://www.linkedin.com/in/talapala/">
-        <img src="git_linkedin_animation.gif" alt="LinkedIn" width="150">
-    </a>
-    <a href="mailto:tvharikrishna7744@gmail.com?subject=Hello%20from%20GitHub&body=Hi,%20I%20found%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out.">
-        <img src="git_gmail_animation.gif" alt="Gmail" width="150">
-    </a>
-    <a href="https://github.com/tvharikrishna">
-        <img src="git_github_animation.gif" alt="GitHub" width="150">
-    </a></p>
+ADD BADGES + LINK HERE
     
 ---
 
