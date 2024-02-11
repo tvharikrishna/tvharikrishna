@@ -1,54 +1,54 @@
+<!----------------- HELLO: Title 1 -------------------------------->
 <p align="center">
     <img src="title_1.png" alt="Alt text for your image" width="700"/>
 </p>
 
+<!----------------- HK: Cover Picture ----------------------------->
 <p align="center">
     <img src="git_cover_photo.png" alt="Alt text for your image" width="700"/>
 </p>
 
 <br>
 
+<!----------------- REPO NAMING: Title 2 -------------------------->
+<p align="center">
+    <img src="title_2.png" alt="Alt text for your image" width="700"/>
+</p>
+
+<!----------------- DUAL TABLE ------------------------------------>
 <table>
-  <tr>
-    <!-- Table image on the left -->
-    <td valign="top"><img src="table_repo.png" alt="Table Image" width="629" /></td>
-
-<td valign="top">
-      <table>
-        <tr>
-          <th>Number of Repos<br><br></th>
-        </tr>
-        <tr>
-          <td align="center">0</td>
-        </tr>
-        <tr>
-          <td align="center">0</td>
-        </tr>
-        <tr>
-          <td align="center">0<br></td>
-        </tr>
-        <tr>
-          <td align="center">0<br></td>
-        </tr>
-        <tr>
-          <td align="center">2<br></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+ <tr>
+  <td valign="top"><img src="table_repo.png" alt="Table Image" width="629" /></td>
+  <td valign="top">
+<table>
+ <tr>
+  <th>Number of Repos<br><br></th>
+ </tr>
+ <tr>
+  <td align="center">0</td>
+ </tr>
+ <tr>
+  <td align="center">0</td>
+ </tr>
+ <tr>
+  <td align="center">0<br></td>
+ </tr>
+ <tr>
+  <td align="center">0<br></td>
+ </tr>
+ <tr>
+  <td align="center">2<br></td>
+ </tr>
+ </table>
+ </td>
+ </tr>
 </table>
-
-
-
-
-
-
-
 
 <br>
 
+<!----------------- TOTAL REPO: BADGE ------------------------------>
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-2-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-100-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
 </p>
 
 <br>
