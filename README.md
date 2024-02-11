@@ -8,53 +8,51 @@
 
 <br>
 
-<p align="center">
-    <img src="title_2.png" alt="Alt text for your image" width="700"/>
-</p>
+<table>
+  <tr>
+    <td><img src="git_repo_table.png" alt="Alt text for your image" width="900"/>
+  </td>
+      
+  <td>
+    <small>
+        <table>
+           <tr>
+            <th>Repo Prefix</th>
+            <th>Repo Emoji</th>
+            <th>Number of Repos</th>
+          </tr>
+          <tr>
+            <td>_ROSRobotics</td>
+            <td align="center">☢️</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>_HKBOT_MobileRobot</td>
+            <td align="center">🤖</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>_SelfDrivingCars</td>
+            <td align="center">🚗</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>ComputerVision</td>
+            <td align="center">👀</td>
+            <td align="center">0</td>
+          </tr>
+          <tr>
+            <td>_AIVision</td>
+            <td align="center">🧠</td>
+            <td align="center">2</td>
+          </tr>
+        </table>
+      </small>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-    <img src="git_repo_table.png" alt="Alt text for your image" width="700"/>
-</p>
 
-
-<p align="center">
-  The chart organizes my <strong>main repositories</strong> and their <strong>submodules</strong>, each focusing on <strong>domain-specific work</strong>.
-</p>
-
-<p align="center">
-  <table align="center">
-    <tr>
-      <th>Repo Prefix</th>
-      <th align="center">Repo Emoji</th>
-      <th align="center">Number of Repo</th>
-    </tr>
-    <tr>
-      <td align="left">_ROSRobotics</td>
-      <td align="center">☢️</td>
-      <td align="center">0</td>
-    </tr>
-    <tr>
-      <td align="left">_HKBOT_MobileRobot</td>
-      <td align="center">🤖</td>
-      <td align="center">0</td>
-    </tr>
-    <tr>
-      <td align="left">_SelfDrivingCars</td>
-      <td align="center">🚗</td>
-      <td align="center">0</td>
-    </tr>
-    <tr></tr>
-      <td align="left">ComputerVision</td>
-      <td align="center">👀</td>
-      <td align="center">0</td>
-    </tr>
-    <tr>
-      <td align="left">_AIVision</td>
-      <td align="center">🧠</td>
-      <td align="center">2</td>
-    </tr>
-  </table>
-</p>
 
 
 
