@@ -11,12 +11,12 @@
 <table>
   <tr>
     <!-- Table image on the left -->
-    <td valign="top"><img src="git_repo_table.png" alt="Table Image" width="651" /></td>
+    <td valign="top"><img src="table_repo.png" alt="Table Image" width="681" /></td>
 
 <td valign="top">
       <table>
         <tr>
-          <th>Number of Repos<br></th>
+          <th>Number of Repos<br><br></th>
         </tr>
         <tr>
           <td align="center">0</td>
