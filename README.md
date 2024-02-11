@@ -94,7 +94,7 @@
     <img src="hardwork_is_only_way.jpg" alt="Profile Views GIF" width="180" /><br>
     <img src="wumpus_dance.gif" alt="Profile Views GIF" width="180" /><br>
     <img src="https://komarev.com/ghpvc/?username=tvharikrishna&style=for-the-badge" alt="Profile Views Badge" width="250" /><br>
-    <img src="https://img.shields.io/github/followers/tvharikrishna?logo=github&style=for-the-badge" alt="Followers Badge" width="175" /><br>
+    <img src="https://img.shields.io/github/followers/tvharikrishna?logo=github&style=for-the-badge" alt="Followers Badge" width="170" /><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" width="200" />
    </td>
    <td valign="top" align="center">
