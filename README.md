@@ -87,12 +87,13 @@
 ---
 
 <!----------------- GITHUB STATUS --------------------------------->
+
 <div align="center">
  <table>
   <tr>
    <td valign="top">
     <img src="profile_views.gif" alt="Profile Views GIF" width="100" /><br>
-    <img src="https://komarev.com/ghpvc/?username=tvharikrishna&style=for-the-badge" alt="Profile Views Badge" width="100" /><br>
+    <img src="https://komarev.com/ghpvc/?username=tvharikrishna&style=for-the-badge" alt="Profile Views Badge" width="130" /><br>
     <img src="followers.gif" alt="Followers GIF" width="100" /><br>
     <img src="https://img.shields.io/github/followers/tvharikrishna?logo=github&style=for-the-badge" alt="Followers Badge" width="100" /><br>
     <img src="languages.gif" alt="Languages GIF" width="100" /><br>
@@ -105,15 +106,7 @@
   </table>
 </div>
 
-
-
-
-
 <!----------------- HK - LOGO & COPYRIGHTS ------------------------>
-<p align="center">
-    <img src="HK_Intro_GIF.gif" alt="Alt text for your image" width="1000"/>
-</p>
-
 <div align="center">
     <p style="font-size: 8px; margin: 0; padding: 0;">
         <b>'HK' logo is Copyrighted & Protected by Department for Promotion of Industry & Internal Trade under the Govt of India's Intellectual Property Rights. 
