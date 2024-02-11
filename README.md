@@ -98,8 +98,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" width="180" />
    </td>
    <td valign="top" align="center">
-    <img src="HK_Intro_GIF.gif" alt="Alt text for your image" width="775" /><br>
-    <div align="center"><img src="radhakrishna.png" alt="Radha Krishna Image" width="550" /></div>
+    <img src="HK_Intro_GIF.gif" alt="Alt text for your image" width="600" /><br>
+    <div align="center"><img src="radhakrishna.png" alt="Radha Krishna Image" width="450" /></div>
   </td>
   </tr>
  </table>
