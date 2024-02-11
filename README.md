@@ -121,3 +121,7 @@
 </div>
 <div align="center">
 </div>
+
+<p align="center">
+    <img src="checkmate_buddy.png" alt="Alt text for your image" width="700"/>
+</p>
