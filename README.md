@@ -1,6 +1,6 @@
 <!----------------- HELLO: Title 1 -------------------------------->
 <p align="center">
-    <img src="title_1.png" alt="Alt text for your image" width="700"/>
+    <img src="main_title_1.png" alt="Alt text for your image" width="700"/>
 </p>
 
 <!----------------- HK: Cover Picture ----------------------------->
@@ -84,8 +84,6 @@
   <a href="https://leetcode.com/watchmelater/"><img src="https://img.shields.io/badge/LeetCode-informational?style=for-the-badge&logo=LeetCode&logoColor=white&color=000000" alt="LeetCode" width="125"/></a>
 </p>
 
----
-
 <!----------------- GITHUB STATUS --------------------------------->
 
 <div align="center">
@@ -101,6 +99,7 @@
    </td>
   <td valign="top">
     <img src="HK_Intro_GIF.gif" alt="Alt text for your image" width="600"/>
+    <img src="HK_END_LOGO.png" alt="Alt text for your image">
   </td>
   </tr>
   </table>
