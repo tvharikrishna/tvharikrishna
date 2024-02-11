@@ -10,32 +10,34 @@
 
 <table>
   <tr>
-    <td><img src="table_repo.png" alt="Alt text for your image" width="620"/></td>
-      
-<td>
-        <table>
-          <tr>
-            <th><b>Number of Repos</b></th>
-          </tr>
-          <tr>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td align="center">0</td>
-          </tr>
-          <tr>
-            <td align="center">2</td>
-          </tr>
-        </table>
+    <!-- Table image on the left -->
+    <td valign="top"><img src="git_repo_table.png" alt="Table Image" width="651" /></td>
+
+<td valign="top">
+      <table>
+        <tr>
+          <th>Number of Repos<br></th>
+        </tr>
+        <tr>
+          <td align="center">0</td>
+        </tr>
+        <tr>
+          <td align="center">0</td>
+        </tr>
+        <tr>
+          <td align="center">0<br></td>
+        </tr>
+        <tr>
+          <td align="center">0<br></td>
+        </tr>
+        <tr>
+          <td align="center">2<br></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
+
 
 
 
