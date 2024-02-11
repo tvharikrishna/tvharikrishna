@@ -78,12 +78,12 @@
     <tr>
       <td align="center">
         <a href="https://www.acsu.buffalo.edu/~talapala/">
-          <img src="hklogo_logo.png" alt="hklogo_logo" width="150" height="80"/>
+          <img src="hklogo_logo.png" alt="hklogo_logo" width="130" height="80"/>
         </a><br>Portfolio
       </td>
       <td align="center">
         <a href="https://poplme.co/F72Hr9Mk/dash">
-          <img src="visitingcard_logo.png" alt="visitingcard_logo" width="180" height="180"/>
+          <img src="visitingcard_logo.png" alt="visitingcard_logo" width="140" height="140"/>
         </a><br>Visiting Card
       </td>
       <td align="center">
