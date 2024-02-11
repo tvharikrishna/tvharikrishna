@@ -1,14 +1,14 @@
-<img src="git_title_1.png" alt="Alt text for your image" width="800"/>
+<img src="git_title_1.png" alt="Alt text for your image" width="600"/>
 
-<img src="git_cover_photo.png" alt="Alt text for your image" width="800"/>
+<img src="git_cover_photo.png" alt="Alt text for your image" width="600"/>
 
 <br>
 
 <!------------------------------ MAIN ------------------------------------------>
 
-<img src="git_title_4.png" alt="Alt text for your image" width="800"/>
+<img src="git_title_4.png" alt="Alt text for your image" width="600"/>
 
-<img src="git_repo_table.png" alt="Alt text for your image" width="800"/>
+<img src="git_repo_table.png" alt="Alt text for your image" width="600"/>
 
 
 <p align="center">
