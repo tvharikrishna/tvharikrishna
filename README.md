@@ -11,7 +11,7 @@
 <table>
   <tr>
     <!-- Table image on the left -->
-    <td valign="top"><img src="table_repo.png" alt="Table Image" width="681" /></td>
+    <td valign="top"><img src="table_repo.png" alt="Table Image" width="651" /></td>
 
 <td valign="top">
       <table>
