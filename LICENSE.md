@@ -1,4 +1,4 @@
-Copyright (2023) (tvharikrishna) (Venkata Harikrishna Talapala)
+Copyright © 2024 Venkata Harikrishna, Talapala
 
 All Rights Reserved.
 
