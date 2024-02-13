@@ -1,4 +1,5 @@
 <p align="right">© 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮, 𝟮𝟬𝟮𝟰</p>
+
 <!----------------- HELLO: Title 1 -------------------------------->
 <p align="center">
     <img src="main_title_1.png" alt="Alt text for your image" width="1500"/>
