@@ -1,8 +1,19 @@
-Copyright © 2024 Venkata Harikrishna, Talapala
+Copyright © 2024 Venkata Harikrishna, Talapala <br>
+Copyright © 2024 tvharikrishna
 
-All Rights Reserved.
+All Rights Reserved. 
 
 All concepts, content, and intellectual property within this repository are the sole and exclusive property of the owner.
 
 It is strictly prohibited to share, copy, redistribute, republish, or exploit any material from this repository 
 for commercial use or any other purpose without the explicit and written consent of the copyright holder.
+
+Limitations: <br>
+❌ trademark use  <br>
+❌ commercial use <br>
+❌ Private use <br>
+❌ modification  <br>
+❌ distribution  <br>
+❌ liability  <br>
+❌ warranty  <br>
+❌ patent use <br>
