@@ -118,7 +118,7 @@
         <b>'HK' logo is Copyrighted & Protected by Department for Promotion of Industry & Internal Trade under the Govt of India's Intellectual Property Rights. 
             I reserve the right to take legal action & file a lawsuit against any infringement on all social media platforms.
         </b>
-    </p>
+    </p> <br> <br> <br>
     <p style="font-size: 8px; margin: 0; padding: 0;">
         <b> © All Rights Reserved to the Creator of Logo </b>
     </p>
