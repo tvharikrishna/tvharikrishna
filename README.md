@@ -131,7 +131,6 @@
     <img src="checkmate_buddy.png" alt="Alt text for your image" width="1000"/>
 </p>
 
-<br>
 
 <!----------------- GIT TROPHIES 
 <div align="center">
