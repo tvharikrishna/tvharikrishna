@@ -3,8 +3,8 @@
 
 𝗔𝗹𝗹 𝗥𝗶𝗴𝗵𝘁𝘀 𝗥𝗲𝘀𝗲𝗿𝘃𝗲𝗱.
 
-- All concepts, content, and intellectual property within this repository are the sole and exclusive property of the owner.
-- It is strictly prohibited to share, copy, redistribute, republish, or exploit any material from this repository for any use.
+- All concepts, content, and intellectual property within this repository are exclusive property of the owner.
+- It is strictly prohibited to share, copy, redistribute, republish, or exploit any material from this repository.
   
 𝗟𝗶𝗺𝗶𝘁𝗮𝘁𝗶𝗼𝗻𝘀: <br>
 ❌ Commercial use <br>
