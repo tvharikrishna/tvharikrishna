@@ -130,3 +130,9 @@
 <p align="center">
     <img src="checkmate_buddy.png" alt="Alt text for your image" width="1000"/>
 </p>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tvharikrishna&column=-1" alt="Rongronggg9's GitHub trophy">
+</div>  
