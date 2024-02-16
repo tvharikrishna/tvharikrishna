@@ -100,8 +100,8 @@
     <img src="hk_president.png" alt="Profile" width="300" /><br>
    </td>
    <td valign="top" align="center">
-    <img src="HK_Intro_GIF.gif" alt="Alt text for your image" width="700" /><br>
-    <div align="center"><img src="radhakrishna.png" alt="Radha Krishna Image" width="450" /></div>
+    <img src="HK_Intro_GIF.gif" alt="Alt text for your image" width="600" /><br>
+    <div align="center"><img src="radhakrishna.png" alt="Radha Krishna Image" width="350" /></div>
     <div align="center"><img src="roboticstopvoice.png" alt="Radha Krishna Image" width="501" /></div>
   </td>
   </tr>
