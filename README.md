@@ -84,6 +84,8 @@
   <a href="https://poplme.co/F72Hr9Mk/dash"><img src="https://img.shields.io/badge/Visiting%20Card-%F0%9F%98%8A-informational?style=for-the-badge&logo=appveyor&color=lightgrey" alt="Visiting Card" width="190"/></a> &nbsp; &nbsp;
 </p>
 
+<br>
+
 <!----------------- GITHUB STATUS --------------------------------->
 
 <div align="center">
