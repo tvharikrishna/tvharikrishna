@@ -102,7 +102,7 @@
    <td valign="top" align="center">
     <img src="HK_Intro_GIF.gif" alt="Alt text for your image" width="600" /><br>
     <div align="center"><img src="radhakrishna.png" alt="Radha Krishna Image" width="350" /></div>
-    <div align="center"><img src="topvoicerobotics.png" alt="Radha Krishna Image" width="601" /></div>
+    <div align="center"><img src="roboticstopvoice.png" alt="Radha Krishna Image" width="601" /></div>
   </td>
   </tr>
  </table>
