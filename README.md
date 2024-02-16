@@ -95,7 +95,7 @@
     <div align="center">
     <img src="https://img.shields.io/github/followers/tvharikrishna?logo=github&style=for-the-badge" alt="Followers Badge" width="250" /><br>
     </div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" width="250" /><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" width="250" /> <br> <br> <br>
     <img src="discipline_is_key.png" alt="Profile Views GIF" width="180" /><br><br> 
     <img src="president_hari.png" alt="Profile" width="330" /><br>
    </td>
