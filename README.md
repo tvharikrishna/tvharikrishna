@@ -1,6 +1,8 @@
+<p align="right">© 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮, 𝟮𝟬𝟮𝟰</p>
+
 <!----------------- HELLO: Title 1 -------------------------------->
 <p align="center">
-    <img src="main_title_1.png" alt="Alt text for your image" width="700"/>
+    <img src="main_title_1.png" alt="Alt text for your image" width="1500"/>
 </p>
 
 <!----------------- HK: Cover Picture ----------------------------->
@@ -12,7 +14,7 @@
 
 <!----------------- REPO NAMING: Title 2 -------------------------->
 <p align="center">
-    <img src="title_2.png" alt="Alt text for your image" width="700"/>
+    <img src="title_2.png" alt="Alt text for your image" width="740"/>
 </p>
 
 <!----------------- DUAL TABLE ------------------------------------>
@@ -32,13 +34,13 @@
   <td align="center">0</td>
  </tr>
  <tr>
-  <td align="center">0<br></td>
- </tr>
- <tr>
-  <td align="center">0<br></td>
- </tr>
- <tr>
   <td align="center">2<br></td>
+ </tr>
+ <tr>
+  <td align="center">0<br></td>
+ </tr>
+ <tr>
+  <td align="center">0<br></td>
  </tr>
  </table>
  </td>
@@ -50,7 +52,7 @@
 
 <!----------------- TOTAL REPO: BADGE ----------------------------->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-100-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-0-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
 </p>
 
 <br>
@@ -70,18 +72,16 @@
 
 <!----------------- CONNECT ME: Title 3 --------------------------->
 <p align="center">
-    <img src="title_3.png" alt="Alt text for your image" width="500"/>
+    <img src="title_3.png" alt="Alt text for your image" width="400"/>
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://www.acsu.buffalo.edu/~talapala/"><img src="https://img.shields.io/badge/Portfolio-informational?style=for-the-badge&logo=Portfolio&logoColor=white&color=blue" alt="Portfolio" width="110"/></a>
-  <a href="https://poplme.co/F72Hr9Mk/dash"><img src="https://img.shields.io/badge/Visiting%20Card-%F0%9F%98%8A-informational?style=for-the-badge&logo=appveyor&color=lightgrey" alt="Visiting Card" width="190"/></a>
-  <a href="https://www.linkedin.com/in/tvharikrishnahk/"><img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0077B5" alt="LinkedIn" width="125"/></a>
-  <a href="https://www.youtube.com/@harikrishnaroboticsai/videos"><img src="https://img.shields.io/badge/YouTube-informational?style=for-the-badge&logo=YouTube&logoColor=white&color=red" alt="YouTube" width="113"/></a>
-  <a href="https://www.hackerrank.com/watchmelater"><img src="https://img.shields.io/badge/HackerRank-informational?style=for-the-badge&logo=HackerRank&logoColor=white&color=000000" alt="HackerRank" width="160"/></a>
-  <a href="https://leetcode.com/watchmelater/"><img src="https://img.shields.io/badge/LeetCode-informational?style=for-the-badge&logo=LeetCode&logoColor=white&color=000000" alt="LeetCode" width="125"/></a>
+  <a href="https://www.acsu.buffalo.edu/~talapala/"><img src="https://img.shields.io/badge/Portfolio-informational?style=for-the-badge&logo=Portfolio&logoColor=white&color=blue" alt="Portfolio" width="110"/></a> &nbsp; &nbsp; 
+  <a href="https://www.linkedin.com/in/tvharikrishnahk/"><img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0077B5" alt="LinkedIn" width="125"/></a> &nbsp; &nbsp;
+  <a href="https://www.youtube.com/@harikrishnaroboticsai/videos"><img src="https://img.shields.io/badge/YouTube-informational?style=for-the-badge&logo=YouTube&logoColor=white&color=red" alt="YouTube" width="113"/></a> &nbsp; &nbsp;
+  <a href="https://poplme.co/F72Hr9Mk/dash"><img src="https://img.shields.io/badge/Visiting%20Card-%F0%9F%98%8A-informational?style=for-the-badge&logo=appveyor&color=lightgrey" alt="Visiting Card" width="190"/></a> &nbsp; &nbsp;
 </p>
 
 <!----------------- GITHUB STATUS --------------------------------->
@@ -90,16 +90,21 @@
  <table>
   <tr>
    <td valign="top">
+    <br>
     <img src="passport.png" alt="Profile" width="200" /><br>
-    <img src="hardwork_is_only_way.jpg" alt="Profile Views GIF" width="200" /><br>
+    <br>
+    <img src="discipline_is_only_way.png" alt="Profile Views GIF" width="200" /><br>
     <img src="wumpus_dance.gif" alt="Profile Views GIF" width="180" /><br>
     <img src="https://komarev.com/ghpvc/?username=tvharikrishna&style=for-the-badge" alt="Profile Views Badge" width="250" /><br>
-    <img src="https://img.shields.io/github/followers/tvharikrishna?logo=github&style=for-the-badge" alt="Followers Badge" width="172" /><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" width="200" />
+    <div align="center">
+    <img src="https://img.shields.io/github/followers/tvharikrishna?logo=github&style=for-the-badge" alt="Followers Badge" width="250" /><br>
+    </div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" width="250" />
    </td>
    <td valign="top" align="center">
     <img src="HK_Intro_GIF.gif" alt="Alt text for your image" width="600" /><br>
-    <br>
+    <br><br>
+    <br><br>
     <div align="center"><img src="radhakrishna.png" alt="Radha Krishna Image" width="450" /></div>
   </td>
   </tr>
@@ -113,7 +118,7 @@
         <b>'HK' logo is Copyrighted & Protected by Department for Promotion of Industry & Internal Trade under the Govt of India's Intellectual Property Rights. 
             I reserve the right to take legal action & file a lawsuit against any infringement on all social media platforms.
         </b>
-    </p>
+    </p> <br>
     <p style="font-size: 8px; margin: 0; padding: 0;">
         <b> © All Rights Reserved to the Creator of Logo </b>
     </p>
@@ -125,3 +130,10 @@
 <p align="center">
     <img src="checkmate_buddy.png" alt="Alt text for your image" width="1000"/>
 </p>
+
+
+<!----------------- GIT TROPHIES 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tvharikrishna&column=-1" alt="Rongronggg9's GitHub trophy">
+</div>
+------------------------>
