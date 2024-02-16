@@ -100,7 +100,7 @@
     <img src="president_hari.png" alt="Profile" width="340" /><br>
    </td>
    <td valign="top" align="center">
-    <img src="HK_Intro_GIF.gif" alt="Alt text for your image" width="600" />
+    <img src="HK_Intro_GIF.gif" alt="Alt text for your image" width="600" /><br>
     <div align="center"><img src="radhakrishna.png" alt="Radha Krishna Image" width="365" /></div>
     <div align="center"><img src="topvoicerobotics.png" alt="Radha Krishna Image" width="600" /></div>
   </td>
