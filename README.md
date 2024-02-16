@@ -1,27 +1,29 @@
+<!-- README.md: Enhanced with detailed sections, improved formatting, and revised image paths. -->
+
 <p align="right">© 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮, 𝟮𝟬𝟮𝟰</p>
 
-<!----------------- HELLO: Title 1 -------------------------------->
+<!-- Main Title Image -->
 <p align="center">
-    <img src="main_title_1.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/main_title_1.png" alt="Main Title" width="1500"/>
 </p>
 
-<!----------------- HK: Cover Picture ----------------------------->
+<!-- Cover Photo -->
 <p align="center">
-    <img src="git_cover_photo.png" alt="Alt text for your image" width="700"/>
+    <img src="readme_data/git_cover_photo.png" alt="Cover Photo" width="700"/>
 </p>
 
 <br>
 
-<!----------------- REPO NAMING: Title 2 -------------------------->
+<!-- Secondary Title Image -->
 <p align="center">
-    <img src="title_2.png" alt="Alt text for your image" width="740"/>
+    <img src="readme_data/title_2.png" alt="Repository Naming Title" width="740"/>
 </p>
 
-<!----------------- DUAL TABLE ------------------------------------>
+<!-- Dual Table for Repository Details -->
 <div align="center">
 <table>
  <tr>
-  <td valign="top"><img src="table_repo.png" alt="Table Image" width="629" /></td>
+  <td valign="top"><img src="readme_data/table_repo.png" alt="Table Image" width="629" /></td>
   <td valign="top">
 <table>
  <tr>
@@ -50,19 +52,19 @@
 
 <br>
 
-<!----------------- TOTAL REPO: BADGE ----------------------------->
+<!-- Total Repositories Badge -->
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Repositories-0-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
 </p>
 
 <br>
 
-<!----------------- NOTE BADGE ------------------------------------>
+<!-- Note Badge -->
 <p align="center">
   <img src="https://img.shields.io/badge/⚠️ NOTE⚠️ -important" alt="Note" />
 </p>
 
-<!----------------- NOTE ------------------------------------------>
+<!-- Note Content -->
 <p align="center">
   Some of my repositories 𝗹𝗮𝗰𝗸 𝗰𝗼𝗱𝗲 because they are related to 𝗰𝗼𝘂𝗿𝘀𝗲𝘄𝗼𝗿𝗸 from SUNY Buffalo. <br>
   In compliance with the 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗮𝘁 𝗕𝘂𝗳𝗳𝗮𝗹𝗼'𝘀 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗜𝗻𝘁𝗲𝗴𝗿𝗶𝘁𝘆 𝗣𝗼𝗹𝗶𝗰𝘆, it is prohibited to upload code to any online platform.
@@ -70,13 +72,14 @@
 
 --- 
 
-<!----------------- CONNECT ME: Title 3 --------------------------->
+<!-- Connect with Me Title -->
 <p align="center">
-    <img src="title_3.png" alt="Alt text for your image" width="400"/>
+    <img src="readme_data/title_3.png" alt="Connect with Me Title" width="400"/>
 </p>
 
 <br>
 
+<!-- Social Links and Contact Information -->
 <p align="center">
   <a href="https://www.acsu.buffalo.edu/~talapala/"><img src="https://img.shields.io/badge/Portfolio-informational?style=for-the-badge&logo=Portfolio&logoColor=white&color=blue" alt="Portfolio" width="110"/></a> &nbsp; &nbsp; 
   <a href="https://www.linkedin.com/in/tvharikrishnahk/"><img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0077B5" alt="LinkedIn" width="125"/></a> &nbsp; &nbsp;
@@ -86,31 +89,30 @@
 
 <br>
 
-<!----------------- GITHUB STATUS --------------------------------->
-
+<!-- GitHub Status and Statistics -->
 <div align="center">
  <table>
   <tr>
    <td valign="top">
-    <img src="wumpus_dance.gif" alt="Profile Views GIF" width="180" /><br>
+    <img src="readme_data/wumpus_dance.gif" alt="Profile Views GIF" width="180" /><br>
     <img src="https://komarev.com/ghpvc/?username=tvharikrishna&style=for-the-badge" alt="Profile Views Badge" width="250" /><br>
     <div align="center">
     <img src="https://img.shields.io/github/followers/tvharikrishna?logo=github&style=for-the-badge" alt="Followers Badge" width="250" /><br>
     </div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" width="250" /> <br> <br> <br> <br> <br>
-    <img src="discipline_is_key.png" alt="Profile Views GIF" width="190" /> <br> <br> <br>
-    <img src="president_hari.png" alt="Profile" width="330" />
+    <img src="readme_data/discipline_is_key.png" alt="Discipline Quote" width="180" /> <br> <br> <br>
+    <img src="readme_data/president_hari.png" alt="Profile" width="330" />
    </td>
    <td valign="top" align="center">
-    <img src="HK_Intro_GIF.gif" alt="Alt text for your image" width="600" /><br>
-    <div align="center"><img src="radhakrishna.png" alt="Radha Krishna Image" width="385" /></div> <br> <br>
-    <div align="center"><img src="topvoicerobotics.png" alt="Radha Krishna Image" width="600" /></div>
+    <img src="readme_data/HK_Intro_GIF.gif" alt="HK Intro GIF" width="600" /><br>
+    <div align="center"><img src="readme_data/radhakrishna.png" alt="Radha Krishna Image" width="385" /></div> <br> <br>
+    <div align="center"><img src="readme_data/topvoicerobotics.png" alt="Top Voice Robotics Image" width="600" /></div>
   </td>
   </tr>
  </table>
 </div>
 
-<!----------------- HK - LOGO & COPYRIGHTS ------------------------>
+<!-- Logo & Copyrights Notification -->
 <br>
 <div align="center">
     <p style="font-size: 8px; margin: 0; padding: 0;">
@@ -121,12 +123,9 @@
     <p style="font-size: 8px; margin: 0; padding: 0;">
         <b> © All Rights Reserved to the Creator of Logo </b>
     </p>
-    
-</div>
-<div align="center">
 </div>
 
+<!-- Final Image -->
 <p align="center">
-    <img src="checkmate_buddy.png" alt="Alt text for your image" width="1000"/>
+    <img src="readme_data/checkmate_buddy.png" alt="Checkmate Buddy" width="1000"/>
 </p>
-
