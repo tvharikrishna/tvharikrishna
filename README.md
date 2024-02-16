@@ -96,13 +96,13 @@
     <img src="https://img.shields.io/github/followers/tvharikrishna?logo=github&style=for-the-badge" alt="Followers Badge" width="250" /><br>
     </div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact&theme=radical" width="250" /><br>
-    <img src="discipline_is_only_way.png" alt="Profile Views GIF" width="200" /><br>
-    <img src="hk_president.png" alt="Profile" width="317" /><br>
+    <img src="discipline_is_only_way.png" alt="Profile Views GIF" width="180" /><br> 
+    <img src="hk_president.png" alt="Profile" width="320" /><br>
    </td>
    <td valign="top" align="center">
     <img src="HK_Intro_GIF.gif" alt="Alt text for your image" width="600" /><br>
     <div align="center"><img src="radhakrishna.png" alt="Radha Krishna Image" width="350" /></div>
-    <div align="center"><img src="topvoicerobotics.png" alt="Radha Krishna Image" width="601" /></div>
+    <div align="center"><img src="roboticstopvoice.png" alt="Radha Krishna Image" width="501" /></div>
   </td>
   </tr>
  </table>
