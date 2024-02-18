@@ -1,5 +1,6 @@
 <!-- README: tvharikrishna-->
 <p align="right">© 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮, 𝟮𝟬𝟮𝟰</p>
+<p align="right">My Git Enhanced for DarkMode</p>
 
 <!-- Main Title Image -->
 <p align="center">
