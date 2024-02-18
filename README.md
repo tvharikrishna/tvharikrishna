@@ -1,5 +1,4 @@
-<!-- README.md: Enhanced with detailed sections, improved formatting, and revised image paths. -->
-
+<!-- README: tvharikrishna-->
 <p align="right">© 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮, 𝟮𝟬𝟮𝟰</p>
 
 <!-- Main Title Image -->
