@@ -5,7 +5,7 @@
 ---------
 
 - All concepts, content, and intellectual property within this repository are the exclusive property of the owner.
-- The sharing, copying, redistribution, republishing, or exploitation of any material from this repository is strictly prohibited.
+- The sharing, redistribution, republishing, or exploitation of any material from this repository is strictly prohibited.
 
 **Limitations**:
 - ❌ Commercial use of documentation, non-code elements, or documentation footer images is not allowed.
