@@ -32,7 +32,7 @@
   <td align="center">5</td>
  </tr>
  <tr>
-  <td align="center">0</td>
+  <td align="center">3</td>
  </tr>
  <tr>
   <td align="center">2<br></td>
@@ -53,7 +53,7 @@
 
 <!-- Total Repositories Badge -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-0-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-12-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
 </p>
 
 <br>
