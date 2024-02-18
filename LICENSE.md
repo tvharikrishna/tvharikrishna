@@ -1,20 +1,17 @@
-𝗖𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 © 𝟮𝟬𝟮𝟰 𝗩𝗲𝗻𝗸𝗮𝘁𝗮 𝗛𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮, 𝗧𝗮𝗹𝗮𝗽𝗮𝗹𝗮 <br>
-𝗖𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 © 𝟮𝟬𝟮𝟰 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮 <br>
+<p align="right">
+  <img src="readme_data/hk_license.png" width="222" alt="HK Official Logo"/>
+</p>
 
-𝗔𝗹𝗹 𝗥𝗶𝗴𝗵𝘁𝘀 𝗥𝗲𝘀𝗲𝗿𝘃𝗲𝗱.
+---------
 
-- All concepts, content, and intellectual property within this repository are exclusive property of the owner.
-- It is strictly prohibited to share, copy, redistribute, republish, or exploit any material from this repository.
-  
-𝗟𝗶𝗺𝗶𝘁𝗮𝘁𝗶𝗼𝗻𝘀: <br>
-❌ Commercial use <br>
-❌ Modification <br>
-❌ Copying work (images or assets) <br>
-❌ Copying or re-uploading documentation <br>
-❌ Creating derivative works <br>
-❌ trademark use  <br>
-❌ Private use <br>
-❌ Distribution <br>
-❌ Liability <br>
-❌ Warranty <br>
-❌ Patent use <br>
+- All concepts, content, and intellectual property within this repository are the exclusive property of the owner.
+- The sharing, copying, redistribution, republishing, or exploitation of any material from this repository is strictly prohibited.
+
+**Limitations**:
+- ❌ Commercial use of documentation, non-code elements, or documentation footer images is not allowed.
+- ❌ Copying or redistribution of images, assets, the HK Logo, or any other material is prohibited.
+- ❌ Creation of derivative works or distribution of non-code elements, including documentation, is not permitted.
+- ❌ Use of trademarks, specifically the HK Logo, is forbidden.
+- ❌ No liability or warranty is provided for any elements.
+- ❌ Copying or re-uploading documentation is not allowed.
+- ❌ Patent use is prohibited.
