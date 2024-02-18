@@ -29,7 +29,7 @@
   <th>Number of Repos<br><br></th>
  </tr>
  <tr>
-  <td align="center">0</td>
+  <td align="center">5</td>
  </tr>
  <tr>
   <td align="center">0</td>
@@ -38,7 +38,7 @@
   <td align="center">2<br></td>
  </tr>
  <tr>
-  <td align="center">0<br></td>
+  <td align="center">2<br></td>
  </tr>
  <tr>
   <td align="center">0<br></td>
