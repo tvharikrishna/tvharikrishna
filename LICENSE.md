@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="readme_data/hk_license.png" width="222" alt="HK Official Logo"/>
+  <img src="readme_data/hk_license.png" width="2222" alt="HK Official Logo"/>
 </p>
 
 ---------
