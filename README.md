@@ -29,19 +29,19 @@
   <th>Number of Repos<br><br></th>
  </tr>
  <tr>
-  <td align="center">0</td>
+  <td align="center">5</td> <!-- ROS Robotics -->
  </tr>
  <tr>
-  <td align="center">0</td>
+  <td align="center">3</td> <!-- HKBOT -->
  </tr>
  <tr>
-  <td align="center">2<br></td>
+  <td align="center">2<br></td> <!-- Self Driving Cars -->
  </tr>
  <tr>
-  <td align="center">0<br></td>
+  <td align="center">1<br></td> <!-- Computer Vision -->
  </tr>
  <tr>
-  <td align="center">0<br></td>
+  <td align="center">0<br></td> <!-- AI Vision -->
  </tr>
  </table>
  </td>
@@ -53,7 +53,7 @@
 
 <!-- Total Repositories Badge -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-0-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-11-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
 </p>
 
 <br>
