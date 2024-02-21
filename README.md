@@ -89,7 +89,7 @@
 <br>
 
 <p align="center">
-    <img src="readme_data/right_to_work.png" alt="Checkmate Buddy" width="630"/>
+    <img src="readme_data/right_to_work.png" alt="checkmate" width="625"/>
 </p>
 
 <!-- GitHub Status and Statistics -->
