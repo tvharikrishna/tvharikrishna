@@ -51,8 +51,8 @@
 
 <br>
 
-<p align="center">
-Attached table includes principle repositories, a central hub for a diverse suite of sub-repositories focused on their respective specialized fields.
+<p align="center" style="font-size:20px;">
+  Attached table includes <strong>principle repositories</strong>, a central hub for a diverse suite of <strong>sub-repositories</strong> focused on their respective specialized fields.
 </p>
 
 <!-- Total Repositories Badge -->
