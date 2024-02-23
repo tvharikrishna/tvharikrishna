@@ -49,11 +49,12 @@
 </table>
 </div>
 
-<br>
-
-<p align="center" style="font-size:20px;">
-  Attached table includes <strong>principle repositories</strong>, a central hub for a diverse suite of <strong>sub-repositories</strong> focused on their respective specialized fields.
+<!-- Repo Notice Image -->
+<p align="center">
+    <img src="readme_data/repo_notice.png" alt="Connect with Me Title" width="1111"/>
 </p>
+
+<br>
 
 <!-- Total Repositories Badge -->
 <p align="center">
