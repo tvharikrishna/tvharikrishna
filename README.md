@@ -51,6 +51,10 @@
 
 <br>
 
+<p align="center" style="font-size:20px;">
+  Attached table includes <strong>principle repositories</strong>, a central hub for a diverse suite of <strong>sub-repositories</strong> focused on their respective specialized fields.
+</p>
+
 <!-- Total Repositories Badge -->
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Repositories-11-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
@@ -87,6 +91,10 @@
 </p>
 
 <br>
+
+<p align="center">
+    <img src="readme_data/right_to_work.png" alt="checkmate" width="888"/>
+</p>
 
 <!-- GitHub Status and Statistics -->
 <div align="center">
