@@ -51,7 +51,7 @@
 
 <!-- Repo Notice Image -->
 <p align="center">
-    <img src="readme_data/repo_notice.png" alt="Connect with Me Title" width="600"/>
+    <img src="readme_data/repo_notice.png" alt="Connect with Me Title" width="1111"/>
 </p>
 
 <br>
