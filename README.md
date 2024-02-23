@@ -120,6 +120,9 @@
  </table>
 </div>
 
+<br>
+<br>
+
 <!-- Final Image -->
 <p align="center">
     <img src="readme_data/harikrishna_motivation.png" alt="Checkmate Buddy" width="1000"/>
