@@ -49,12 +49,12 @@
 </table>
 </div>
 
-<br>
-
 <!-- Repo Notice Image -->
 <p align="center">
-    <img src="readme_data/repo_notice.png" alt="Connect with Me Title" width="400"/>
+    <img src="readme_data/repo_notice.png" alt="Connect with Me Title" width="600"/>
 </p>
+
+<br>
 
 <!-- Total Repositories Badge -->
 <p align="center">
