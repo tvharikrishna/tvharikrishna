@@ -51,6 +51,10 @@
 
 <br>
 
+<p align="center">
+Attached table includes principle repositories, a central hub for a diverse suite of sub-repositories focused on their respective specialized fields.
+</p>
+
 <!-- Total Repositories Badge -->
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Repositories-11-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
