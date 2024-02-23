@@ -122,5 +122,5 @@
 
 <!-- Final Image -->
 <p align="center">
-    <img src="readme_data/hkend_motivation.png" alt="Checkmate Buddy" width="1000"/>
+    <img src="readme_data/harikrishna_motivation.png" alt="Checkmate Buddy" width="1000"/>
 </p>
