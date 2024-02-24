@@ -58,7 +58,7 @@
 
 <!-- Total Repositories Badge -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-11-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-10-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
 </p>
 
 <br>
