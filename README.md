@@ -18,35 +18,50 @@
     <img src="readme_data/title_2.png" alt="Repository Naming Title" width="740"/>
 </p>
 
-<!-- Dual Table for Repository Details -->
+<!-- Table for Repository Details -->
 <div align="center">
-<table>
- <tr>
-  <td valign="top"><img src="readme_data/table_repo.png" alt="Table Image" width="629" /></td>
-  <td valign="top">
-<table>
- <tr>
-  <th>Number of Repos<br><br></th>
- </tr>
- <tr>
-  <td align="center">5</td> <!-- ROS Robotics -->
- </tr>
- <tr>
-  <td align="center">3</td> <!-- HKBOT -->
- </tr>
- <tr>
-  <td align="center">2<br></td> <!-- Self Driving Cars -->
- </tr>
- <tr>
-  <td align="center">1<br></td> <!-- Computer Vision -->
- </tr>
- <tr>
-  <td align="center">0<br></td> <!-- AI Vision -->
- </tr>
- </table>
- </td>
- </tr>
-</table>
+    <table border="1">
+        <tr>
+            <th>Repo Prefix</th>
+            <th>Repo Type / Project Type</th>
+            <th>Number of Repos</th>
+        </tr>
+        <tr>
+            <td>Wheeled_Mobile_Robots</td>
+            <td>Robotics</td>
+            <td align="center">10</td>
+        </tr>
+        <tr>
+            <td>Autonomous_Vehicles</td>
+            <td>Robotics</td>
+            <td align="center">10</td>
+        </tr>
+        <tr>
+            <td>AI_Vision</td>
+            <td>Robotics</td>
+            <td align="center">10</td>
+        </tr>
+        <tr>
+            <td>3D_Computer_Vision</td>
+            <td>Robotics</td>
+            <td align="center">10</td>
+        </tr>
+        <tr>
+            <td>Robotic_Arm_Manipulation</td>
+            <td>Robotics</td>
+            <td align="center">10</td>
+        </tr>
+        <tr>
+            <td>Reinforcement_Learning</td>
+            <td>Robotics</td>
+            <td align="center">10</td>
+        </tr>
+        <tr>
+            <td>Legged_Robots</td>
+            <td>Robotics</td>
+            <td align="center">10</td>
+        </tr>
+    </table>
 </div>
 
 <!-- Repo Notice Image -->
