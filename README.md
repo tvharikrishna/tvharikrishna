@@ -15,50 +15,50 @@
 
 <!-- Secondary Title Image -->
 <p align="center">
-    <img src="readme_data/title_2.png" alt="Repository Naming Title" width="740"/>
+    <img src="readme_data/title_2.png" alt="Repository Naming Title" width="970"/>
 </p>
 
 <!-- Table for Repository Details -->
 <div align="center">
-    <table border="1">
+    <table border="6" width="100%" style="border-collapse: collapse;">
         <tr>
-            <th>Repo Prefix</th>
-            <th>Repo Type / Project Type</th>
-            <th>Number of Repos</th>
+            <th><b>Repo Prefix</b></th>
+            <th><b>Repo Type / Project Type</b></th>
+            <th><b>Number of Repos</b></th>
         </tr>
         <tr>
-            <td>Wheeled_Mobile_Robots</td>
-            <td>Robotics</td>
+            <td><b>Wheeled_Mobile_Robots</b></td>
+            <td>Simulations in Isaac/Gazebo + Hands on Mobile Robot</td>
             <td align="center">10</td>
         </tr>
         <tr>
-            <td>Autonomous_Vehicles</td>
-            <td>Robotics</td>
+            <td><b>Autonomous_Vehicles</b></td>
+            <td>Simulations in Carla Simulator</td>
             <td align="center">10</td>
         </tr>
         <tr>
-            <td>AI_Vision</td>
-            <td>Robotics</td>
+            <td><b>AI_Vision</b></td>
+            <td>Deep Learning Perception</td>
             <td align="center">10</td>
         </tr>
         <tr>
-            <td>3D_Computer_Vision</td>
-            <td>Robotics</td>
+            <td><b>3D_Computer_Vision</b></td>
+            <td>Projects on 3D Computer Vision</td>
             <td align="center">10</td>
         </tr>
         <tr>
-            <td>Robotic_Arm_Manipulation</td>
-            <td>Robotics</td>
+            <td><b>Robotic_Arm_Manipulation</b></td>
+            <td>Projects on Robotics Manipulations</td>
             <td align="center">10</td>
         </tr>
         <tr>
-            <td>Reinforcement_Learning</td>
-            <td>Robotics</td>
+            <td><b>Reinforcement_Learning</b></td>
+            <td>Projects related to RL Robotics</td>
             <td align="center">10</td>
         </tr>
         <tr>
-            <td>Legged_Robots</td>
-            <td>Robotics</td>
+            <td><b>Legged_Robots</b></td>
+            <td>Projects Quadruped & Humanoids Robots</td>
             <td align="center">10</td>
         </tr>
     </table>
