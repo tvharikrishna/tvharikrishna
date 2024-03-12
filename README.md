@@ -29,37 +29,37 @@
         <tr>
             <td><b>Wheeled_Mobile_Robots</b></td>
             <td>Simulations in Isaac/Gazebo + Hands on Mobile Robot</td>
-            <td align="center">10</td>
+            <td align="center">7</td>
         </tr>
         <tr>
             <td><b>Autonomous_Vehicles</b></td>
             <td>Simulations in Carla Simulator</td>
-            <td align="center">10</td>
+            <td align="center">2</td>
         </tr>
         <tr>
             <td><b>AI_Vision</b></td>
             <td>Deep Learning Perception</td>
-            <td align="center">10</td>
+            <td align="center">0</td>
         </tr>
         <tr>
             <td><b>3D_Computer_Vision</b></td>
             <td>Projects on 3D Computer Vision</td>
-            <td align="center">10</td>
+            <td align="center">1</td>
         </tr>
         <tr>
             <td><b>Robotic_Arm_Manipulation</b></td>
             <td>Projects on Robotics Manipulations</td>
-            <td align="center">10</td>
+            <td align="center">0</td>
         </tr>
         <tr>
             <td><b>Reinforcement_Learning</b></td>
             <td>Projects related to RL Robotics</td>
-            <td align="center">10</td>
+            <td align="center">0</td>
         </tr>
         <tr>
             <td><b>Legged_Robots</b></td>
             <td>Projects Quadruped & Humanoids Robots</td>
-            <td align="center">10</td>
+            <td align="center">0</td>
         </tr>
     </table>
 </div>
