@@ -42,14 +42,14 @@
             <td align="center">2</td>
         </tr>
         <tr>
-            <td><b>AI_Vision</b></td>
-            <td>Deep Learning Perception</td>
-            <td align="center">0</td>
-        </tr>
-        <tr>
             <td><b>3D_Computer_Vision</b></td>
             <td>Projects on 3D Computer Vision</td>
             <td align="center">1</td>
+        </tr>
+        <tr>
+            <td><b>AI_Vision</b></td>
+            <td>Deep Learning Perception</td>
+            <td align="center">0</td>
         </tr>
         <tr>
             <td><b>Robotic_Arm_Manipulation</b></td>
