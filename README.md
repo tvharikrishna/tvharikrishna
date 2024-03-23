@@ -53,17 +53,17 @@
         </tr>
         <tr>
             <td><b>Robotic_Arm_Manipulation</b></td>
-            <td>Projects on Robotics Manipulations</td>
+            <td>Simulations on Robotics Manipulations</td>
             <td align="center">0</td>
         </tr>
         <tr>
             <td><b>Legged_Robots</b></td>
-            <td>Projects on Quadruped & Humanoids Robots</td>
+            <td>Simulations on Quadruped & Humanoids Robots</td>
             <td align="center">0</td>
         </tr>
         <tr>
             <td><b>Reinforcement_Learning</b></td>
-            <td>Projects on RL based Robots</td>
+            <td>Simulations on RL based Robots</td>
             <td align="center">1</td>
         </tr>
     </table>
