@@ -48,7 +48,7 @@
         </tr>
         <tr>
             <td><b>AI_Vision</b></td>
-            <td>Deep Learning Perception using SOTA Models</td>
+            <td>Projects on Deep Learning Perception using SOTA Models</td>
             <td align="center">0</td>
         </tr>
         <tr>
