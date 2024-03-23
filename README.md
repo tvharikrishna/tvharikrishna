@@ -33,17 +33,17 @@
         </tr>
         <tr>
             <td><b>Autonomous_Vehicles</b></td>
-            <td>Simulations in Carla Simulator</td>
+            <td>Simulations in Carla Simulator (Self Driving)</td>
             <td align="center">2</td>
         </tr>
         <tr>
             <td><b>Motion_Planning</b></td>
-            <td>Path Planning & Motion Control Algorithms</td>
+            <td>Simulators on Path Planning & Motion Control Algorithms</td>
             <td align="center">2</td>
         </tr>
         <tr>
             <td><b>3D_Computer_Vision</b></td>
-            <td>Projects on SOTA 3D Computer Vision</td>
+            <td>Projects on SOTA 3D Computer Vision Techniques</td>
             <td align="center">1</td>
         </tr>
         <tr>
@@ -63,7 +63,7 @@
         </tr>
         <tr>
             <td><b>Reinforcement_Learning</b></td>
-            <td>Projects related to RL based Robots</td>
+            <td>Projects on RL based Robots</td>
             <td align="center">1</td>
         </tr>
     </table>
