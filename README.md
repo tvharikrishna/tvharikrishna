@@ -28,7 +28,7 @@
         </tr>
         <tr>
             <td><b>Wheeled_Mobile_Robots</b></td>
-            <td>Simulations in Isaac/Gazebo + Hands on Mobile Robot</td>
+            <td>Simulations in Isaac/Gazebo + Hands on Mobile Robot(HK-BOT)</td>
             <td align="center">5</td>
         </tr>
         <tr>
@@ -37,18 +37,18 @@
             <td align="center">2</td>
         </tr>
         <tr>
-            <td><b>Motion Planning</b></td>
-            <td>Path Planning + Motion Control Algorithms</td>
+            <td><b>Motion_Planning</b></td>
+            <td>Path Planning & Motion Control Algorithms</td>
             <td align="center">2</td>
         </tr>
         <tr>
             <td><b>3D_Computer_Vision</b></td>
-            <td>Projects on 3D Computer Vision</td>
+            <td>Projects on SOTA 3D Computer Vision</td>
             <td align="center">1</td>
         </tr>
         <tr>
             <td><b>AI_Vision</b></td>
-            <td>Deep Learning Perception</td>
+            <td>Deep Learning Perception using SOTA Models</td>
             <td align="center">0</td>
         </tr>
         <tr>
@@ -57,13 +57,13 @@
             <td align="center">0</td>
         </tr>
         <tr>
-            <td><b>Reinforcement_Learning</b></td>
-            <td>Projects related to RL Robotics</td>
+            <td><b>Legged_Robots</b></td>
+            <td>Projects on Quadruped & Humanoids Robots</td>
             <td align="center">0</td>
         </tr>
         <tr>
-            <td><b>Legged_Robots</b></td>
-            <td>Projects Quadruped & Humanoids Robots</td>
+            <td><b>Reinforcement_Learning</b></td>
+            <td>Projects related to RL based Robots</td>
             <td align="center">0</td>
         </tr>
     </table>
