@@ -29,11 +29,16 @@
         <tr>
             <td><b>Wheeled_Mobile_Robots</b></td>
             <td>Simulations in Isaac/Gazebo + Hands on Mobile Robot</td>
-            <td align="center">7</td>
+            <td align="center">5</td>
         </tr>
         <tr>
             <td><b>Autonomous_Vehicles</b></td>
             <td>Simulations in Carla Simulator</td>
+            <td align="center">2</td>
+        </tr>
+        <tr>
+            <td><b>Motion Planning</b></td>
+            <td>Path Planning + Motion Control Algorithms</td>
             <td align="center">2</td>
         </tr>
         <tr>
