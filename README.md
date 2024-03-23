@@ -64,7 +64,7 @@
         <tr>
             <td><b>Reinforcement_Learning</b></td>
             <td>Projects related to RL based Robots</td>
-            <td align="center">0</td>
+            <td align="center">1</td>
         </tr>
     </table>
 </div>
