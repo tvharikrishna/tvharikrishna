@@ -38,7 +38,7 @@
         </tr>
         <tr>
             <td><b>Motion_Planning</b></td>
-            <td>Simulators on Path Planning & Motion Control Algorithms</td>
+            <td>Simulations on Path Planning & Motion Control Algorithms</td>
             <td align="center">2</td>
         </tr>
         <tr>
