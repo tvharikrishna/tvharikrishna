@@ -34,7 +34,7 @@
         <tr>
             <td><b>Autonomous_Vehicles</b></td>
             <td>Simulations in Carla Simulator (Self Driving)</td>
-            <td align="center">2</td>
+            <td align="center">1</td>
         </tr>
         <tr>
             <td><b>Motion_Planning</b></td>
@@ -54,7 +54,7 @@
         <tr>
             <td><b>Robotic_Arm_Manipulation</b></td>
             <td>Simulations on Robotics Manipulations</td>
-            <td align="center">0</td>
+            <td align="center">1</td>
         </tr>
         <tr>
             <td><b>Legged_Robots</b></td>
