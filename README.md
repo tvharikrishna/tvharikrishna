@@ -33,7 +33,7 @@
         </tr>
         <tr>
             <td><b>Autonomous_Vehicles</b></td>
-            <td>Simulations in Carla Simulator (Self Driving)</td>
+            <td>Simulations in Carla ∧ Autoware</td>
             <td align="center">1</td>
         </tr>
         <tr>
