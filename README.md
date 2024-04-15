@@ -28,37 +28,37 @@
         </tr>
         <tr>
             <td><b>Wheeled_Mobile_Robots</b></td>
-            <td>Simulations in Isaac/Gazebo + Hands on Mobile Robot(HK-BOT)</td>
+            <td>Hands on Mobile Robot(HK-BOT) & Isaac/Gazebo</td>
             <td align="center">5</td>
         </tr>
         <tr>
             <td><b>Autonomous_Vehicles</b></td>
-            <td>Simulations in Carla ∧ Autoware</td>
+            <td>Carla ∧ Autoware</td>
             <td align="center">1</td>
         </tr>
         <tr>
             <td><b>Motion_Planning</b></td>
-            <td>Simulations on Path Planning & Motion Control Algorithms</td>
+            <td>Path Planning & Motion Control Algorithms</td>
             <td align="center">2</td>
         </tr>
         <tr>
             <td><b>3D_Computer_Vision</b></td>
-            <td>Projects on SOTA 3D Computer Vision Techniques</td>
+            <td>SOTA ~ 3D Computerr Techniques</td>
             <td align="center">1</td>
         </tr>
         <tr>
             <td><b>AI_Vision</b></td>
-            <td>Projects on Deep Learning Perception using SOTA Models</td>
+            <td>SOTA Models ~ Deep Learning Perception</td>
             <td align="center">0</td>
         </tr>
         <tr>
             <td><b>Robotic_Arm_Manipulation</b></td>
-            <td>Simulations on Robotics Manipulations</td>
+            <td>Manipulation & Grasping</td>
             <td align="center">1</td>
         </tr>
         <tr>
             <td><b>Legged_Robots</b></td>
-            <td>Simulations on Quadruped & Humanoids Robots</td>
+            <td>Quadruped & Humanoids Robots</td>
             <td align="center">0</td>
         </tr>
         <tr>
