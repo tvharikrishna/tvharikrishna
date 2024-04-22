@@ -33,7 +33,7 @@
         </tr>
         <tr>
             <td><b>Autonomous_Vehicles</b></td>
-            <td>Carla ∧ Autoware</td>
+            <td>Carla ∧ Apollo</td>
             <td align="center">1</td>
         </tr>
         <tr>
