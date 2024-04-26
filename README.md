@@ -43,7 +43,7 @@
         </tr>
         <tr>
             <td><b>3D_Computer_Vision</b></td>
-            <td>SOTA ~ 3D Computerr Techniques</td>
+            <td>SOTA ~ 3D Computer Vision Techniques</td>
             <td align="center">1</td>
         </tr>
         <tr>
