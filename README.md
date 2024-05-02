@@ -28,55 +28,56 @@
             <th><b>Frameworks/Tools</b></th>
         </tr>
         <tr>
-            <td><b>Wheeled_Mobile_Robots</b></td>
-            <td>Hands on Mobile Robot(HK-BOT) & Isaac/Gazebo</td>
+            <td><a href="URL_HERE"><b>Wheeled_Mobile_Robots</b></a></td>
+            <td>AMR</td>
             <td align="center">6</td>
-            <td align="center">add here</td>
+            <td align="center">HK-BOT, Nvidia Isaac, Gazebo</td>
         </tr>
         <tr>
-            <td><b>Autonomous_Vehicles</b></td>
-            <td>Carla ∧ Apollo</td>
+            <td><a href="URL_HERE"><b>Autonomous_Vehicles</b></a></td>
+            <td>Self Driving Vehicles</td>
             <td align="center">2</td>
-            <td align="center">add here</td>
+            <td align="center">Carla, Apollo</td>
         </tr>
         <tr>
-            <td><b>Motion_Planning</b></td>
-            <td>Path Planning & Motion Control Algorithms</td>
+            <td><a href="URL_HERE"><b>Motion_Planning</b></a></td>
+            <td>Path Planning & Motion Control</td>
             <td align="center">2</td>
-            <td align="center">add here</td>
+            <td align="center">Nvidia Isaac, Gazebo, Grid Based Path Animations</td>
         </tr>
         <tr>
-            <td><b>3D_Computer_Vision</b></td>
-            <td>SOTA ~ 3D Computer Vision Techniques</td>
+            <td><a href="URL_HERE"><b>3D_Computer_Vision</b></a></td>
+            <td>2D/3D Computer Vision</td>
             <td align="center">1</td>
-            <td align="center">add here</td>
+            <td align="center">OpenCV</td>
         </tr>
         <tr>
-            <td><b>AI_Vision</b></td>
+            <td><a href="URL_HERE"><b>AI_Vision</b></a></td>
             <td>Deep Learning Perception</td>
             <td align="center">0</td>
-            <td align="center">add here</td>
+            <td align="center">Keras, Pytorch, Tensorflow, ONNX</td>
         </tr>
         <tr>
-            <td><b>Robotic_Arm_Manipulation</b></td>
-            <td>Manipulation & Grasping</td>
+            <td><a href="URL_HERE"><b>Robotic_Arm_Manipulation</b></a></td>
+            <td>Cobots & AMMR</td>
             <td align="center">1</td>
-            <td align="center">add here</td>
+            <td align="center">HK-BOT, Nvidia Isaac</td>
         </tr>
         <tr>
-            <td><b>Legged_Robots</b></td>
-            <td>Quadruped & Humanoids Robots</td>
+            <td><a href="URL_HERE"><b>Legged_Robots</b></a></td>
+            <td>Bipedal & Quadrupedal Robots</td>
             <td align="center">0</td>
-            <td align="center">add here</td>
+            <td align="center">Nvidia Isaac, Bullet Physics, MuJuCo</td>
         </tr>
         <tr>
-            <td><b>Reinforcement_Learning</b></td>
-            <td>Simulations on RL based Robots</td>
-            <td align="center">1</td>
-            <td align="center">add here</td>
+            <td><a href="URL_HERE"><b>Reinforcement_Learning</b></a></td>
+            <td>RL Agents</td>
+            <td align="center">2</td>
+            <td align="center">Nvidia Isaac Gym, Bullet Physics, MuJuCo</td>
         </tr>
     </table>
 </div>
+
 
 
 <!-- Repo Notice Image -->
