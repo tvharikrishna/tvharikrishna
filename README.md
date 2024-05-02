@@ -41,9 +41,9 @@
         </tr>
         <tr>
             <td><a href="URL_HERE"><b>Motion_Planning</b></a></td>
-            <td>Path Planning & Motion Control</td>
+            <td>Path & Motion Algorithms</td>
             <td align="center">2</td>
-            <td align="right">Nvidia Isaac, Gazebo, Grid Based Path Animations</td>
+            <td align="right">Nvidia Isaac, Gazebo, Path Animations</td>
         </tr>
         <tr>
             <td><a href="URL_HERE"><b>3D_Computer_Vision</b></a></td>
@@ -65,7 +65,7 @@
         </tr>
         <tr>
             <td><a href="URL_HERE"><b>Legged_Robots</b></a></td>
-            <td>Bipedal & Quadrupedal Robots</td>
+            <td>Bi & Quadrupedal Robots</td>
             <td align="center">0</td>
             <td align="right">Nvidia Isaac, Bullet Physics, MuJuCo</td>
         </tr>
