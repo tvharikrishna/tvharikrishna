@@ -25,49 +25,59 @@
             <th><b>Repo Prefix</b></th>
             <th><b>Repo Type / Project Type</b></th>
             <th><b>Number of Repos</b></th>
+            <th><b>Frameworks/Tools</b></th>
         </tr>
         <tr>
             <td><b>Wheeled_Mobile_Robots</b></td>
             <td>Hands on Mobile Robot(HK-BOT) & Isaac/Gazebo</td>
-            <td align="center">5</td>
+            <td align="center">6</td>
+            <td align="center">add here</td>
         </tr>
         <tr>
             <td><b>Autonomous_Vehicles</b></td>
             <td>Carla ∧ Apollo</td>
-            <td align="center">1</td>
+            <td align="center">2</td>
+            <td align="center">add here</td>
         </tr>
         <tr>
             <td><b>Motion_Planning</b></td>
             <td>Path Planning & Motion Control Algorithms</td>
             <td align="center">2</td>
+            <td align="center">add here</td>
         </tr>
         <tr>
             <td><b>3D_Computer_Vision</b></td>
             <td>SOTA ~ 3D Computer Vision Techniques</td>
             <td align="center">1</td>
+            <td align="center">add here</td>
         </tr>
         <tr>
             <td><b>AI_Vision</b></td>
-            <td>SOTA Models ~ Deep Learning Perception</td>
+            <td>Deep Learning Perception</td>
             <td align="center">0</td>
+            <td align="center">add here</td>
         </tr>
         <tr>
             <td><b>Robotic_Arm_Manipulation</b></td>
             <td>Manipulation & Grasping</td>
             <td align="center">1</td>
+            <td align="center">add here</td>
         </tr>
         <tr>
             <td><b>Legged_Robots</b></td>
             <td>Quadruped & Humanoids Robots</td>
             <td align="center">0</td>
+            <td align="center">add here</td>
         </tr>
         <tr>
             <td><b>Reinforcement_Learning</b></td>
             <td>Simulations on RL based Robots</td>
             <td align="center">1</td>
+            <td align="center">add here</td>
         </tr>
     </table>
 </div>
+
 
 <!-- Repo Notice Image -->
 <p align="center">
