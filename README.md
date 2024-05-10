@@ -55,7 +55,7 @@
             <td><a href="https://github.com/tvharikrishna/HariKrishna__AI_Vision"><b>AI_Vision</b></a></td>
             <td>Deep Learning Perception</td>
             <td align="center">0</td>
-            <td align="right">Keras, Pytorch, Tensorflow, ONNX</td>
+            <td align="right">Keras, Pytorch, Tensorflow</td>
         </tr>
         <tr>
             <td><a href="https://github.com/tvharikrishna/HariKrishna__Robotic_Arm_Manipulations"><b>Robotic_Arm_Manipulation</b></a></td>
