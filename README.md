@@ -6,8 +6,6 @@
     <img src="readme_data/gitcoverphoto.png" alt="Cover Photo" width="6510"/>
 </p> <br> <br> <br> <br>
 
-
-
 <!-- Secondary Title Image -->
 <p align="center">
     <img src="readme_data/title_2.png" alt="Repository Naming Title" width="970"/>
@@ -101,6 +99,13 @@
 </p>
 
 --- 
+
+<p align="center">
+    <img src="readme_data/gitlayot.png" alt="Cover Photo" width="6510"/>
+</p> <br> 
+
+---
+
 
 <!-- Connect with Me Title -->
 <p align="center">
