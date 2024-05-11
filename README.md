@@ -30,7 +30,7 @@
         <tr>
             <td><a href="https://github.com/tvharikrishna/HariKrishna__Wheeled_Mobile_Robots"><b>Wheeled_Mobile_Robots</b></a></td>
             <td>AMR</td>
-            <td align="center">6</td>
+            <td align="center">7</td>
             <td align="right">HK-BOT, Nvidia Isaac, Gazebo</td>
         </tr>
         <tr>
