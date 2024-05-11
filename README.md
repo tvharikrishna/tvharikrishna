@@ -1,17 +1,12 @@
 <!-- README: tvharikrishna-->
 <p align="right">© 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮, 𝟮𝟬𝟮𝟰</p>
 
-<!-- Main Title Image -->
-<p align="center">
-    <img src="readme_data/main_title_1.png" alt="Main Title" width="1500"/>
-</p>
-
 <!-- Cover Photo -->
 <p align="center">
-    <img src="readme_data/gitcoverphoto.png" alt="Cover Photo" width="800"/>
-</p>
+    <img src="readme_data/gitcoverphoto.png" alt="Cover Photo" width="6510"/>
+</p> <br> <br> <br> <br> <br> <br>
 
-<br>
+
 
 <!-- Secondary Title Image -->
 <p align="center">
