@@ -8,7 +8,7 @@
 
 <!-- Cover Photo -->
 <p align="center">
-    <img src="readme_data/git_cover_photo.png" alt="Cover Photo" width="700"/>
+    <img src="readme_data/gitcoverphoto.png" alt="Cover Photo" width="700"/>
 </p>
 
 <br>
