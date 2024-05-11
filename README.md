@@ -4,7 +4,7 @@
 <!-- Cover Photo -->
 <p align="center">
     <img src="readme_data/gitcoverphoto.png" alt="Cover Photo" width="6510"/>
-</p> <br> <br> <br> <br> <br> <br>
+</p> <br> <br> <br> <br>
 
 
 
