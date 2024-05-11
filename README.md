@@ -15,39 +15,70 @@
 
 <!-- Secondary Title Image -->
 <p align="center">
-    <img src="readme_data/title_2.png" alt="Repository Naming Title" width="740"/>
+    <img src="readme_data/title_2.png" alt="Repository Naming Title" width="970"/>
 </p>
 
-<!-- Dual Table for Repository Details -->
+<!-- Table for Repository Details -->
 <div align="center">
-<table>
- <tr>
-  <td valign="top"><img src="readme_data/table_repo.png" alt="Table Image" width="629" /></td>
-  <td valign="top">
-<table>
- <tr>
-  <th>Number of Repos<br><br></th>
- </tr>
- <tr>
-  <td align="center">5</td> <!-- ROS Robotics -->
- </tr>
- <tr>
-  <td align="center">3</td> <!-- HKBOT -->
- </tr>
- <tr>
-  <td align="center">2<br></td> <!-- Self Driving Cars -->
- </tr>
- <tr>
-  <td align="center">1<br></td> <!-- Computer Vision -->
- </tr>
- <tr>
-  <td align="center">0<br></td> <!-- AI Vision -->
- </tr>
- </table>
- </td>
- </tr>
-</table>
+    <table border="6" width="100%" style="border-collapse: collapse;">
+        <tr>
+            <th><b>Repo Prefix</b></th>
+            <th><b>Repo Type / Project Type</b></th>
+            <th><b>Number of Repos</b></th>
+            <th><b>Frameworks/Tools</b></th>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/tvharikrishna/HariKrishna__Wheeled_Mobile_Robots"><b>Wheeled_Mobile_Robots</b></a></td>
+            <td>AMR</td>
+            <td align="center">7</td>
+            <td align="right">HK-BOT, Nvidia Isaac, Gazebo</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/tvharikrishna/HariKrishna__Autonomous_Vehicles"><b>Autonomous_Vehicles</b></a></td>
+            <td>Self Driving Vehicles</td>
+            <td align="center">2</td>
+            <td align="right">Carla, Apollo</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/tvharikrishna/HariKrishna__Motion_Planning"><b>Motion_Planning</b></a></td>
+            <td>Path & Motion Algorithms</td>
+            <td align="center">2</td>
+            <td align="right">Nvidia Isaac, Gazebo, Path Animations</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/tvharikrishna/HariKrishna__3D_ComputerVision"><b>3D_Computer_Vision</b></a></td>
+            <td>2D/3D Computer Vision</td>
+            <td align="center">1</td>
+            <td align="right">OpenCV</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/tvharikrishna/HariKrishna__AI_Vision"><b>AI_Vision</b></a></td>
+            <td>Deep Learning Perception</td>
+            <td align="center">0</td>
+            <td align="right">Keras, Pytorch, Tensorflow</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/tvharikrishna/HariKrishna__Robotic_Arm_Manipulations"><b>Robotic_Arm_Manipulation</b></a></td>
+            <td>Cobots & AMMR</td>
+            <td align="center">1</td>
+            <td align="right">HK-BOT, Nvidia Isaac</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/tvharikrishna/HariKrishna__Legged_Robots"><b>Legged_Robots</b></a></td>
+            <td>Bi & Quadrupedal Robots</td>
+            <td align="center">0</td>
+            <td align="right">Nvidia Isaac, Bullet Physics, MuJuCo</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/tvharikrishna/HariKrishna__Reinforcement_Learning"><b>Reinforcement_Learning</b></a></td>
+            <td>RL Agents</td>
+            <td align="center">2</td>
+            <td align="right">Nvidia Isaac Gym, Bullet Physics, MuJuCo</td>
+        </tr>
+    </table>
 </div>
+
+
 
 <!-- Repo Notice Image -->
 <p align="center">
@@ -85,17 +116,11 @@
 
 <!-- Social Links and Contact Information -->
 <p align="center">
-  <a href="https://www.acsu.buffalo.edu/~talapala/"><img src="https://img.shields.io/badge/Portfolio-informational?style=for-the-badge&logo=Portfolio&logoColor=white&color=blue" alt="Portfolio" width="110"/></a> &nbsp; &nbsp; 
+  <a href="https://www.acsu.buffalo.edu/~harikrishna/"><img src="https://img.shields.io/badge/Portfolio-informational?style=for-the-badge&logo=Portfolio&logoColor=white&color=blue" alt="Portfolio" width="110"/></a> &nbsp; &nbsp; 
   <a href="https://www.linkedin.com/in/tvharikrishnahk/"><img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0077B5" alt="LinkedIn" width="125"/></a> &nbsp; &nbsp;
   <a href="https://www.youtube.com/@harikrishnaroboticsai/videos"><img src="https://img.shields.io/badge/YouTube-informational?style=for-the-badge&logo=YouTube&logoColor=white&color=red" alt="YouTube" width="113"/></a> &nbsp; &nbsp;
   <a href="https://poplme.co/F72Hr9Mk/dash"><img src="https://img.shields.io/badge/Visiting%20Card-%F0%9F%98%8A-informational?style=for-the-badge&logo=appveyor&color=lightgrey" alt="Visiting Card" width="190"/></a> &nbsp; &nbsp;
-</p>
-
-<br>
-
-<p align="center">
-    <img src="readme_data/right_to_work.png" alt="checkmate" width="888"/>
-</p>
+</p> <br>
 
 <!-- GitHub Status and Statistics -->
 <div align="center">
@@ -120,7 +145,15 @@
  </table>
 </div>
 
+<br>
+<br>
+<br>
+<br>
+
 <!-- Final Image -->
 <p align="center">
-    <img src="readme_data/hkend_motivation.png" alt="Checkmate Buddy" width="1000"/>
+    <img src="readme_data/harikrishna_motivation.png" alt="Checkmate Buddy" width="1000"/>
 </p>
+
+
+
