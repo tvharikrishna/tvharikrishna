@@ -102,7 +102,7 @@
 
 <p align="center">
     <img src="readme_data/gitlayot.png" alt="Cover Photo" width="6510"/>
-</p> <br> 
+</p>
 
 ---
 
