@@ -31,7 +31,7 @@
         <tr>
             <td><a href="https://github.com/tvharikrishna/HariKrishna__Autonomous_Vehicles"><b>Autonomous_Vehicles</b></a></td>
             <td>Self Driving Vehicles</td>
-            <td align="center">2</td>
+            <td align="center">3</td>
             <td align="right">Carla, Apollo</td>
         </tr>
         <tr>
@@ -43,7 +43,7 @@
         <tr>
             <td><a href="https://github.com/tvharikrishna/HariKrishna__3D_ComputerVision"><b>3D_Computer_Vision</b></a></td>
             <td>2D/3D Computer Vision</td>
-            <td align="center">1</td>
+            <td align="center">4</td>
             <td align="right">OpenCV</td>
         </tr>
         <tr>
@@ -84,7 +84,7 @@
 
 <!-- Total Repositories Badge -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-12-blue?style=flat-square&logo=github" style="width: 28%; height: auto;" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-19-blue?style=flat-square&logo=github" style="width: 28%; height: auto;" />
 </p>
 
 <br>
