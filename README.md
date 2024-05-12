@@ -1,17 +1,12 @@
 <!-- README: tvharikrishna-->
 <p align="right">© 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮, 𝟮𝟬𝟮𝟰</p>
 
-<!-- Main Title Image -->
-<p align="center">
-    <img src="readme_data/main_title_1.png" alt="Main Title" width="1500"/>
-</p>
-
 <!-- Cover Photo -->
 <p align="center">
-    <img src="readme_data/coverphoto.png" alt="Cover Photo" width="1111"/>
-</p>
+    <img src="readme_data/gitcoverphoto.png" alt="Cover Photo" width="6510"/>
+</p> <br> <br> <br> <br>
 
-<br>
+
 
 <!-- Secondary Title Image -->
 <p align="center">
@@ -36,7 +31,7 @@
         <tr>
             <td><a href="https://github.com/tvharikrishna/HariKrishna__Autonomous_Vehicles"><b>Autonomous_Vehicles</b></a></td>
             <td>Self Driving Vehicles</td>
-            <td align="center">2</td>
+            <td align="center">3</td>
             <td align="right">Carla, Apollo</td>
         </tr>
         <tr>
@@ -48,7 +43,7 @@
         <tr>
             <td><a href="https://github.com/tvharikrishna/HariKrishna__3D_ComputerVision"><b>3D_Computer_Vision</b></a></td>
             <td>2D/3D Computer Vision</td>
-            <td align="center">1</td>
+            <td align="center">4</td>
             <td align="right">OpenCV</td>
         </tr>
         <tr>
@@ -89,7 +84,7 @@
 
 <!-- Total Repositories Badge -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-11-blue?style=flat-square&logo=github" style="width: 24%; height: auto;" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-19-blue?style=flat-square&logo=github" style="width: 28%; height: auto;" />
 </p>
 
 <br>
@@ -116,9 +111,9 @@
 
 <!-- Social Links and Contact Information -->
 <p align="center">
-  <a href="https://www.acsu.buffalo.edu/~harikrishna/"><img src="https://img.shields.io/badge/Portfolio-informational?style=for-the-badge&logo=Portfolio&logoColor=white&color=blue" alt="Portfolio" width="110"/></a> &nbsp; &nbsp; 
+  <a href="https://www.acsu.buffalo.edu/~talapala/"><img src="https://img.shields.io/badge/Portfolio-informational?style=for-the-badge&logo=Portfolio&logoColor=white&color=blue" alt="Portfolio" width="110"/></a> &nbsp; &nbsp; 
   <a href="https://www.linkedin.com/in/tvharikrishnahk/"><img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0077B5" alt="LinkedIn" width="125"/></a> &nbsp; &nbsp;
-  <a href="https://www.youtube.com/@harikrishnaroboticsai/videos"><img src="https://img.shields.io/badge/YouTube-informational?style=for-the-badge&logo=YouTube&logoColor=white&color=red" alt="YouTube" width="113"/></a> &nbsp; &nbsp;
+  <a href="https://www.youtube.com/@harikrishnaroboticsai"><img src="https://img.shields.io/badge/YouTube-informational?style=for-the-badge&logo=YouTube&logoColor=white&color=red" alt="YouTube" width="113"/></a> &nbsp; &nbsp;
   <a href="https://poplme.co/F72Hr9Mk/dash"><img src="https://img.shields.io/badge/Visiting%20Card-%F0%9F%98%8A-informational?style=for-the-badge&logo=appveyor&color=lightgrey" alt="Visiting Card" width="190"/></a> &nbsp; &nbsp;
 </p> <br>
 
