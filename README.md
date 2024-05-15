@@ -98,7 +98,7 @@
 
 <p align="center">
     <img src="readme_data/gitlayot.png" alt="Cover Photo" width="6510"/>
-</p> <br> <br>
+</p> <br> 
 
 <div align="center">
     <img src="readme_data/red_line.png" alt="motion planning" width="6511"/>
@@ -107,7 +107,7 @@
 <!-- Connect with Me Title -->
 <p align="center">
     <img src="readme_data/title_3.png" alt="Connect with Me Title" width="400"/>
-</p>
+</p> <br> 
 
 <!-- Social Links and Contact Information -->
 <p align="center">
