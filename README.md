@@ -6,8 +6,6 @@
     <img src="readme_data/gitcoverphoto.png" alt="Cover Photo" width="6510"/>
 </p> <br> <br> <br> <br>
 
-
-
 <!-- Secondary Title Image -->
 <p align="center">
     <img src="readme_data/title_2.png" alt="Repository Naming Title" width="970"/>
@@ -55,7 +53,7 @@
         <tr>
             <td><a href="https://github.com/tvharikrishna/HariKrishna__Robotic_Arm_Manipulations"><b>Robotic_Arm_Manipulation</b></a></td>
             <td>Cobots & AMMR</td>
-            <td align="center">1</td>
+            <td align="center">2</td>
             <td align="right">HK-BOT, Nvidia Isaac</td>
         </tr>
         <tr>
@@ -84,7 +82,7 @@
 
 <!-- Total Repositories Badge -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-19-blue?style=flat-square&logo=github" style="width: 28%; height: auto;" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-20-blue?style=flat-square&logo=github" style="width: 28%; height: auto;" />
 </p>
 
 <br>
@@ -101,6 +99,14 @@
 </p>
 
 --- 
+--- 
+
+<p align="center">
+    <img src="readme_data/gitlayot.png" alt="Cover Photo" width="6510"/>
+</p>
+
+---
+
 
 <!-- Connect with Me Title -->
 <p align="center">
