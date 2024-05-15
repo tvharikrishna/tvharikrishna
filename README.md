@@ -92,28 +92,34 @@
   <img src="https://img.shields.io/badge/⚠️ NOTE⚠️ -important" alt="Note" />
 </p>
 
+<br>
+
 <!-- Note Content -->
 <p align="center">
   Some of my repositories 𝗹𝗮𝗰𝗸 𝗰𝗼𝗱𝗲 because they are related to 𝗰𝗼𝘂𝗿𝘀𝗲𝘄𝗼𝗿𝗸 from SUNY Buffalo. <br>
   In compliance with the 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗮𝘁 𝗕𝘂𝗳𝗳𝗮𝗹𝗼'𝘀 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗜𝗻𝘁𝗲𝗴𝗿𝗶𝘁𝘆 𝗣𝗼𝗹𝗶𝗰𝘆, it is prohibited to upload code to any online platform.
 </p>
-
---- 
---- 
+<br><br>
+<div align="center">
+    <img src="readme_data/red_line.png" alt="motion planning" width="6511"/>
+</div> <br><br>
 
 <p align="center">
     <img src="readme_data/gitlayot.png" alt="Cover Photo" width="6510"/>
 </p>
 
----
 
+<br><br>
+<div align="center">
+    <img src="readme_data/red_line.png" alt="motion planning" width="6511"/>
+</div> <br><br>
 
 <!-- Connect with Me Title -->
 <p align="center">
     <img src="readme_data/title_3.png" alt="Connect with Me Title" width="400"/>
 </p>
 
-<br>
+
 
 <!-- Social Links and Contact Information -->
 <p align="center">
