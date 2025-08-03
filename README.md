@@ -11,19 +11,111 @@ I’m T V Hari Krishna, a Robotics and AI Engineer specializing in simulation, p
 
 ---
 
-## 🧑‍💻💻 Skills:
+## ⚙️ Skills Summary
 
-| *Category*        | *Technologies* |
-|------------------|----------------|
-| *Languages*      | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) |
-| *Libraries*      | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?logo=scikitlearn&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?logo=python&logoColor=white) ![YOLO](https://img.shields.io/badge/-YOLO-FFDD00?logo=yolo&logoColor=black) |
-| *Tools*          | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Gazebo](https://img.shields.io/badge/-Gazebo-005E95?logo=gazebo&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Keil uVision](https://img.shields.io/badge/-Keil_uVision-0098D9?logo=keil&logoColor=white) ![Proteus](https://img.shields.io/badge/-Proteus-00A4A6?logo=proteus&logoColor=white) |
-| *Robotics*       | ![ROS2 Galactic](https://img.shields.io/badge/-ROS2%20Galactic-22314E?logo=ros&logoColor=white) ![MoveIt](https://img.shields.io/badge/-MoveIt-005696?logo=ros&logoColor=white) ![Webots](https://img.shields.io/badge/-Webots-00A878?logo=cyberbotics&logoColor=white) |
-| *Hardware*       | ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white) ![VEX Robot](https://img.shields.io/badge/-VEX%20Robot-CC0000?logo=vexrobotics&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) |
-| *Design Software*| ![SolidWorks](https://img.shields.io/badge/-SolidWorks-EA7610?logo=solidworks&logoColor=white) ![AutoCAD](https://img.shields.io/badge/-AutoCAD-F59D00?logo=autodesk&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white) |
-| *Math/ML Tools*  | ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white) ![Simulink](https://img.shields.io/badge/-Simulink-0076A8?logo=mathworks&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) |
-| *Documentation*  | ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white) |
-| *Others*         | SLAM, UML, VLOOKUP, OOP, Unit Testing |
+### 🧭 Motion Control Algorithms
+PID, LQR, LQG, Static Feedback, Pure Pursuit, Stanley, MPC, SMC
+
+### 🧭 Motion Planning Libraries
+![MoveIt](https://img.shields.io/badge/MoveIt-FF0000.svg?&style=flat-square&logo=ros&logoColor=white)
+![OMPL](https://img.shields.io/badge/Open%20Motion%20Planning%20Library-007ACC.svg?&style=flat-square&logo=ros&logoColor=white)
+
+---
+
+### 🧪 Frameworks & Simulators
+![ROS2](https://img.shields.io/badge/ROS-22314E.svg?&style=flat-square&logo=ros&logoColor=white)
+![NVIDIA Isaac Sim](https://img.shields.io/badge/Nvidia%20Isaac-76B900.svg?&style=flat-square&logo=nvidia&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-007ACC.svg?&style=flat-square&logo=ros&logoColor=white)
+![CARLA](https://img.shields.io/badge/CARLA-FF0000.svg?&style=flat-square&logo=tesla&logoColor=white)
+![Apollo](https://img.shields.io/badge/Apollo-0000FF.svg?&style=flat-square&logo=tesla&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Open3D](https://img.shields.io/badge/Open3D-29334C?style=flat-square&logo=iota&logoColor=white)
+![PCL](https://img.shields.io/badge/PCL-DD0031?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+## 🤖 Artificial Intelligence
+
+### Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-blue.svg?&style=flat-square&logo=xgboost&logoColor=skyblue)
+![MLflow](https://img.shields.io/badge/MLflow-017CEE.svg?&style=flat-square&logo=mlflow&logoColor=white)
+
+### Deep Learning
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![MXNet](https://img.shields.io/badge/MXNet-D941C5.svg?&style=flat-square&logo=mdx&logoColor=white)
+
+### Reinforcement Learning
+![MuJoCo](https://img.shields.io/badge/Mojoco-008080.svg?&style=flat-square&logo=Brave&logoColor=white)
+![PyBullet](https://img.shields.io/badge/Bullet%20Physics-FFA500.svg?&style=flat-square&logo=deno&logoColor=464647)
+![Isaac Gym](https://img.shields.io/badge/Nvidia%20Isaac%20Gym-76B900.svg?&style=flat-square&logo=nvidia&logoColor=white)
+
+---
+
+## 🎨 3D Modeling & Graphics
+
+![Fusion 360](https://img.shields.io/badge/Fusion_360-F5792A.svg?&style=flat-square&logo=autodesk&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A.svg?&style=flat-square&logo=blender&logoColor=white)
+
+---
+
+## 🛠️ Basic Skills
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-FFDD54?style=flat-square&logo=python&logoColor=3670A0)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### Markup Languages
+![URDF](https://img.shields.io/badge/URDF-22314E.svg?&style=flat-square&logo=ros&logoColor=white)
+![XML](https://img.shields.io/badge/XML-22314E.svg?&style=flat-square&logo=ros&logoColor=white)
+![Xacro](https://img.shields.io/badge/Xacro-22314E.svg?&style=flat-square&logo=ros&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML%20-22314E.svg?&style=flat-square&logo=yaml&logoColor=white)
+
+### Python Libraries
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-8B0000?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+### C++ Libraries
+![STL](https://img.shields.io/badge/STL-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Eigen](https://img.shields.io/badge/Eigen-003545?style=flat-square&logo=hackthebox&logoColor=white)
+![Boost](https://img.shields.io/badge/Boost-00599C?style=flat-square&logo=boost&logoColor=white)
+![Ceres Solver](https://img.shields.io/badge/Ceres%20Solver-8B0000?style=flat-square&logo=aiqfome&logoColor=white)
+
+### Build Systems
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Bazel](https://img.shields.io/badge/Bazel-121D33?style=flat-square&logo=blockchaindotcom&logoColor=fff)
+![Make](https://img.shields.io/badge/GNU%20Make-000000?style=flat-square&logo=gnu&logoColor=white)
+
+### Debugging & Profiling
+![Valgrind](https://img.shields.io/badge/Valgrind-59666C?style=flat-square&logo=deepin&logoColor=white)
+![GDB](https://img.shields.io/badge/GBD-333333?style=flat-square&logo=gnu&logoColor=white)
+![Dr.Memory](https://img.shields.io/badge/Dr.Memory-0078D6?style=flat-square&logo=windows-terminal&logoColor=white)
+![gProfiler](https://img.shields.io/badge/gProfiler-000000?style=flat-square&logo=icq&logoColor=42F425)
+![VS Profiler](https://img.shields.io/badge/Visual%20Studio%20Profiler-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![perf](https://img.shields.io/badge/perf-000000?style=flat-square&logo=linux&logoColor=white)
+![PySpy](https://img.shields.io/badge/PySpy-FFDD54?style=flat-square&logo=python&logoColor=3670A0)
+
+### Containerization & Version Control
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git_Bash-000000?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows-95&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 🧮 Applied Mathematics
+
+Linear Algebra, Statistics, Probability, Objective Functions, Regularization, Information Theory, Optimizations, Distributions, Fundamentals of Mathematics, Algebra, Combinatorics, Modular Arithmetic, Number Theory, Graph Theory, Geometry, Vector Calculus, Numerical Optimizations.
 
 ---
 
