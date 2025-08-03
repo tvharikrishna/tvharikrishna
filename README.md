@@ -1,16 +1,13 @@
 
 # 👋 Hi there! Welcome to my GitHub!
 
-I’m **T V Hari Krishna**, a Robotics and AI Engineer specializing in *simulation*, *perception*, and *model deployment*. 🚀 
-
----
+I’m T V Hari Krishna, a Robotics and AI Engineer specializing in simulation, perception, and model deployment for autonomous systems. I’ve built full-stack robotics pipelines using tools like ROS2, Isaac Sim, MuJoCo, and Google Cloud Platform, integrating deep learning models such as DINO, SAM, and YOLOv5 for real-world performance. My work spans humanoid and ground robots, focusing on scalable, production-ready systems that bridge research and deployment. Passionate about embodied AI, I aim to bring cutting-edge models into the physical world through robust engineering and continuous innovation.
 
 ## 🔗 Connect with Me:
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/tvharikrishna) &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tvhari-krsna/) &nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?logo=githubpages&logoColor=white)](https://tvharikrishna.github.io/) &nbsp;&nbsp;
-[![Resume](https://img.shields.io/badge/-Resume-0077B5?logo=readme&logoColor=white)](https://tvharikrishna.github.io/#resume)
 
 ---
 
