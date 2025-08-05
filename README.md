@@ -33,12 +33,6 @@ I’m T V Hari Krishna, a Robotics and AI Engineer specializing in simulation, p
 
 ---
 
-## 🧮 Applied Mathematics
-
-Linear Algebra, Statistics, Probability, Objective Functions, Regularization, Information Theory, Optimizations, Distributions, Fundamentals of Mathematics, Algebra, Combinatorics, Modular Arithmetic, Number Theory, Graph Theory, Geometry, Vector Calculus, Numerical Optimizations.
-
----
-
 ## ⚙️ GitHub Statistics
 
 <!-- ![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=tvharikrishna&show_icons=true&theme=radical)  -->
