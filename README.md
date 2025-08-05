@@ -11,7 +11,7 @@ I’m T V Hari Krishna, a Robotics and AI Engineer specializing in simulation, p
 
 ---
 
-## ⚙️ Skills Summary
+## ⚙️ Technical Skills
 
 | **Category**               | **Technologies** |
 |---------------------------|------------------|
