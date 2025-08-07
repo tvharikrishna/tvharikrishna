@@ -1,7 +1,13 @@
 
 # 👋 Hi there! Welcome to my GitHub!
 
-I’m T V Hari Krishna, a Robotics and AI Engineer specializing in simulation, perception, and model deployment for autonomous systems. I’ve built full-stack robotics pipelines using tools like ROS2, Isaac Sim, MuJoCo, and Google Cloud Platform, integrating deep learning models such as DINO, SAM, and YOLOv5 for real-world performance. My work spans humanoid and ground robots, focusing on scalable, production-ready systems that bridge research and deployment. Passionate about embodied AI, I aim to bring cutting-edge models into the physical world through robust engineering and continuous innovation.
+T V Hari Krishna is a full-stack roboticist specializing in the development of embodied agents that combine perception, reasoning, and action in dynamic environments. He builds intelligent robotic systems through simulation-driven development and applied machine learning research, focusing on scalable autonomy and real-world deployment.
+
+His work spans high-fidelity simulation platforms including NVIDIA Isaac Sim, NVIDIA Isaac Lab, Newton Physics, MuJoCo, BraX, Gazebo, DiffTaichi, and Habitat. These environments support robust prototyping and benchmarking of embodied agents, enabling rapid iteration in navigation, manipulation, and interactive learning tasks.
+
+In the robotics domain, he has hands-on expertise in building autonomous mobile robots and robotic manipulators, integrating full-stack systems from sensing to control. He has developed and deployed AI-accelerated robotic platforms powered by NVIDIA Jetson boards, optimizing real-time performance for tasks like visual navigation, grasping, and dynamic interaction.
+
+On the AI side, he works with state-of-the-art machine learning research libraries spanning reinforcement learning, vision-language models, and scalable training pipelines. His toolset includes modern frameworks used in robotics and AI research, enabling the design of adaptive, generalizable agents that bridge the gap between simulation and the real world.
 
 ## 🔗 Connect with Me:
 
