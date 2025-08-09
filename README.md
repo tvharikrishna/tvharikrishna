@@ -3,7 +3,7 @@
 
 T V Hari Krishna is a full-stack roboticist specializing in the development of embodied agents that combine perception, reasoning, and action in dynamic environments. He builds intelligent robotic systems through simulation-driven development and applied machine learning research, focusing on scalable autonomy and real-world deployment.
 
-His work spans high-fidelity simulation platforms including NVIDIA Isaac Sim, NVIDIA Isaac Lab, Newton Physics, MuJoCo, BraX, Gazebo, DiffTaichi, and Habitat. These environments support robust prototyping and benchmarking of embodied agents, enabling rapid iteration in navigation, manipulation, and interactive learning tasks.
+His work spans high-fidelity, differentiable, GPU-accelerated physics simulation platforms including NVIDIA Isaac Sim, NVIDIA Isaac Lab, Newton Physics, MuJoCo, BraX, Gazebo, DiffTaichi, and Habitat. These environments support robust prototyping and benchmarking of embodied agents, enabling rapid iteration in navigation, manipulation, and interactive learning tasks.
 
 In the robotics domain, he has hands-on expertise in building autonomous mobile robots and robotic manipulators, integrating full-stack systems from sensing to control. He has developed and deployed AI-accelerated robotic platforms powered by NVIDIA Jetson boards, optimizing real-time performance for tasks like visual navigation, grasping, and dynamic interaction.
 
