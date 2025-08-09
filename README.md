@@ -1,21 +1,31 @@
-
 # 👋 Hi there! Welcome to my GitHub!!
 
-T V Hari Krishna is a full-pipeline roboticist and AI engineer specializing in Classical Robotics, Embodied Agents, and Machine Learning solutions that integrate perception, reasoning, and action in dynamic environments. He develops intelligent systems through simulation-driven workflows and applied ML/DL, with a focus on scalable autonomy and real-world deployment.
+<p align="justify">
+T V Hari Krishna is a full-pipeline roboticist and AI engineer specializing in <span style="color:red"><b>Classical Robotics</b></span>, <span style="color:red"><b>Embodied Agents</b></span>, and <span style="color:red"><b>Machine Learning</b></span> solutions that integrate perception, reasoning, and action in dynamic environments. He develops intelligent systems through simulation-driven workflows and applied ML/DL, with a focus on scalable autonomy and real-world deployment.
+</p>
 
-His expertise spans high-fidelity, differentiable, GPU-accelerated simulation platforms including Newton Physics, Brax, NVIDIA Isaac Sim, NVIDIA Isaac Lab, MuJoCo, Gazebo, DiffTaichi, and Habitat. These environments enable robust prototyping and benchmarking of embodied agents, supporting rapid iteration in navigation, manipulation, and interactive learning tasks.
+<p align="justify">
+In the <span style="color:red"><b>Physics Simulation & Reinforcement Learning domain,</b></span> his expertise spans high-fidelity, differentiable, GPU-accelerated simulation platforms including Newton Physics, Brax, NVIDIA Isaac Sim, NVIDIA Isaac Lab, MuJoCo, Gazebo, DiffTaichi, and Habitat. These environments enable robust prototyping and benchmarking of embodied agents, supporting rapid iteration in navigation, manipulation, and interactive learning tasks.
+</p>
 
-In the **Classical Robotics domain,** he has extensive experience in building autonomous mobile robots and robotic manipulators, delivering full-stack solutions from concept to deployment. Leveraging ROS2 and simulation-first development, he has executed successful Sim-to-Real transfers on NVIDIA Jetson-powered platforms for autonomous navigation, mapping, and grasping.
+<p align="justify">
+In the <span style="color:red"><b>Classical Robotics domain,</b></span> he has extensive experience in building autonomous mobile robots and robotic manipulators, delivering full-stack solutions from concept to deployment. Leveraging ROS2 and simulation-first development, he has executed successful Sim-to-Real transfers on NVIDIA Jetson-powered platforms for autonomous navigation, mapping, and grasping.
+</p>
 
-In the **Classical Machine Learning & Deep Learning domain,** he works with Keras, TensorFlow, and PyTorch to build and deploy models for structured data, images, and audio. His work covers classification, detection, segmentation, forecasting, anomaly detection, and recommendation systems, with applications in finance, healthcare, and retail. He applies advanced data preprocessing, feature engineering, and model optimization techniques to deliver accurate and scalable AI solutions.
+<p align="justify">
+In the <span style="color:red"><b>Classical Machine Learning & Deep Learning domain,</b></span> he works with Keras, TensorFlow, and PyTorch to build and deploy models for structured data, images, and audio. His work covers classification, detection, segmentation, forecasting, anomaly detection, and recommendation systems, with applications in finance, healthcare, and retail. He applies advanced data preprocessing, feature engineering, and model optimization techniques to deliver accurate and scalable AI solutions.
+</p>
 
+<p align="justify">
 Beyond technical expertise, he has demonstrated strong leadership in robotics communities and organizations, leading large-scale technical teams, mentoring engineers, and organizing national-level robotics events. His leadership approach combines strategic vision, technical excellence, and a collaborative culture to drive innovation and deliver high-impact real-world solutions.
+</p>
 
-## 🔗 Connect with Me:
+## 🔗 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/tvharikrishna) &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tvhari-krsna/) &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?logo=githubpages&logoColor=white)](https://tvharikrishna.github.io/) &nbsp;&nbsp;
+| [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/tvharikrishna) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tvhari-krsna/) | [![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?logo=githubpages&logoColor=white)](https://tvharikrishna.github.io/) |
+|---|---|---|
+
+
 
 ---
 
