@@ -1,13 +1,13 @@
 
 # 👋 Hi there! Welcome to my GitHub!!
 
-T V Hari Krishna is a full-stack roboticist specializing in the development of embodied agents that combine perception, reasoning, and action in dynamic environments. He builds intelligent robotic systems through simulation-driven development and applied machine learning research, focusing on scalable autonomy and real-world deployment.
+T V Hari Krishna is a full-pipeline roboticist and AI engineer specializing in Classical Robotics, Embodied Agents, and Machine Learning solutions that combine perception, reasoning, and action in dynamic environments. He builds intelligent systems through simulation-driven development and applied ML/DL, with a focus on scalable autonomy and real-world deployment.
 
-His work spans high-fidelity, differentiable, GPU-accelerated physics simulation platforms including NVIDIA Isaac Sim, NVIDIA Isaac Lab, Newton Physics, MuJoCo, BraX, Gazebo, DiffTaichi, and Habitat. These environments support robust prototyping and benchmarking of embodied agents, enabling rapid iteration in navigation, manipulation, and interactive learning tasks.
+In the **Physics Simulation & Reinforcement Learning Domain**, his work spans high-fidelity, differentiable, GPU-accelerated simulation platforms, including Newton Physics, Brax, NVIDIA Isaac Sim, NVIDIA Isaac Lab, MuJoCo, Gazebo, DiffTaichi, and Habitat. These environments support robust prototyping and benchmarking of embodied agents, enabling rapid iteration in navigation, manipulation, and interactive learning tasks.
 
-In the robotics domain, he has hands-on expertise in building autonomous mobile robots and robotic manipulators, integrating full-stack systems from sensing to control. He has developed and deployed AI-accelerated robotic platforms powered by NVIDIA Jetson boards, optimizing real-time performance for tasks like visual navigation, grasping, and dynamic interaction.
+In the **Classical Robotics Domain**, he has hands-on expertise in building autonomous mobile robots and robotic manipulators, integrating full-stack systems from concept and design through to deployment. Leveraging ROS2-based architectures and simulation-first development, he has executed successful Sim-to-Real transfers for AI-accelerated robotic platforms powered by NVIDIA Jetson boards, optimizing real-time performance for tasks such as visual navigation, grasping, and dynamic interaction.
 
-On the AI side, he works with state-of-the-art machine learning research libraries spanning reinforcement learning, vision-language models, and scalable training pipelines. His toolset includes modern frameworks used in robotics and AI research, enabling the design of adaptive, generalizable agents that bridge the gap between simulation and the real world.
+In the **Classical Machine Learning & Deep Learning Domain**, he works with Keras, TensorFlow, and PyTorch to build and deploy models for structured data, images, and audio. His experience includes classification, detection, segmentation, forecasting, anomaly detection, and recommendation systems. Beyond robotics datasets, he has applied ML workflows to domains such as finance, healthcare, and retail, leveraging data preprocessing, feature engineering, and model optimization to deliver accurate and scalable AI solutions.
 
 ## 🔗 Connect with Me:
 
