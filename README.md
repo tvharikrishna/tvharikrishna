@@ -29,7 +29,7 @@ Beyond technical expertise, he has demonstrated strong leadership in robotics co
 
 ---
 
-## 🫨 Technical Skills
+# 🫨 Technical Skills
 
 | **Category**               | **Technologies** |
 |---------------------------|------------------|
@@ -51,7 +51,7 @@ Beyond technical expertise, he has demonstrated strong leadership in robotics co
 
 ---
 
-## 🤕 GitHub Statistics
+# 🤕 GitHub Statistics
 
 <!-- ![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=tvharikrishna&show_icons=true&theme=radical)  -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tvharikrishna&layout=compact)
