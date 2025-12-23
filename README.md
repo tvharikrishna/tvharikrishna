@@ -26,7 +26,8 @@ Love working in simulation and robotics system integration, creating physics-bas
   <img src="readme_data/sshme@.png" alt="ssh me @" width="250"/>
 </td>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://yourportfolio.link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinusername/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=%23FF7139)](https://tvharikrishna.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=qq&logoColor=white)](https://www.linkedin.com/in/tvhari-krsna/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@yourchannel)
 <br><br>
+
