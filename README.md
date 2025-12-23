@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="readme_data/header.png" alt="Header GIF" width="265"/>
+  <img src="readme_data/logo.png" alt="Header GIF" width="265"/>
 </p>
 
 <img src="readme_data/whoami.png" alt="whoami" width="233"/>
