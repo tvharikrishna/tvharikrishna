@@ -18,7 +18,9 @@ Love working in simulation and robotics system integration, creating physics-bas
 </td>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 ![NVIDIA Isaac Sim](https://img.shields.io/badge/NVIDIA%20Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white&labelColor=76B900&color=76B900)
+
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 <br><br>
 
@@ -27,7 +29,9 @@ Love working in simulation and robotics system integration, creating physics-bas
 </td>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=%23FF7139)](https://tvharikrishna.github.io/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=qq&logoColor=white)](https://www.linkedin.com/in/tvhari-krsna/)
+
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@yourchannel)
 <br><br>
 
