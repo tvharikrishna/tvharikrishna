@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="readme_data/titleimage.png" alt="Header GIF" width="265"/>
+  <img src="readme_data/titleimage.png" alt="Header GIF" width="665511"/>
 </p>
 
 <img src="readme_data/whoami.png" alt="whoami" width="233"/>
@@ -32,4 +32,5 @@ Love working in simulation and robotics system integration, creating physics-bas
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@buildwith_hk)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/buildwith_hk/)
 <br><br>
+
 
